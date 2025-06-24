@@ -1,0 +1,43 @@
+És pecat 1 (2024-03-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6264319
+Titol: T1xC1
+MQ: https://mp4-down-medium-es.ccma.cat/1/5/1707014326051.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/7/1707014361877.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/2/1707024510427.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1707024511010.xml
+
+
+És pecat 2 (2024-03-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6270624
+Titol: T1xC2
+MQ: https://mp4-down-medium-es.ccma.cat/2/9/1710038000592.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1710038035895.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/5/1710048516455.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/9/1710048517098.xml
+
+
+És pecat 3 (2024-03-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6270857
+Titol: T1xC3
+MQ: https://mp4-down-medium-es.ccma.cat/6/2/1710209333526.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/4/1710209372443.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1710210556506.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/1/1710210559315.xml
+
+
+És pecat 4 (2024-03-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6270856
+Titol: T1xC4
+MQ: https://mp4-down-medium-es.ccma.cat/5/5/1710209153755.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/0/1710209190206.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/8/1710210553987.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/1/1710210554819.xml
+
+
+És pecat 5 (2024-03-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6270855
+Titol: T1xC5
+MQ: https://mp4-down-medium-es.ccma.cat/8/9/1710208975998.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/5/1710209017555.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1710210551754.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/9/1710210552396.xml

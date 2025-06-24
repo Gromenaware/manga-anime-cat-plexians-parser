@@ -1,0 +1,567 @@
+Avatar: l'últim mestre de l'aire 1 (2019-01-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527431
+Titol: El nen de l'iceberg
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/3/1365506794234.mp4
+HQ: [{'file': 'https://mp4-down-high-es.ccma.cat/4/1/1365506854914.mp4', 'label': '720p', 'active': True}, {'file': 'https://mp4-down-medium-es.ccma.cat/4/3/1365506794234.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/9/1544750863297.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/5/1439186673357.xml
+
+
+Avatar: l'últim mestre de l'aire 2 (2019-01-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527299
+Titol: El retorn de l'Avatar
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/8/1365507795984.mp4
+HQ: [{'file': 'https://mp4-down-high-es.ccma.cat/1/3/1365507880531.mp4', 'label': '720p', 'active': True}, {'file': 'https://mp4-down-medium-es.ccma.cat/4/8/1365507795984.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1544750861668.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/6/1438941784768.xml
+
+
+Avatar: l'últim mestre de l'aire 1 (2019-01-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527431
+Titol: El nen de l'iceberg
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/3/1365506794234.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/1/1365506854914.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/9/1544750863297.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/5/1439186673357.xml
+
+
+Avatar: l'últim mestre de l'aire 2 (2019-01-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527299
+Titol: El retorn de l'Avatar
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/8/1365507795984.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/3/1365507880531.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1544750861668.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/6/1438941784768.xml
+
+
+Avatar: l'últim mestre de l'aire 3 (2019-01-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527300
+Titol: El temple de l'aire del Sud
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/6/1365508123968.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/1/1365508181619.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1544750859847.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/4/1439186669746.xml
+
+
+Avatar: l'últim mestre de l'aire 4 (2019-01-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527515
+Titol: Les guerreres de Kyoshi
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/1/1365510488817.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1365510542702.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1544750775834.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/7/1439186661376.xml
+
+
+Avatar: l'últim mestre de l'aire 5 (2019-01-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527591
+Titol: El rei d'Omashu
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/1/1365510980015.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/1/1365511033317.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/6/1544750773865.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/6/1438972037463.xml
+
+
+Avatar: l'últim mestre de l'aire 6 (2019-01-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527631
+Titol: Empresonats
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/4/1365511508048.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/0/1365511561408.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1544750771875.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/8/1438972033883.xml
+
+
+Avatar: l'últim mestre de l'aire 7 (2019-01-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527831
+Titol: El món dels esperits: el solstici d'hivern (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/8/1365514118883.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/9/1365514178198.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/2/1544750719620.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/6/1438946875860.xml
+
+
+Avatar: l'últim mestre de l'aire 8 (2019-01-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527871
+Titol: L'Avatar Roku: el solstici d'hivern (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/7/1365514722672.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1365514785234.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1544750718247.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/0/1438967188309.xml
+
+
+Avatar: l'últim mestre de l'aire 9 (2019-01-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527892
+Titol: El rotlle de domini de l'aigua
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/9/1365515839894.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/0/1365515903104.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1544750716847.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1439186655648.xml
+
+
+Avatar: l'últim mestre de l'aire 10 (2019-01-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527915
+Titol: Jet
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/9/1365516453298.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/8/1365516512487.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/9/1544750672692.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/6/1439186652161.xml
+
+
+Avatar: l'últim mestre de l'aire 11 (2019-01-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4527991
+Titol: La gran divisió
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/1/1365517889217.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/3/1365517947139.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/1/1544750671518.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/8/1438946872289.xml
+
+
+Avatar: l'últim mestre de l'aire 12 (2019-01-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528011
+Titol: La tempesta
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/1/1365518158719.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1365518213588.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1544750670326.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1438934555067.xml
+
+
+Avatar: l'últim mestre de l'aire 13 (2019-01-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528193
+Titol: L'esperit blau
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/8/1365521260986.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/5/1365521317856.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/6/1544750668967.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/3/1438941780837.xml
+
+
+Avatar: l'últim mestre de l'aire 14 (2019-01-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528232
+Titol: L'endevina
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/9/1365521800995.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/1/1365521861711.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/5/1544750636050.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/9/1439186648495.xml
+
+
+Avatar: l'últim mestre de l'aire 15 (2019-01-17)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528251
+Titol: En Bato de la tribu a l'aire
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1365522297621.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/9/1365522356398.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/9/1544750634797.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1439186645099.xml
+
+
+Avatar: l'últim mestre de l'aire 16 (2019-01-17)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528295
+Titol: El desertor
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/4/1365525640943.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1365525698433.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/4/1544750633448.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1439186641785.xml
+
+
+Avatar: l'últim mestre de l'aire 17 (2019-01-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528315
+Titol: El temple de l'aire del nord
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/7/1365525729675.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/9/1365525785591.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/1/1544750632213.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1439186638435.xml
+
+
+Avatar: l'últim mestre de l'aire 18 (2019-01-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528333
+Titol: El mestre de domini de l'aigua
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/6/1365526687661.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/7/1365526746170.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/8/1544750594883.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/7/1438934548873.xml
+
+
+Avatar: l'últim mestre de l'aire 19 (2019-01-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4531791
+Titol: El setge del nord (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/5/1365701199258.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/8/1365701258086.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/7/1544750593578.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/0/1439186630502.xml
+
+
+Avatar: l'últim mestre de l'aire 20 (2019-01-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4531793
+Titol: El setge del nord (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/3/1365702044734.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/8/1365702104580.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/8/1544750592280.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/1/1438946866917.xml
+
+
+Avatar: l'últim mestre de l'aire 21 (2019-01-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4531813
+Titol: L'estat d'Avatar
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1365702313885.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/9/1365702367192.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/6/1544750591067.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/0/1439186627401.xml
+
+
+Avatar: l'últim mestre de l'aire 22 (2019-01-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528851
+Titol: La cova dels enamorats
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/6/1365551325465.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1365551380190.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/3/1544750506031.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/2/1438941777020.xml
+
+
+Avatar: l'últim mestre de l'aire 23 (2019-01-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528831
+Titol: El retorn a Omashu
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/7/1365551241771.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/0/1365551294000.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/5/1544750504856.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/5/1439186624253.xml
+
+
+Avatar: l'últim mestre de l'aire 24 (2019-01-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528871
+Titol: El pantà
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/5/1365551798750.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/4/1365551837840.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1544750503507.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/5/1439186621156.xml
+
+
+Avatar: l'últim mestre de l'aire 25 (2019-01-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528832
+Titol: El dia de l'Avatar
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/9/1365551957492.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/2/1365552016026.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/2/1544750502227.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/1/1438946863714.xml
+
+
+Avatar: l'últim mestre de l'aire 26 (2019-01-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528891
+Titol: La bandida cega
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/4/1365552675247.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/5/1365552732150.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/7/1544750475378.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/7/1439186612670.xml
+
+
+Avatar: l'últim mestre de l'aire 27 (2019-01-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4528835
+Titol: En Zuko sol
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/4/1365553421340.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/0/1365553476608.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/4/1544750474049.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/2/1439186609228.xml
+
+
+Avatar: l'últim mestre de l'aire 28 (2019-01-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4530453
+Titol: La persecució
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/6/1365638218668.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1365638285825.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1544750472825.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/2/1439186605824.xml
+
+
+Avatar: l'últim mestre de l'aire 29 (2019-01-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4530455
+Titol: Dur com una pedra
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/9/1365638693594.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/6/1365638797564.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/8/1544750471483.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/7/1439186602274.xml
+
+
+Avatar: l'últim mestre de l'aire 30 (2019-01-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4530456
+Titol: La biblioteca
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/3/1365639194035.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1365639277472.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/2/1544750443323.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/1/1438970440918.xml
+
+
+Avatar: l'últim mestre de l'aire 31 (2019-01-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4532291
+Titol: El desert
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/7/1365724302271.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/5/1365724361659.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/0/1544750441808.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/2/1438946855528.xml
+
+
+Avatar: l'últim mestre de l'aire 32 (2019-01-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4532294
+Titol: Viatge a Ba Sing Se: el pas de la serp
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1365724985920.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/2/1365725075624.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/6/1544750440469.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/4/1439186596043.xml
+
+
+Avatar: l'últim mestre de l'aire 33 (2019-01-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4532311
+Titol: La perforadora
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/3/1365725482335.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/3/1365725538732.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1544750439059.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/8/1439186592584.xml
+
+
+Avatar: l'últim mestre de l'aire 34 (2019-01-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4533651
+Titol: La ciutat de les muralles i els secrets
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/3/1365810740635.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/5/1365810807053.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/4/1544750413445.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1439186589210.xml
+
+
+Avatar: l'últim mestre de l'aire 35 (2019-01-31)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4533633
+Titol: Els contes de Ba Sing Se
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1365811422620.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1365811482190.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/2/1544750411923.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/7/1439186585879.xml
+
+
+Avatar: l'últim mestre de l'aire 36 (2019-01-31)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4533635
+Titol: Els dies perduts de l'Appa
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/3/1365811835735.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/3/1365811900635.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/1/1544750410419.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1438941773659.xml
+
+
+Avatar: l'últim mestre de l'aire 37 (2019-02-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4534211
+Titol: El llac Laogai
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1365896950985.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1365897014290.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/0/1544750408904.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/0/1439186582808.xml
+
+
+Avatar: l'últim mestre de l'aire 38 (2019-02-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4534232
+Titol: El rei de la terra
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/1/1365898446915.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/0/1365898509003.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/1/1544750379316.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/7/1438946851873.xml
+
+
+Avatar: l'últim mestre de l'aire 39 (2019-02-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4534231
+Titol: El guru
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/3/1365898237936.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1365898302909.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/8/1544750376885.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/6/1439186579168.xml
+
+
+Avatar: l'últim mestre de l'aire 40 (2019-02-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4534933
+Titol: Les disjuntives del destí
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/6/1365985127668.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/6/1365985184566.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/3/1544750375530.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1439186575532.xml
+
+
+Avatar: l'últim mestre de l'aire 41 (2019-02-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4534956
+Titol: El despertar
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/2/1365984954725.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/7/1365985024175.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/1/1544750374212.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/7/1439186572379.xml
+
+
+Avatar: l'últim mestre de l'aire 42 (2019-02-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4534971
+Titol: El mocador
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1365988001380.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/0/1365988063706.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1544750292789.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/7/1439186560373.xml
+
+
+Avatar: l'últim mestre de l'aire 43 (2019-02-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4539571
+Titol: La dama pintada
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/1/1366242622210.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/9/1366242680193.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1544750291568.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/2/1439186556126.xml
+
+
+Avatar: l'últim mestre de l'aire 44 (2019-02-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4539592
+Titol: El mestre d'en Sokka
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1366243769412.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/9/1366243850992.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/3/1544750290238.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1439186552335.xml
+
+
+Avatar: l'últim mestre de l'aire 45 (2019-02-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4539574
+Titol: La platja
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/6/1366243892463.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/4/1366243958246.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/7/1544750288976.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1439186548767.xml
+
+
+Avatar: l'últim mestre de l'aire 46 (2019-02-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4541511
+Titol: L'Avatar i el senyor del foc
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/1/1366329395313.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/7/1366329482178.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/9/1544750249195.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1438967162572.xml
+
+
+Avatar: l'últim mestre de l'aire 47 (2019-02-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4541531
+Titol: La fugitiva
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/3/1366330426737.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/9/1366330490497.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/7/1544750247872.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/8/1439186542283.xml
+
+
+Avatar: l'últim mestre de l'aire 48 (2019-02-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4541551
+Titol: La titellaire
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/7/1366331092870.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/6/1366331156163.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/7/1544750244377.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/7/1438941766075.xml
+
+
+Avatar: l'últim mestre de l'aire 49 (2019-02-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4543091
+Titol: Malsons de nit, al.lucinacions de dia
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1366415616620.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/1/1366415695714.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1544750241634.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/1/1438946848315.xml
+
+
+Avatar: l'últim mestre de l'aire 50 (2019-02-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4543112
+Titol: El dia del sol negre: la invasió (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/4/1366416823347.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/3/1366416885939.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/3/1544750203137.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/7/1438967158878.xml
+
+
+Avatar: l'últim mestre de l'aire 51 (2019-02-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4543111
+Titol: El dia del sol negre: l'eclipsi (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/0/1366416689009.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/6/1366416752269.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1544750201902.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1439186531050.xml
+
+
+Avatar: l'últim mestre de l'aire 52 (2019-02-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4544071
+Titol: El temple de l'aire de l'oest
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/5/1366501844755.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/2/1366501930524.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1544750200854.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/1/1438934545217.xml
+
+
+Avatar: l'últim mestre de l'aire 53 (2019-02-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4544091
+Titol: Els mestres del foc
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/6/1366502711761.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/2/1366502796823.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/2/1544750199629.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/5/1439186527351.xml
+
+
+Avatar: l'últim mestre de l'aire 54 (2019-02-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4544111
+Titol: La roca bullent (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/1/1366503285718.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/4/1366503372149.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/0/1544749263703.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/9/1439186518396.xml
+
+
+Avatar: l'últim mestre de l'aire 55 (2019-02-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4544751
+Titol: La roca bullent (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/8/1366588395488.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/5/1366588480856.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/4/1544749262046.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/4/1438941762346.xml
+
+
+Avatar: l'últim mestre de l'aire 56 (2019-02-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4544791
+Titol: Els invasors del sud
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/1/1366589623018.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/3/1366589702438.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/9/1544749259894.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/2/1438941758920.xml
+
+
+Avatar: l'últim mestre de l'aire 57 (2019-02-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4544792
+Titol: La companyia de l'illa d'Ember
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/4/1366589744444.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/9/1366589822992.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/3/1544749258433.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/8/1438934541488.xml
+
+
+Avatar: l'últim mestre de l'aire 58 (2019-02-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4549751
+Titol: El cometa Sozin: el rei Fènix (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/8/1366848586284.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/2/1366848669623.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/9/1544749219299.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/9/1438941755590.xml
+
+
+Avatar: l'últim mestre de l'aire 59 (2019-02-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4549771
+Titol: El cometa Sozin: els vells mestres (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/0/1366848714902.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/1/1366848803119.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/0/1544749217701.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/9/1438941751995.xml
+
+
+Avatar: l'últim mestre de l'aire 60 (2019-02-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4549793
+Titol: El cometa Sozin: entrada a l'infern (3a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/6/1366849538165.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/4/1366849645741.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/3/1544749216135.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/8/1438941748389.xml
+
+
+Avatar: l'últim mestre de l'aire 61 (2019-02-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4551591
+Titol: El cometa Sozin: l'Avatar Aang (4a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/7/1366936467579.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/2/1366936528027.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/4/1544749214348.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1439186506385.xml
+
+

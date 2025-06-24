@@ -1,0 +1,893 @@
+Pel·lícules 1 (2023-02-26)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6125313
+Titol: La guerra dels corrents
+Stream: https://adaptive-es.ccma.cat/3/1/6125313/1634780575171/stream.mpd
+
+
+Pel·lícules 1 (2021-12-20)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6134163
+Titol: Berenàveu a les fosques
+Stream: https://adaptive-int.ccma.cat/3/6/6134163/1639370971783/stream.mpd
+
+
+Pel·lícules 1 (2023-03-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6150780
+Titol: La mare de lloguer
+Stream: https://adaptive-es.ccma.cat/0/8/6150780/1648205610639/stream.mpd
+
+
+Pel·lícules 1 (2023-02-25)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6171337
+Titol: La cafeteria
+Stream: https://adaptive-es.ccma.cat/7/3/6171337/1659747019231/stream.mpd
+
+
+Pel·lícules 1 (2022-08-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6173221
+Titol: Sis nits d'agost
+Stream: https://adaptive-int.ccma.cat/1/2/6173221/1661595688137/stream.mpd
+
+
+Pel·lícules 1 (2022-10-13)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6176463
+Titol: Soldats de Salamina
+Stream: https://adaptive-es.ccma.cat/3/6/6176463/1664302504781/stream.mpd
+
+
+Pel·lícules 1 (2022-09-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6176864
+Titol: Alguns dies d'ahir
+Stream: https://adaptive-int.ccma.cat/4/6/6176864/1663891383696/stream.mpd
+
+
+Pel·lícules 1 (2022-12-19)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6191566
+Titol: El metralla
+Stream: https://adaptive-int.ccma.cat/6/6/6191566/1670726980437/stream.mpd
+
+
+Pel·lícules 1 (2023-01-16)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6196693
+Titol: Quico Sabaté: sense destí
+Stream: https://adaptive-int.ccma.cat/3/9/6196693/1673890179559/stream.mpd
+
+
+Pel·lícules 1 (2023-02-14)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6201148
+Titol: Florence Foster Jenkins
+Stream: https://adaptive-es.ccma.cat/8/4/6201148/1675309272838/stream.mpd
+
+
+Pel·lícules 1 (2023-02-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6202779
+Titol: Els falsificadors
+Stream: https://adaptive-es.ccma.cat/9/7/6202779/1676000140440/stream.mpd
+
+
+Pel·lícules 1 (2023-02-19)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6203002
+Titol: El preu de la sort
+Stream: https://adaptive-es.ccma.cat/2/0/6203002/1676084545219/stream.mpd
+
+
+Pel·lícules 1 (2023-02-20)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6204075
+Titol: Elle
+Stream: https://adaptive-es.ccma.cat/5/7/6204075/1676602920865/stream.mpd
+
+
+Pel·lícules
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6148570
+Titol: Chéri
+Stream: https://adaptive-int.ccma.cat/0/7/6148570/1647084262714/stream.mpd
+
+
+Pel·lícules 1 (2023-03-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6205463
+Titol: Jo, Daniel Blake
+Stream: https://adaptive-es.ccma.cat/3/6/6205463/1677208623956/stream.mpd
+
+
+Pel·lícules 1 (2023-03-12)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6176152
+Titol: Ara em veus
+Stream: https://adaptive-es.ccma.cat/2/5/6176152/1663382479452/stream.mpd
+
+
+Pel·lícules 1 (2023-03-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6205349
+Titol: Una píndola amarga
+Stream: https://adaptive-es.ccma.cat/9/4/6205349/1677168468318/stream.mpd
+
+
+Pel·lícules 1 (2023-03-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6206874
+Titol: Els miserables
+Stream: https://adaptive-es.ccma.cat/4/7/6206874/1677814661642/stream.mpd
+
+
+Pel·lícules 1 (2023-03-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6175286
+Titol: La llengua de les papallones
+Stream: https://adaptive-es.ccma.cat/6/8/6175286/1663034231646/stream.mpd
+
+
+Pel·lícules 1 (2023-03-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6167509
+Titol: Més enllà de l'oblit
+Stream: https://adaptive-es.ccma.cat/9/0/6167509/1657240363048/stream.mpd
+
+
+Pel·lícules 1 (2023-03-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6134353
+Titol: El plat del dia
+Stream: https://adaptive-es.ccma.cat/3/5/6134353/1639705901924/stream.mpd
+
+
+Pel·lícules 1 (2023-03-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6210320
+Titol: L'escàndol - capítol 1
+Stream: https://adaptive-es.ccma.cat/0/2/6210320/1679501768486/stream.mpd
+
+
+Pel·lícules 1 (2023-03-24)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6178401
+Titol: Llibertàries
+Stream: https://adaptive-es.ccma.cat/1/0/6178401/1664667204528/stream.mpd
+
+
+Pel·lícules 1 (2023-03-26)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6209625
+Titol: Ànsia de viure
+Stream: https://adaptive-es.ccma.cat/5/2/6209625/1679022682196/stream.mpd
+
+
+Pel·lícules 1 (2023-03-26)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6209859
+Titol: Dumplin'
+Stream: https://adaptive-es.ccma.cat/9/5/6209859/1679115190402/stream.mpd
+
+
+Pel·lícules 1 (2023-03-26)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6209858
+Titol: Tardor a Vermont
+Stream: https://adaptive-es.ccma.cat/8/5/6209858/1679114558035/stream.mpd
+
+
+Pel·lícules 1 (2023-03-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6210283
+Titol: Cosmètica de l'enemic
+Stream: https://adaptive-int.ccma.cat/3/8/6210283/1679366436760/stream.mpd
+
+
+Pel·lícules 1 (2023-04-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6179094
+Titol: Les tretze roses
+Stream: https://adaptive-es.ccma.cat/4/9/6179094/1665033237375/stream.mpd
+
+
+Pel·lícules 1 (2023-04-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6146135
+Titol: Rams
+Stream: https://adaptive-es.ccma.cat/5/3/6146135/1652515349738/stream.mpd
+
+
+Pel·lícules 1 (2023-04-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6170401
+Titol: Negació
+Stream: https://adaptive-es.ccma.cat/1/0/6170401/1659081827253/stream.mpd
+
+
+Pel·lícules 1 (2023-04-06)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6211927
+Titol: Xavales
+Stream: https://adaptive-int.ccma.cat/7/2/6211927/1680061049941/stream.mpd
+
+
+Pel·lícules 1 (2023-04-09)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6212616
+Titol: Per amor a la Valerie
+Stream: https://adaptive-es.ccma.cat/6/1/6212616/1680312373129/stream.mpd
+
+
+Pel·lícules 1 (2023-04-09)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6213661
+Titol: Viure un altre cop
+Stream: https://adaptive-es.ccma.cat/1/6/6213661/1680825639972/stream.mpd
+
+
+Pel·lícules 1 (2023-04-09)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6213669
+Titol: Cézanne i jo
+Stream: https://adaptive-es.ccma.cat/9/6/6213669/1680832901201/stream.mpd
+
+
+Pel·lícules 1 (2023-04-09)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6212620
+Titol: Tornar a començar
+Stream: https://adaptive-es.ccma.cat/0/2/6212620/1680314665305/stream.mpd
+
+
+Pel·lícules 1 (2023-04-10)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6178090
+Titol: Tornar a casa
+Stream: https://adaptive-es.ccma.cat/0/9/6178090/1664501019196/stream.mpd
+
+
+Pel·lícules 1 (2023-04-10)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6212766
+Titol: L'última oportunitat
+Stream: https://adaptive-es.ccma.cat/6/6/6212766/1680397166385/stream.mpd
+
+
+Pel·lícules 1 (2023-04-12)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6213072
+Titol: Els traductors
+Stream: https://adaptive-es.ccma.cat/2/7/6213072/1680590711172/stream.mpd
+
+
+Pel·lícules 1 (2023-04-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6213672
+Titol: Indestructible
+Stream: https://adaptive-es.ccma.cat/2/7/6213672/1680834946333/stream.mpd
+
+
+Pel·lícules 1 (2023-04-19)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6214103
+Titol: Somnis d'una escriptora a Nova York
+Stream: https://adaptive-es.ccma.cat/3/0/6214103/1681177264604/stream.mpd
+
+
+Pel·lícules 1 (2023-04-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6214793
+Titol: Momo
+Stream: https://adaptive-es.ccma.cat/3/9/6214793/1681438439407/stream.mpd
+
+
+Pel·lícules 1 (2023-04-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6215813
+Titol: Joséphine
+Stream: https://adaptive-es.ccma.cat/3/1/6215813/1681934974650/stream.mpd
+
+
+Pel·lícules 1 (2023-04-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6214792
+Titol: La Joséphine està embarassada
+Stream: https://adaptive-es.ccma.cat/2/9/6214792/1681437637649/stream.mpd
+
+
+Pel·lícules 1 (2023-04-23)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6215043
+Titol: La classe de piano
+Stream: https://adaptive-es.ccma.cat/3/4/6215043/1681525254725/stream.mpd
+
+
+Pel·lícules 1 (2018-04-26)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6215459
+Stream: https://adaptive-int.ccma.cat/9/5/6215459/1681782600879/stream.mpd
+
+
+Pel·lícules 1 (2023-04-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6217135
+Stream: https://adaptive-es.ccma.cat/5/3/6217135/1682558706400/stream.mpd
+
+
+Pel·lícules 1 (2023-04-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6217388
+Stream: https://adaptive-es.ccma.cat/8/8/6217388/1682640248084/stream.mpd
+
+
+Pel·lícules 1 (2023-05-03)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6216758
+Stream: https://adaptive-es.ccma.cat/8/5/6216758/1682388009009/stream.mpd
+
+
+Pel·lícules 1 (2023-05-07)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6217596
+Titol: Els misteris de la basílica
+Stream: https://adaptive-es.ccma.cat/6/9/6217596/1682734453273/stream.mpd
+
+
+Pel·lícules 1 (2023-05-07)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6217597
+Titol: Assassinat a Luberon
+Stream: https://adaptive-es.ccma.cat/7/9/6217597/1682734724204/stream.mpd
+
+
+Pel·lícules 1 (2023-05-10)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6218610
+Titol: Tots els diners del món
+Stream: https://adaptive-es.ccma.cat/0/1/6218610/1683253135401/stream.mpd
+
+
+Pel·lícules 1 (2023-05-13)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6218611
+Titol: April, May i June
+Stream: https://adaptive-es.ccma.cat/1/1/6218611/1683253391444/stream.mpd
+
+
+Pel·lícules 1 (2023-05-14)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6218918
+Titol: Assassinats a Lilla - capítol 1
+Stream: https://adaptive-es.ccma.cat/8/1/6218918/1683436424121/stream.mpd
+
+
+Pel·lícules 1 (2023-05-14)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6220073
+Titol: El pont dels oblidats
+Stream: https://adaptive-es.ccma.cat/3/7/6220073/1683960336995/stream.mpd
+
+
+Pel·lícules 1 (2023-05-20)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6220311
+Titol: Les estacions de l'amor
+Stream: https://adaptive-es.ccma.cat/1/1/6220311/1684108616401/stream.mpd
+
+
+Pel·lícules 1 (2023-05-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6220074
+Titol: Els misteris del Bosc Galant
+Stream: https://adaptive-es.ccma.cat/4/7/6220074/1683961105185/stream.mpd
+
+
+Pel·lícules 1 (2023-05-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6219393
+Titol: Assassinats a la Lorena - capítol 1
+Stream: https://adaptive-es.ccma.cat/3/9/6219393/1683676777143/stream.mpd
+
+
+Pel·lícules 1 (2023-05-24)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6221863
+Titol: El bon patró
+Stream: https://adaptive-es.ccma.cat/3/6/6221863/1684806415915/stream.mpd
+
+
+Pel·lícules 1 (2023-06-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6223724
+Titol: Sota amenaça
+Stream: https://adaptive-es.ccma.cat/4/2/6223724/1685582664802/stream.mpd
+
+
+Pel·lícules 1 (2023-05-27)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6178324
+Titol: Tornar a l'amor
+Stream: https://adaptive-es.ccma.cat/4/2/6178324/1664590687728/stream.mpd
+
+
+Pel·lícules 1 (2023-06-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6224203
+Titol: Plors en la foscor
+Stream: https://adaptive-es.ccma.cat/3/0/6224203/1685761347623/stream.mpd
+
+
+Pel·lícules 1 (2023-05-20)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6174775
+Titol: Consumits
+Stream: https://adaptive-es.ccma.cat/5/7/6174775/1662689391352/stream.mpd
+
+
+Pel·lícules 1 (2023-06-03)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6175924
+Titol: El comissari i la nena
+Stream: https://adaptive-es.ccma.cat/4/2/6175924/1663290530515/stream.mpd
+
+
+Pel·lícules 1 (2023-06-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6168539
+Titol: Animadores assassinades
+Stream: https://adaptive-es.ccma.cat/9/3/6168539/1657845155615/stream.mpd
+
+
+Pel·lícules 1 (2023-06-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6173893
+Titol: El retrobament
+Stream: https://adaptive-es.ccma.cat/3/9/6173893/1662081825192/stream.mpd
+
+
+Pel·lícules 1 (2023-06-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6172591
+Titol: Misteri al paradís
+Stream: https://adaptive-es.ccma.cat/1/9/6172591/1660869929310/stream.mpd
+
+
+Pel·lícules 1 (2023-06-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6145899
+Titol: Unides per un assassí
+Stream: https://adaptive-es.ccma.cat/9/9/6145899/1645757580963/stream.mpd
+
+
+Pel·lícules 1 (2023-06-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6147376
+Titol: Des del Rough
+Stream: https://adaptive-es.ccma.cat/6/7/6147376/1646445307719/stream.mpd
+
+
+Pel·lícules 1 (2023-06-25)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6179641
+Titol: L'herència
+Stream: https://adaptive-es.ccma.cat/1/4/6179641/1665208065542/stream.mpd
+
+
+Pel·lícules 1 (2023-06-25)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6172590
+Titol: Secrets de rics
+Stream: https://adaptive-es.ccma.cat/0/9/6172590/1660868816840/stream.mpd
+
+
+Pel·lícules 1 (2023-06-25)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6169490
+Titol: L'assassí és aquí
+Stream: https://adaptive-es.ccma.cat/0/9/6169490/1658454197572/stream.mpd
+
+
+Pel·lícules 1 (2023-06-16)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6226681
+Titol: Silvio (i els altres)
+Stream: https://adaptive-es.ccma.cat/1/8/6226681/1686927063796/stream.mpd
+
+
+Pel·lícules 1 (2023-07-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6154317
+Titol: El millor encara ha de venir
+Stream: https://adaptive-es.ccma.cat/7/1/6154317/1650071171737/stream.mpd
+
+
+Pel·lícules 1 (2023-07-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6171336
+Titol: Benvingudes a Carolina
+Stream: https://adaptive-es.ccma.cat/6/3/6171336/1659746749734/stream.mpd
+
+
+Pel·lícules 1 (2023-07-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6130260
+Titol: Dia de pluja a Nova York
+Stream: https://adaptive-es.ccma.cat/0/6/6130260/1637203795412/stream.mpd
+
+
+Pel·lícules 1 (2023-07-16)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6137685
+Titol: Amundsen
+Stream: https://adaptive-es.ccma.cat/5/8/6137685/1641447024009/stream.mpd
+
+
+Pel·lícules 1 (2023-07-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6230085
+Titol: Aigües fosques
+Stream: https://adaptive-es.ccma.cat/5/8/6230085/1688617619365/stream.mpd
+
+
+Pel·lícules 1 (2023-07-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6231178
+Titol: Déu, per què ets tan idiota?
+Stream: https://adaptive-es.ccma.cat/8/7/6231178/1689136360155/stream.mpd
+
+
+Pel·lícules 1 (2023-07-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6173325
+Titol: Un casament perfecte
+Stream: https://adaptive-es.ccma.cat/5/2/6173325/1661563832732/stream.mpd
+
+
+Pel·lícules 1 (2023-07-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6231898
+Titol: Sis dies corrents
+Stream: https://adaptive-es.ccma.cat/8/9/6231898/1689487695080/stream.mpd
+
+
+Pel·lícules 1 (2023-07-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6231900
+Titol: Un embolic inesperat
+Stream: https://adaptive-es.ccma.cat/0/0/6231900/1689488652676/stream.mpd
+
+
+Pel·lícules 1 (2023-07-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6232153
+Titol: Ventafocs per un dia
+Stream: https://adaptive-es.ccma.cat/3/5/6232153/1689645795673/stream.mpd
+
+
+Pel·lícules 1 (2023-07-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6232902
+Titol: Una cita al parc
+Stream: https://adaptive-es.ccma.cat/2/0/6232902/1689993225481/stream.mpd
+
+
+Pel·lícules 1 (2023-08-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6166494
+Titol: Et vigilo
+Stream: https://adaptive-es.ccma.cat/4/9/6166494/1656638060051/stream.mpd
+
+
+Pel·lícules 1 (2023-08-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6174623
+Titol: El caçador d'ocells
+Stream: https://adaptive-es.ccma.cat/3/2/6174623/1662603381476/stream.mpd
+
+
+Pel·lícules 1 (2023-08-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6234134
+Titol: Caça humana
+Stream: https://adaptive-es.ccma.cat/4/3/6234134/1690759119924/stream.mpd
+
+
+Pel·lícules 1 (2023-08-06)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6233944
+Titol: La capitana Marleau. A cel obert
+Stream: https://adaptive-es.ccma.cat/4/4/6233944/1690604037862/stream.mpd
+
+
+Pel·lícules 1 (2023-08-06)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6233943
+Titol: La capitana Marleau. Problemes al balneari
+Stream: https://adaptive-es.ccma.cat/3/4/6233943/1690603463301/stream.mpd
+
+
+Pel·lícules 1 (2023-08-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6225029
+Titol: Pa de llimona amb llavors de rosella
+Stream: https://adaptive-es.ccma.cat/9/2/6225029/1686199942691/stream.mpd
+
+
+Pel·lícules 1 (2023-08-12)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6108252
+Titol: La filla d'un lladre
+Stream: https://adaptive-es.ccma.cat/2/5/6108252/1691035572638/stream.mpd
+
+
+Pel·lícules 1 (2023-08-13)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6234776
+Titol: La capitana Marleau. La mort i el jove
+Stream: https://adaptive-es.ccma.cat/6/7/6234776/1691209534727/stream.mpd
+
+
+Pel·lícules 1 (2023-08-13)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6234775
+Titol: La capitana Marleau. Doble Joc
+Stream: https://adaptive-es.ccma.cat/5/7/6234775/1691208178937/stream.mpd
+
+
+Pel·lícules 1 (2023-08-13)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6234774
+Titol: Amigues mortals
+Stream: https://adaptive-es.ccma.cat/4/7/6234774/1691207137354/stream.mpd
+
+
+Pel·lícules 1 (2023-08-19)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6235466
+Titol: Supervivent
+Stream: https://adaptive-es.ccma.cat/6/6/6235466/1691726057543/stream.mpd
+
+
+Pel·lícules 1 (2023-08-12)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6173323
+Titol: Campanes de boda
+Stream: https://adaptive-es.ccma.cat/3/2/6173323/1661563599932/stream.mpd
+
+
+Pel·lícules 1 (2023-08-26)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6236320
+Titol: Més veloç que la mort
+Stream: https://adaptive-es.ccma.cat/0/2/6236320/1692330312163/stream.mpd
+
+
+Pel·lícules 1 (2023-08-26)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6236319
+Titol: Desert
+Stream: https://adaptive-es.ccma.cat/9/1/6236319/1692329395450/stream.mpd
+
+
+Pel·lícules 1 (2023-08-27)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6236417
+Titol: Assassinat a Biòt
+Stream: https://adaptive-es.ccma.cat/7/1/6236417/1692413313042/stream.mpd
+
+
+Pel·lícules 1 (2023-09-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6237735
+Titol: Els petits assassinats d'Agatha Christie. Plenamars de la vida
+Stream: https://adaptive-es.ccma.cat/5/3/6237735/1693359783125/stream.mpd
+
+
+Pel·lícules 1 (2023-09-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6237024
+Titol: Spencer
+Stream: https://adaptive-es.ccma.cat/4/2/6237024/1692849839635/stream.mpd
+
+
+Pel·lícules 1 (2023-09-02)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6237139
+Titol: Promesa a l'alba
+Stream: https://adaptive-es.ccma.cat/9/3/6237139/1692934329727/stream.mpd
+
+
+Pel·lícules 1 (2023-09-02)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6237140
+Titol: Parker
+Stream: https://adaptive-es.ccma.cat/0/4/6237140/1692936576103/stream.mpd
+
+
+Pel·lícules 1 (2023-09-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6237866
+Titol: Entre amics
+Stream: https://adaptive-es.ccma.cat/6/6/6237866/1693455140141/stream.mpd
+
+
+Pel·lícules 1 (2023-09-10)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6238607
+Titol: '71
+Stream: https://adaptive-es.ccma.cat/7/0/6238607/1693969042090/stream.mpd
+
+
+Pel·lícules 1 (2023-09-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6238430
+Titol: Déu Meu, però què t'hem fet... ara?
+Stream: https://adaptive-es.ccma.cat/0/3/6238430/1693885095820/stream.mpd
+
+
+Pel·lícules 1 (2023-09-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6239125
+Titol: Tros
+Stream: https://adaptive-int.ccma.cat/5/2/6239125/1694225502028/stream.mpd
+
+
+Pel·lícules 1 (2023-09-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6239972
+Titol: Eiffel
+Stream: https://adaptive-es.ccma.cat/2/7/6239972/1694745011982/stream.mpd
+
+
+Pel·lícules 1 (2023-09-23)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6239973
+Titol: S.W.A.T.
+Stream: https://adaptive-es.ccma.cat/3/7/6239973/1694745857728/stream.mpd
+
+
+Pel·lícules 1 (2023-10-06)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6242377
+Titol: Desxifrant l'Enigma
+Stream: https://adaptive-es.ccma.cat/7/7/6242377/1696296016117/stream.mpd
+
+
+Pel·lícules 1 (2023-10-25)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6143354
+Titol: Sense rastre
+Stream: https://adaptive-es.ccma.cat/4/5/6143354/1644461203962/stream.mpd
+
+
+Pel·lícules 1 (2023-11-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6248144
+Titol: Qüestió de paciència
+Stream: https://adaptive-es.ccma.cat/4/4/6248144/1698719274102/stream.mpd
+
+
+Pel·lícules 1 (2023-11-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6247858
+Titol: Pares adoptius
+Stream: https://adaptive-es.ccma.cat/8/5/6247858/1698471363689/stream.mpd
+
+
+Pel·lícules 1 (2023-10-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6246508
+Titol: L'innocent
+Stream: https://adaptive-es.ccma.cat/8/0/6246508/1697953745307/stream.mpd
+
+
+Pel·lícules 1 (2023-11-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6246846
+Titol: La gossa Palma
+Stream: https://adaptive-es.ccma.cat/6/4/6246846/1698128202149/stream.mpd
+
+
+Pel·lícules 1 (2023-11-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6171830
+Titol: La casa del terror
+Stream: https://adaptive-es.ccma.cat/0/3/6171830/1660210486792/stream.mpd
+
+
+Pel·lícules 1 (2017-07-02)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=5578216
+Titol: Fassman, l'increïble home radar
+
+
+Pel·lícules 1 (2020-04-03)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6019046
+Titol: Èxode
+Stream: https://adaptive-int.ccma.cat/6/4/6019046/1585100019965/stream.mpd
+
+
+Pel·lícules 1 (2000-12-26)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=4655111
+Titol: El zoo d'en Pitus
+
+
+Pel·lícules 1 (2023-10-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6223514
+Titol: Els misteris de les majorets
+Stream: https://adaptive-es.ccma.cat/4/1/6223514/1697952221976/stream.mpd
+
+
+Pel·lícules 1 (2023-10-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6246509
+Titol: Assassinat a Losera
+Stream: https://adaptive-es.ccma.cat/9/0/6246509/1697954131576/stream.mpd
+
+
+Pel·lícules 1 (2023-11-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6138863
+Titol: El soldat de Déu
+Stream: https://adaptive-es.ccma.cat/3/6/6138863/1642160379126/stream.mpd
+
+
+Pel·lícules 1 (2023-11-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6248549
+Titol: Compte enrere
+Stream: https://adaptive-es.ccma.cat/9/4/6248549/1698818248529/stream.mpd
+
+
+Pel·lícules 1 (2023-11-03)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6247532
+Titol: Competència oficial
+Stream: https://adaptive-es.ccma.cat/2/3/6247532/1698385163485/stream.mpd
+
+
+Pel·lícules 1 (2023-11-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6194573
+Titol: 10 dies sense la mama
+Stream: https://adaptive-es.ccma.cat/3/7/6194573/1672198627306/stream.mpd
+
+
+Pel·lícules 1 (2023-11-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6247860
+Titol: La germana del nuvi
+Stream: https://adaptive-es.ccma.cat/0/6/6247860/1698553549601/stream.mpd
+
+
+Pel·lícules 1 (2023-11-12)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6250445
+Titol: Hope
+Stream: https://adaptive-es.ccma.cat/5/4/6250445/1699674467436/stream.mpd
+
+
+Pel·lícules 1 (2023-11-17)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6089193
+Titol: Liberté
+Stream: https://adaptive-int.ccma.cat/3/9/6089193/1615564967145/stream.mpd
+
+
+Pel·lícules 1 (2023-11-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6252399
+Titol: Alcarràs
+Stream: https://adaptive-es.ccma.cat/9/9/6252399/1701187001272/stream.mpd
+
+
+Pel·lícules 1 (2023-12-02)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6153283
+Titol: El club dels joves multimilionaris
+Stream: https://adaptive-es.ccma.cat/3/8/6153283/1649467434403/stream.mpd
+
+
+Pel·lícules 1 (2023-12-06)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6253263
+Titol: Ments brillants
+Stream: https://adaptive-es.ccma.cat/3/6/6253263/1701149131742/stream.mpd
+
+
+Pel·lícules 1 (2023-12-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6188179
+Titol: Un Nadal diferent
+Stream: https://adaptive-es.ccma.cat/9/7/6188179/1669170646622/stream.mpd
+
+
+Pel·lícules 1 (2023-12-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6254466
+Titol: Que no quedin marques
+Stream: https://adaptive-es.ccma.cat/6/6/6254466/1701653909516/stream.mpd
+
+
+Pel·lícules 1 (2023-12-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6192128
+Titol: Una carta d'amor per Nadal
+Stream: https://adaptive-es.ccma.cat/8/2/6192128/1670986755608/stream.mpd
+
+
+Pel·lícules 1 (2023-12-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6194437
+Titol: Tornar a casa per Nadal
+Stream: https://adaptive-es.ccma.cat/7/3/6194437/1672137744969/stream.mpd
+
+
+Pel·lícules 1 (2023-12-09)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6194136
+Titol: Necessitem el teu vot
+Stream: https://adaptive-es.ccma.cat/6/3/6194136/1671855105499/stream.mpd
+
+
+Pel·lícules 1 (2023-12-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6194435
+Titol: Nadal al carrer Chestnut
+Stream: https://adaptive-es.ccma.cat/5/3/6194435/1672137390433/stream.mpd
+
+
+Pel·lícules 1 (2023-12-09)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6144513
+Titol: La dama d'or
+Stream: https://adaptive-es.ccma.cat/3/1/6144513/1645081178043/stream.mpd
+
+
+Pel·lícules 1 (2023-12-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6253721
+Titol: Dr. Knock
+Stream: https://adaptive-es.ccma.cat/1/2/6253721/1701318745777/stream.mpd
+
+
+Pel·lícules 1 (2023-12-16)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6136197
+Titol: Un home de família
+Stream: https://adaptive-es.ccma.cat/7/9/6136197/1702520566918/stream.mpd
+
+
+Pel·lícules 1 (2023-12-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6255262
+Titol: Que soni la música!
+Stream: https://adaptive-es.ccma.cat/2/6/6255262/1702083027159/stream.mpd
+
+
+Pel·lícules 1 (2023-12-17)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6139568
+Titol: L'últim tret
+Stream: https://adaptive-es.ccma.cat/8/6/6139568/1702519624172/stream.mpd
+
+
+Pel·lícules 1 (2023-12-16)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6255171
+Titol: El retorn del Ben
+Stream: https://adaptive-es.ccma.cat/1/7/6255171/1702005793896/stream.mpd
+
+
+Pel·lícules 1 (2023-12-16)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6221863
+Titol: El bon patró
+Stream: https://adaptive-es.ccma.cat/3/6/6221863/1684806415915/stream.mpd
+
+
+Pel·lícules 1 (2023-12-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6237139
+Titol: Promesa a l'alba
+Stream: https://adaptive-es.ccma.cat/9/3/6237139/1692934329727/stream.mpd
+
+
+Pel·lícules 1 (2023-12-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6256106
+Titol: El duc
+
+
+Pel·lícules 1 (2023-12-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6250448
+Titol: De tornada a casa
+Stream: https://adaptive-es.ccma.cat/8/4/6250448/1703300979629/stream.mpd
+
+
+Pel·lícules 1 (2023-12-24)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6256680
+Titol: Un viatge de deu metres
+Stream: https://adaptive-es.ccma.cat/0/8/6256680/1702696825938/stream.mpd
+
+
+Pel·lícules 1 (2023-12-24)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6257346
+Titol: Ara em veus 2
+Stream: https://adaptive-es.ccma.cat/6/4/6257346/1703043824958/stream.mpd
+
+
+Pel·lícules 1 (2024-04-07)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6219393
+Titol: Assassinats a la Lorena
+Stream: https://adaptive-es.ccma.cat/3/9/6219393/1683676777143/stream.mpd
+
+
+Pel·lícules 1 (2024-07-01)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6156372
+Titol: Les Perseides
+Stream: https://adaptive-int.3cat.cat/2/7/6156372/1651232576738/stream.mpd
+
+

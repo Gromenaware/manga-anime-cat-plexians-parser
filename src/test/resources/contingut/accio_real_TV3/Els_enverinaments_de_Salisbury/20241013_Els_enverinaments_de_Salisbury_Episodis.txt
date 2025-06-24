@@ -1,0 +1,34 @@
+Els enverinaments de Salisbury 1 (2024-03-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6168742
+Titol: T1xC1
+MQ: https://mp4-down-medium-es.ccma.cat/3/6/1658019680463.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/5/1658019773455.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1658021312202.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/9/1658021312790.xml
+
+
+Els enverinaments de Salisbury 2 (2024-03-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6168743
+Titol: T1xC2
+MQ: https://mp4-down-medium-es.ccma.cat/1/8/1658019831881.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/2/1658019924229.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/5/1658937639052.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/2/1658937640324.xml
+
+
+Els enverinaments de Salisbury 3 (2024-03-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6169732
+Titol: T1xC3
+MQ: https://mp4-down-medium-es.ccma.cat/0/8/1658622231280.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/2/1658622316127.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/5/1658626076752.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/4/1658626077145.xml
+
+
+Els enverinaments de Salisbury 4 (2024-03-29)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6169731
+Titol: T1xC4
+MQ: https://mp4-down-medium-es.ccma.cat/0/4/1658622086640.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/1/1658622173818.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1659427243054.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/7/1659427244571.xml

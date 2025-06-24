@@ -1,0 +1,205 @@
+Steins; Gate 0 1 (2024-01-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6255474
+Titol: El zero absolut
+MQ: https://mp4-down-medium-es.ccma.cat/4/2/1705625258224.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/6/1705625279766.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/4/1705597271542.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/4/1705597272840.xml
+
+
+Steins; Gate 0 2 (2024-01-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6255476
+Titol: Epígraf tancat
+MQ: https://mp4-down-medium-es.ccma.cat/7/2/1705625946327.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/6/1705625966663.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/4/1705597280940.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/6/1705597283564.xml
+
+
+Steins; Gate 0 3 (2024-01-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6255472
+Titol: Protocol de doble evangeli
+MQ: https://mp4-down-medium-es.ccma.cat/0/1/1705626008610.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/2/1705626027629.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/3/1705597276239.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/8/1705597277682.xml
+
+
+Steins; Gate 0 4 (2024-01-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6255471
+Titol: L'ovella extraviada
+MQ: https://mp4-down-medium-es.ccma.cat/8/7/1705626069478.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/8/1705626087789.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/1/1705597265315.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/1/1705597267519.xml
+
+
+Steins; Gate 0 5 (2024-01-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6255475
+Titol: L'ovella involucrada
+MQ: https://mp4-down-medium-es.ccma.cat/0/5/1705625042150.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/5/1705625060250.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1705597287664.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1705597289432.xml
+
+
+Steins; Gate 0 6 (2024-01-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6255477
+Titol: L'eclipsi orbital
+MQ: https://mp4-down-medium-es.ccma.cat/0/3/1706061608130.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1706061623633.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/1/1706202059612.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/9/1706202060794.xml
+
+
+Steins; Gate 0 7 (2024-01-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6253719
+Titol: Transició vibrònica
+MQ: https://mp4-down-medium-es.ccma.cat/5/5/1706060855455.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/8/1706060875384.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1706202036764.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/2/1706202037828.xml
+
+
+Steins; Gate 0 8 (2024-01-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6262213
+Titol: Dualitat antinòmica
+MQ: https://mp4-down-medium-es.ccma.cat/2/3/1706061069432.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/2/1706061087521.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1706202041726.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1706202042599.xml
+
+
+Steins; Gate 0 9 (2024-01-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6262214
+Titol: La Pandora del retorn etern
+MQ: https://mp4-down-medium-es.ccma.cat/7/9/1706061967597.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/9/1706061985997.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/5/1706202046551.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/1/1706202048012.xml
+
+
+Steins; Gate 0 10 (2024-01-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6262215
+Titol: La Pandora de la demostració de l'existència
+MQ: https://mp4-down-medium-es.ccma.cat/0/8/1706062180680.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/0/1706062203901.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/8/1706202052687.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1706202055387.xml
+
+
+Steins; Gate 0 11 (2024-02-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6263516
+Titol: La Pandora de l'oblit de l'existència
+MQ: https://mp4-down-medium-es.ccma.cat/3/3/1706665865433.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/4/1706665886049.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/0/1706668143103.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/6/1706668143564.xml
+
+
+Steins; Gate 0 12 (2024-02-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6263518
+Titol: La mare oca recursiva
+MQ: https://mp4-down-medium-es.ccma.cat/6/2/1706666945426.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/2/1706666964829.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1706668145906.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1706668146359.xml
+
+
+Steins; Gate 0 13 (2024-02-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6263519
+Titol: La mare oca de la difracció
+MQ: https://mp4-down-medium-es.ccma.cat/6/8/1706667217386.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/1/1706667251214.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/0/1706668144509.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/6/1706668144961.xml
+
+
+Steins; Gate 0 14 (2024-02-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6263521
+Titol: Reconeixement del límit elàstic
+MQ: https://mp4-down-medium-es.ccma.cat/4/7/1706667288274.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/1/1706667301112.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/0/1706668141708.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/1/1706668142219.xml
+
+
+Steins; Gate 0 15 (2024-02-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6263520
+Titol: Reconeixement de la línia asimptòtica
+MQ: https://mp4-down-medium-es.ccma.cat/0/5/1706667230450.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/3/1706667269131.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1706668140234.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/0/1706668140700.xml
+
+
+Steins; Gate 0 16 (2024-02-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6264793
+Titol: L'Altaïr del punt infinitament distant
+MQ: https://mp4-down-medium-es.ccma.cat/1/2/1707279388221.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/1/1707279409615.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/5/1707411666457.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/8/1707411668386.xml
+
+
+Steins; Gate 0 17 (2024-02-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6264794
+Titol: La pseudoesfera de Beltrami
+MQ: https://mp4-down-medium-es.ccma.cat/4/3/1707279567134.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/8/1707279600885.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/1/1707411647211.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/3/1707411648733.xml
+
+
+Steins; Gate 0 18 (2024-02-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6264796
+Titol: La simetria translacional
+MQ: https://mp4-down-medium-es.ccma.cat/2/2/1707279926122.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/7/1707279948479.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/1/1707411660516.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/2/1707411662720.xml
+
+
+Steins; Gate 0 19 (2024-02-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6264795
+Titol: L'Altaïr de les coordenades cícliques
+MQ: https://mp4-down-medium-es.ccma.cat/5/3/1707279579635.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/2/1707279624326.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/9/1707411642198.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/4/1707411644049.xml
+
+
+Steins; Gate 0 20 (2024-02-11)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6264797
+Titol: El renaixement del jurament solemne
+MQ: https://mp4-down-medium-es.ccma.cat/8/6/1707280285768.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/5/1707280306953.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/9/1707411652491.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/7/1707411654570.xml
+
+
+Steins; Gate 0 21 (2024-02-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6266077
+Titol: El retorn del fènix
+MQ: https://mp4-down-medium-es.ccma.cat/3/3/1707882151733.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/3/1707882173836.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/3/1707926488638.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/1/1707926489816.xml
+
+
+Steins; Gate 0 22 (2024-02-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6266080
+Titol: El renaixement del projecte
+MQ: https://mp4-down-medium-es.ccma.cat/3/0/1707882479103.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/7/1707882507078.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1707926484868.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/7/1707926486179.xml
+
+
+Steins; Gate 0 23 (2024-02-18)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6266078
+Titol: L'Arclight de l'infinit
+MQ: https://mp4-down-medium-es.ccma.cat/5/5/1707882210855.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1707882254190.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/3/1707926492130.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1707926493635.xml

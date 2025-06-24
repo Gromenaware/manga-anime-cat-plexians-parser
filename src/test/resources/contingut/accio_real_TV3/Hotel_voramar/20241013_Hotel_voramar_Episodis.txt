@@ -1,0 +1,493 @@
+Hotel Voramar 1 (2022-07-31)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6169666
+Titol: Capítol 1
+MQ: https://mp4-down-medium-es.ccma.cat/4/4/1658540614244.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/7/1658540715475.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/8/1658550494480.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/3/1658550494938.xml
+
+
+Hotel Voramar 2 (2022-07-31)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6169667
+Titol: Capítol 2
+MQ: https://mp4-down-medium-es.ccma.cat/5/6/1658540770665.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/3/1658540857439.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1658550493126.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/8/1658550493584.xml
+
+
+Hotel Voramar 3 (2022-08-07)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6170554
+Titol: Capítol 3
+MQ: https://mp4-down-medium-es.ccma.cat/0/3/1659141995130.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/4/1659142075744.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1659524421888.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/4/1659524423246.xml
+
+
+Hotel Voramar 4 (2022-08-07)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6170560
+Titol: Capítol 4
+MQ: https://mp4-down-medium-es.ccma.cat/3/5/1659144923953.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/8/1659145018389.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1659546032868.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/6/1659546034361.xml
+
+
+Hotel Voramar 5 (2022-08-14)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6171335
+Titol: Capítol 5
+MQ: https://mp4-down-medium-es.ccma.cat/7/9/1659745729897.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/2/1659745820322.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1659895230374.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/9/1659895231490.xml
+
+
+Hotel Voramar 6 (2022-08-14)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6171338
+Titol: Capítol 6
+MQ: https://mp4-down-medium-es.ccma.cat/8/0/1659747316708.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1659747414072.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/4/1660060861245.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/1/1660060863019.xml
+
+
+Hotel Voramar 7 (2022-08-21)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6172050
+Titol: Capítol 7
+MQ: https://mp4-down-medium-es.ccma.cat/5/1/1660351737215.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1660351803272.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/1/1660910441116.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/0/1660910442506.xml
+
+
+Hotel Voramar 8 (2022-08-21)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6172051
+Titol: Capítol 8
+MQ: https://mp4-down-medium-es.ccma.cat/7/7/1660352792777.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1660352839360.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/2/1660910445424.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1660910446735.xml
+
+
+Hotel Voramar 9 (2022-08-28)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6172703
+Titol: Capítol 9
+MQ: https://mp4-down-medium-es.ccma.cat/6/8/1660955095786.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/3/1660955150739.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/7/1661248818777.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/5/1661248820252.xml
+
+
+Hotel Voramar 10 (2022-08-28)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6172702
+Titol: Capítol 10
+MQ: https://mp4-down-medium-es.ccma.cat/2/2/1660955005722.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1660955059220.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/9/1661422680094.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/4/1661422680543.xml
+
+
+Hotel Voramar 11 (2022-09-04)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6173318
+Titol: Capítol 11
+MQ: https://mp4-down-medium-es.ccma.cat/4/9/1661562118894.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/8/1661562163889.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/3/1661563708031.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/1/1661563708515.xml
+
+
+Hotel Voramar 12 (2022-09-04)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6173322
+Titol: Capítol 12
+MQ: https://mp4-down-medium-es.ccma.cat/8/2/1661563378428.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/0/1661563434907.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1661563709454.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/3/1661563709933.xml
+
+
+Hotel Voramar 13 (2022-09-11)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6174017
+Titol: Capítol 13
+MQ: https://mp4-down-medium-es.ccma.cat/0/0/1662173372300.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/0/1662173404401.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1662314424074.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/0/1662314425303.xml
+
+
+Hotel Voramar 14 (2022-09-11)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6174016
+Titol: Capítol 14
+MQ: https://mp4-down-medium-es.ccma.cat/7/4/1662173276147.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/8/1662173326081.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/3/1662314426731.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/7/1662314428379.xml
+
+
+Hotel Voramar 15 (2022-09-18)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6174959
+Titol: Capítol 15
+MQ: https://mp4-down-medium-es.ccma.cat/7/6/1662775910167.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/0/1662775952705.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/8/1662784121881.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/0/1662784122402.xml
+
+
+Hotel Voramar 16 (2022-09-18)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6174962
+Titol: Capítol 16
+MQ: https://mp4-down-medium-es.ccma.cat/6/6/1662776300166.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1662776457890.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1662784123222.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/0/1662784123706.xml
+
+
+Hotel Voramar 17 (2022-09-25)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6176150
+Titol: Capítol 17
+MQ: https://mp4-down-medium-es.ccma.cat/0/3/1663379743630.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1663379793245.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1663388925975.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/7/1663388926375.xml
+
+
+Hotel Voramar 18 (2022-09-25)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6176148
+Titol: Capítol 18
+MQ: https://mp4-down-medium-es.ccma.cat/0/0/1663378601800.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/6/1663378649366.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/6/1663388924565.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1663388924985.xml
+
+
+Hotel Voramar 19 (2022-10-09)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6178321
+Titol: Capítol 19
+MQ: https://mp4-down-medium-es.ccma.cat/9/6/1664589365169.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/0/1664589405205.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1664598558706.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/6/1664598559162.xml
+
+
+Hotel Voramar 20 (2022-10-10)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6178323
+Titol: Capítol 20
+MQ: https://mp4-down-medium-es.ccma.cat/6/3/1664590020436.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/6/1664590061268.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/9/1664992840091.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/7/1664992842271.xml
+
+
+Hotel Voramar 21 (2022-10-16)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6179640
+Titol: Capítol 21
+MQ: https://mp4-down-medium-es.ccma.cat/8/0/1665206886108.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/8/1665206923681.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/4/1666094485241.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1666094488792.xml
+
+
+Hotel Voramar 22 (2022-10-17)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6179638
+Titol: Capítol 22
+MQ: https://mp4-down-medium-es.ccma.cat/4/8/1665206686984.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/4/1665206741440.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/1/1665214179411.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1665214179887.xml
+
+
+Hotel Voramar 23 (2022-10-23)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6180780
+Titol: Capítol 23
+MQ: https://mp4-down-medium-es.ccma.cat/9/1/1665797463619.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/5/1665797508854.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/4/1666024131646.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/5/1666024132051.xml
+
+
+Hotel Voramar 24 (2022-10-23)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6180779
+Titol: Capítol 24
+MQ: https://mp4-down-medium-es.ccma.cat/1/3/1665797177531.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/8/1665797212789.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/4/1667818853542.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/1/1667818854013.xml
+
+
+Hotel Voramar 25 (2022-10-30)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6182016
+Titol: Capítol 25
+MQ: https://mp4-down-medium-es.ccma.cat/9/4/1666405235449.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/2/1666405278927.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/2/1667484085728.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/5/1667484086256.xml
+
+
+Hotel Voramar 26 (2022-10-30)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6182015
+Titol: Capítol 26
+MQ: https://mp4-down-medium-es.ccma.cat/6/5/1666405112656.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/0/1666405156506.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/6/1666969265665.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/8/1666969266689.xml
+
+
+Hotel Voramar 27 (2022-11-06)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6183315
+Titol: Capítol 27
+MQ: https://mp4-down-medium-es.ccma.cat/7/8/1667006596387.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/1/1667006637317.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/9/1667818852092.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/1/1667818852616.xml
+
+
+Hotel Voramar 28 (2022-11-06)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6183316
+Titol: Capítol 28
+MQ: https://mp4-down-medium-es.ccma.cat/6/4/1667007113646.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/0/1667007177908.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1667818850474.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/2/1667818851026.xml
+
+
+Hotel Voramar 29 (2022-11-13)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6184622
+Titol: Capítol 29
+MQ: https://mp4-down-medium-es.ccma.cat/7/1/1667617424317.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/2/1667617472626.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/7/1667847615771.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1667847617932.xml
+
+
+Hotel Voramar 30 (2022-11-13)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6184623
+Titol: Capítol 30
+MQ: https://mp4-down-medium-es.ccma.cat/7/8/1667617636287.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/9/1667617683199.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/1/1668171638117.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/9/1668171639493.xml
+
+
+Hotel Voramar 31 (2022-11-20)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6186072
+Titol: Capítol 31
+MQ: https://mp4-down-medium-es.ccma.cat/1/4/1668223582941.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/9/1668223683794.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1668230974090.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/6/1668230974565.xml
+
+
+Hotel Voramar 32 (2022-11-20)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6186073
+Titol: Capítol 32
+MQ: https://mp4-down-medium-es.ccma.cat/8/5/1668223725458.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/7/1668223746070.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/5/1668510050450.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/5/1668510051458.xml
+
+
+Hotel Voramar 33 (2022-11-27)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6187466
+Titol: Capítol 33
+MQ: https://mp4-down-medium-es.ccma.cat/3/7/1668823677973.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/1/1668823704218.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1669640464426.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/8/1669640464989.xml
+
+
+Hotel Voramar 34 (2022-11-28)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6187467
+Titol: Capítol 34
+MQ: https://mp4-down-medium-es.ccma.cat/2/1/1668824773912.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/3/1668824802031.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/3/1669640462535.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/6/1669640463062.xml
+
+
+Hotel Voramar 35 (2022-12-04)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6188870
+Titol: Capítol 35
+MQ: https://mp4-down-medium-es.ccma.cat/9/4/1669455472049.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/4/1669455522847.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/6/1669892448760.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/2/1669892450622.xml
+
+
+Hotel Voramar 36 (2022-12-04)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6188866
+Titol: Capítol 36
+MQ: https://mp4-down-medium-es.ccma.cat/4/2/1669428310924.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/3/1669428356137.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/2/1669892454129.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/0/1669892455308.xml
+
+
+Hotel Voramar 37 (2022-12-11)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6190207
+Titol: Capítol 37
+MQ: https://mp4-down-medium-es.ccma.cat/9/8/1670037636989.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/5/1670037693455.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/4/1670432458444.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/9/1670432459996.xml
+
+
+Hotel Voramar 38 (2022-12-12)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6190208
+Titol: Capítol 38
+MQ: https://mp4-down-medium-es.ccma.cat/4/3/1670037970134.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/8/1670038023184.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/6/1670439639061.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/6/1670439640362.xml
+
+
+Hotel Voramar 39 (2023-01-08)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6195080
+Titol: Capítol 39
+MQ: https://mp4-down-medium-es.ccma.cat/0/2/1672454174820.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1672454224934.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/9/1672851641499.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/6/1672851642364.xml
+
+
+Hotel Voramar 40 (2023-01-08)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6195081
+Titol: Capítol 40
+MQ: https://mp4-down-medium-es.ccma.cat/7/8/1672454628287.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/5/1672454674950.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/7/1672928332971.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1672928333448.xml
+
+
+Hotel Voramar 41 (2023-01-15)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6196032
+Titol: Capítol 41
+MQ: https://mp4-down-medium-es.ccma.cat/8/6/1673057240468.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/6/1673057278862.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/9/1673607628298.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/2/1673607629720.xml
+
+
+Hotel Voramar 42 (2023-01-15)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6196031
+Titol: Capítol 42
+MQ: https://mp4-down-medium-es.ccma.cat/1/3/1673057136831.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/6/1673057183067.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/7/1673607632477.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1673607633410.xml
+
+
+Hotel Voramar 43 (2023-01-29)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6198773
+Titol: Capítol 43
+MQ: https://mp4-down-medium-es.ccma.cat/3/6/1674268191563.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/5/1674268242353.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/9/1674278987595.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/0/1674278988001.xml
+
+
+Hotel Voramar 44 (2023-01-29)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6198776
+Titol: Capítol 44
+MQ: https://mp4-down-medium-es.ccma.cat/3/4/1674285716343.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/9/1674285758894.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/7/1674289805673.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/1/1674289806113.xml
+
+
+Hotel Voramar 45 (2023-02-05)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6200236
+Titol: Capítol 45
+MQ: https://mp4-down-medium-es.ccma.cat/8/3/1674882857238.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1674882911802.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/1/1674883821718.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/3/1674883822137.xml
+
+
+Hotel Voramar 46 (2023-02-06)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6200237
+Titol: Capítol 46
+MQ: https://mp4-down-medium-es.ccma.cat/3/9/1674883014093.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/2/1674883070928.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1675270858726.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1675270859687.xml
+
+
+Hotel Voramar 47 (2023-02-12)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6201614
+Titol: Capítol 47
+MQ: https://mp4-down-medium-es.ccma.cat/6/1/1675477377716.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/0/1675477435900.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/0/1675477736709.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/0/1675477737206.xml
+
+
+Hotel Voramar 48 (2023-02-12)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6201615
+Titol: Capítol 48
+MQ: https://mp4-down-medium-es.ccma.cat/2/4/1675477701942.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/0/1675477738205.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1675488593802.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1675488594259.xml
+
+
+Hotel Voramar 49 (2023-02-19)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6203000
+Titol: Capítol 49
+MQ: https://mp4-down-medium-es.ccma.cat/9/2/1676083175929.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/6/1676083220663.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/3/1676289630635.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/1/1676289632316.xml
+
+
+Hotel Voramar 50 (2023-02-20)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6202999
+Titol: Capítol 50
+MQ: https://mp4-down-medium-es.ccma.cat/2/3/1676082163332.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1676082220402.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/2/1676289625823.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/0/1676289627000.xml
+
+
+Hotel Voramar 51 (2023-02-26)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6204295
+Titol: Capítol 51
+MQ: https://mp4-down-medium-es.ccma.cat/9/2/1676687006929.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/2/1676687134729.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1676970004390.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/9/1676970005293.xml
+
+
+Hotel Voramar 52 (2023-02-26)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6204296
+Titol: Capítol 52
+MQ: https://mp4-down-medium-es.ccma.cat/5/9/1676687042595.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/6/1676687192168.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1676984446726.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1676984448192.xml
+
+
+Hotel Voramar 53 (2023-03-05)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6205690
+Titol: Capítol 53
+MQ: https://mp4-down-medium-es.ccma.cat/9/3/1677292306339.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1677292351525.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1677302941759.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1677302942285.xml
+
+
+Hotel Voramar 54 (2023-03-05)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6205691
+Titol: Capítol 54
+MQ: https://mp4-down-medium-es.ccma.cat/8/3/1677292691338.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/7/1677292712271.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/4/1677517231646.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/7/1677517232876.xml
+
+
+Hotel Voramar 55 (2023-03-12)
+Info: http://dinamics.ccma.cat/pvideo/media.jsp?media=video&version=0s&profile=tv&idint=6207097
+Titol: Capítol 55
+MQ: https://mp4-down-medium-es.ccma.cat/1/7/1677898684671.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1677898740095.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/7/1677907695173.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/4/1677907695642.xml

@@ -1,0 +1,24 @@
+Pel.lícula 1 (2021-03-08)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6086856
+Titol: Frederica Montseny, la dona que parla
+Stream: https://adaptive-int.ccma.cat/6/5/6086856/1614481220907/stream.mpd
+
+
+Pel.lícula 1 (2022-12-19)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6191566
+Titol: El metralla
+Stream: https://adaptive-int.ccma.cat/6/6/6191566/1670726980437/stream.mpd
+
+
+Pel.lícula 1 (2024-02-02)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6125735
+Titol: Cordes
+Stream: https://adaptive-int.ccma.cat/5/3/6125735/1634953631192/stream.mpd
+
+
+Pel.lícula 1 (2024-07-20)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6173132
+Titol: L'ofrena
+Stream: https://adaptive-es.3cat.cat/2/3/6173132/1661393084794/stream.mpd
+
+

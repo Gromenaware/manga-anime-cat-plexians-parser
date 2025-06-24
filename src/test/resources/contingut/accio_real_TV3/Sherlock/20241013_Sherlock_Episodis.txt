@@ -1,0 +1,52 @@
+Sherlock 1 (2022-12-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=3403930
+Titol: Sherlock - Capítol 1
+MQ: https://mp4-down-medium-es.ccma.cat/3/9/1670478090993.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/4/1670478164247.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/6/1670488143366.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/2/1670488144228.xml
+
+
+Sherlock 2 (2022-12-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=3415230
+Titol: Capítol 2: El banquer cec
+MQ: https://mp4-down-medium-es.ccma.cat/7/1/1670477944017.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1670478023260.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/0/1544761335900.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/6/1438740248864.xml
+
+
+Sherlock 3 (2022-12-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=3428171
+Titol: Capítol 3: El gran joc
+MQ: https://mp4-down-medium-es.ccma.cat/4/5/1670478491154.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1670478572520.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/4/1544761150443.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/1/1438739922018.xml
+
+
+Sherlock 4 (2022-12-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=4047531
+Titol: Un escàndol a Belgravia
+MQ: https://mp4-down-medium-es.ccma.cat/8/9/1670478241398.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/2/1670478302424.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/3/1544750302931.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1438718763087.xml
+
+
+Sherlock 5 (2022-12-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=4058750
+Titol: Els gossos de Baskerville
+MQ: https://mp4-down-medium-es.ccma.cat/2/5/1670478370352.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/5/1670478429257.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1544749149754.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/2/1438718441022.xml
+
+
+Sherlock 6 (2022-12-15)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=4070690
+Titol: La caiguda de Reichenbach
+MQ: https://mp4-down-medium-es.ccma.cat/2/1/1670477771212.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/4/1670477869948.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/4/1544748900341.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/4/1438717348540.xml

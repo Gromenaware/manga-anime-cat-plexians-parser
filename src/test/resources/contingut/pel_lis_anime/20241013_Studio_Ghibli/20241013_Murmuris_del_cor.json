@@ -1,0 +1,376 @@
+{
+	"informacio": {
+		"estat": {
+			"actiu": true,
+			"id": 0
+		},
+		"id": 6294296,
+		"op": 6008156,
+		"aspectratio": "16:9",
+		"capitol": 1,
+		"titol": "Murmuris del cor",
+		"titol_complet": "Murmuris del cor - Murmuris del cor",
+		"slug": "murmuris-del-cor",
+		"programa": "Murmuris del cor",
+		"permalink": "https://www.ccma.cat/tv3/sx3/murmuris-del-cor/video/6294296/",
+		"tipus_contingut": "PPD",
+		"descripcio": "La Shizuku és una adolescent aficionada a la lectura, que ha planejat passar les seves vacances d'estiu llegint a la biblioteca i traduint cançons estrangeres. Però, per sorpresa seva, els seus plans fan un gir inesperat quan descobreix que les fitxes dels llibres que agafa de la biblioteca tenen un mateix nom: Seiji Amasawa. <br />",
+		"durada": {
+			"text": "01:45:57",
+			"milisegons": 6357000
+		},
+		"data_emissio": {
+			"text": "08/04/2012 15:46",
+			"utc": "2012-04-08T15:46:45+02:00"
+		},
+		"data_caducitat": {
+			"text": "31/10/2024 23:59",
+			"utc": "2024-10-31T23:59:59+01:00"
+		},
+		"tematica": {
+			"text": "Ficció",
+			"id": "50590"
+		},
+		"codi_etic": {
+			"text": "Aquest vídeo és per tots els públics",
+			"id": "CE_TP"
+		},
+		"drets": {
+			"text": "Emissió no disponible fora de l'Estat Espanyol"
+		}
+	},
+	"media": {
+		"geo": "ESPANYA",
+		"format": "MP4",
+		"url": [{
+				"file": "https://mp4-down-high-es.3cat.cat/3/9/1722304407293.mp4",
+				"label": "720p",
+				"active": true
+			}, {
+				"file": "https://mp4-down-medium-es.3cat.cat/1/9/1722304334991.mp4",
+				"label": "480p",
+				"active": false
+			}
+		]
+	},
+	"variants": [{
+			"id": "AUD",
+			"nom": "Audiodescripció",
+			"media": {
+				"geo": "ESPANYA",
+				"format": "MP4",
+				"url": [{
+						"file": "https://mp4-down-medium-es.3cat.cat/3/9/1722259978093.mp4",
+						"label": "480p",
+						"active": false
+					}, {
+						"file": "https://mp4-down-high-es.3cat.cat/8/8/1722260061688.mp4",
+						"label": "720p",
+						"active": true
+					}
+				]
+			}
+		}
+	],
+	"idiomes": [{
+			"id": "PU_CATALA",
+			"desc": "Català",
+			"main": true
+		}
+	],
+	"subtitols": [{
+			"text": "Català",
+			"iso": "ca",
+			"url": "https://statics.3cat.cat/multimedia/vtt/8/6/1722230468668.vtt",
+			"format": "vtt"
+		}
+	],
+	"sprites": {
+		"file": "https://adaptive-es.3cat.cat/6/9/6294296/1722304407293/sprites/sprite.vtt"
+	},
+	"imatges": {
+		"amplada": 670,
+		"alcada": 378,
+		"url": "https://img.3cat.cat/multimedia/jpg/0/2/1722238048720.jpg"
+	},
+	"keyframes": [{
+			"realname": "IMATGE_169",
+			"label": "MASTER",
+			"url": "https://img.3cat.cat/multimedia/jpg/9/7/1722238023579.jpg"
+		}
+	],
+	"publicitat": {
+		"sas": {
+			"adData": {
+				"sas_siteid": 522720,
+				"sas_pageid": 1633167,
+				"sas_pagename": "linear",
+				"sas_format_linears": 114386,
+				"sas_target": "tec=web;pid=ccma;ptf=pc;med=video"
+			},
+			"adRules": [{
+					"duration_min": 0,
+					"duration_max": -1,
+					"data": {
+						"prerolls": {
+							"instances": 2
+						},
+						"midrolls": {
+							"percents": [7, 80],
+							"instances": 2
+						},
+						"postrolls": {
+							"instances": 1
+						}
+					}
+				}
+			],
+			"configuration": {
+				"player": {
+					"closeLinear_out": {
+						"img": "https://img.3cat.cat/multimedia/png/1/0/1524807813701.png"
+					},
+					"closeLinear_over": {
+						"img": "https://img.3cat.cat/multimedia/png/1/4/1524807852941.png"
+					}
+				},
+				"publisher": {
+					"enableAdPauseOnWindowChange": false,
+					"html5SeamlessFullscreen": true,
+					"forceSkipDelay": true,
+					"skipDelay": 16,
+					"totalTimeout": 6
+				},
+				"labels": {
+					"lbl_countdown_skip": {
+						"EN": "Salta d'aquí {0} s"
+					},
+					"lbl_countdown_break_preroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_midroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_postroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_skip_vpaid": {
+						"EN": "Vés al contingut"
+					}
+				},
+				"vpaid": {
+					"enableCountdownVideo": true,
+					"enableSkipLabel": true
+				},
+				"rtb": {
+					"vpmt": 1
+				}
+			}
+		}
+	},
+	"audiencies": {
+		"adobe_analytics": {
+			"id": 6294296,
+			"mediaType": "video",
+			"op-capitol": "6008156-1",
+			"compte": "caproccma",
+			"nom": "Murmuris del cor",
+			"durada": 6357,
+			"reproductor": "HTML5",
+			"directe": 0,
+			"tipus": "DIFERIT",
+			"parametres": {
+				"eVar10": "Murmuris del cor",
+				"prop10": "Murmuris del cor",
+				"eVar11": "video",
+				"prop11": "video",
+				"eVar12": "PPD",
+				"prop12": "PPD",
+				"eVar13": "Murmuris del cor",
+				"prop13": "Murmuris del cor",
+				"eVar14": 6294296,
+				"prop14": 6294296,
+				"eVar15": "No Informat",
+				"prop15": "No Informat",
+				"eVar16": "No Informat",
+				"prop16": "No Informat",
+				"eVar17": "Ficció",
+				"prop17": "Ficció",
+				"eVar18": "Ficció",
+				"prop18": "Ficció",
+				"eVar19": "08/04/2012",
+				"prop19": "08/04/2012",
+				"eVar20": "Alacarta",
+				"prop20": "Alacarta",
+				"eVar21": "X3",
+				"prop21": "X3",
+				"eVar22": "No Informat",
+				"prop22": "No Informat",
+				"eVar23": "~window.location.hostname.toString()",
+				"prop23": "~window.location.hostname.toString()",
+				"eVar24": "~window.location.toString()",
+				"prop24": "~window.location.toString()",
+				"eVar25": "Televisió de Catalunya",
+				"prop25": "Televisió de Catalunya",
+				"eVar26": "Portals web",
+				"prop26": "Portals web",
+				"eVar27": "HTML5",
+				"prop27": "HTML5",
+				"eVar28": "No Informat",
+				"prop28": "No Informat",
+				"eVar29": "Video",
+				"prop29": "Video",
+				"eVar30": 6008156,
+				"prop30": 6008156,
+				"eVar31": "1",
+				"prop31": "1",
+				"eVar32": "No Informat",
+				"prop32": "No Informat",
+				"eVar33": "Murmuris del cor",
+				"prop33": "Murmuris del cor",
+				"eVar34": "No Informat",
+				"prop34": "No Informat",
+				"eVar35": "No Informat",
+				"prop35": "No Informat",
+				"eVar36": "Infantil",
+				"prop36": "Infantil",
+				"eVar37": "No Informat",
+				"prop37": "No Informat",
+				"eVar38": 6357,
+				"prop38": 6357,
+				"eVar39": "No Informat",
+				"prop39": "No Informat",
+				"eVar54": "X3",
+				"prop54": "X3,Carrussel Home - SmartTV/HbbTV,Carrussel Home - Web/App,Programes amb vídeo i videopodcasts,Pel·lícules,Anime X3,Per veure en família,Pel·lícules animació Ghibli",
+				"eVar56": "Geolocalització: Espanya",
+				"prop56": "Geolocalització: Espanya",
+				"eVar58": "~window.getSubtitlesStatus()",
+				"prop58": "~window.getSubtitlesStatus()",
+				"eVar59": "No Informat",
+				"prop59": "No Informat",
+				"eVar60": "No Informat",
+				"prop60": "No Informat",
+				"eVar61": "~s.getTimeParting('n','+1')",
+				"prop61": "~s.getTimeParting('n','+1')",
+				"eVar62": "Català",
+				"prop62": "Català",
+				"eVar63": "~window.getGlobalEvar('eVar63')",
+				"prop63": "~window.getGlobalEvar('eVar63')",
+				"eVar65": "No Informat",
+				"prop65": "No Informat",
+				"eVar66": "~window.isCasting",
+				"prop66": "~window.isCasting",
+				"eVar69": "Pel·lícula Animació",
+				"prop69": "Pel·lícula Animació",
+				"eVar71": "~window.getGlobalEvar('eVar71')",
+				"prop71": "~window.getGlobalEvar('eVar71')",
+				"eVar73": "~window.getGlobalEvar('eVar73')",
+				"prop73": "~window.getGlobalEvar('eVar73')",
+				"eVar78": "30928",
+				"prop78": "30928",
+				"eVar84": "No Informat",
+				"prop84": "No Informat",
+				"eVar87": "~window.getDeviceUID()",
+				"prop87": "~window.getDeviceUID()",
+				"eVar88": "15:46",
+				"prop88": "15:46"
+			}
+		},
+		"matr": {
+			"urls": {
+				"sendmark": "https://audiencies.ccma.cat/img/pixMark.png",
+				"senduserdata": "https://audiencies.ccma.cat/img/pixUser.png",
+				"checkcors": "https://audiencies.ccma.cat/checkCors.json",
+				"gettime": "https://api.3cat.cat/utils/time.php",
+				"senduserchannels": "https://audiencies.ccma.cat/img/pixTvChannels.png"
+			},
+			"parametres": {
+				"pid": "PortalCCMA",
+				"directe": false,
+				"tipus": "video",
+				"content": {
+					"canal": "X3",
+					"id_dty": 6294296,
+					"variant": "~window.getSelectedVideoVariant()",
+					"qualitat": "~window.getVideoQuality()",
+					"format": "~window.getVideoFormat()",
+					"sbt": "~window.isSubtitleEnabled()",
+					"sbtd": "~window.getSubtitlesStatus()"
+				},
+				"dynamic_content": {
+					"versioapp": "~window.appVersion",
+					"aid": "~window.visitor.getMarketingCloudVisitorID()"
+				}
+			}
+		},
+		"kantarst": {
+			"customerC2": 20296419,
+			"directe": 0,
+			"mediaType": "video",
+			"nom": "Murmuris del cor-Murmuris del cor",
+			"parametres": {
+				"ns_st_pu": "CCMA",
+				"ns_st_pr": "Murmuris del cor",
+				"ns_st_ep": "Murmuris del cor",
+				"ns_st_sn": "*null",
+				"ns_st_en": 1,
+				"ns_st_st": "CCMA-TV3",
+				"ns_st_cl": 6357000,
+				"ns_st_ge": "*null",
+				"ns_st_ti": "*null",
+				"ns_st_ia": 0,
+				"ns_st_ce": 0,
+				"ns_st_ddt": "2024-08-02",
+				"ns_st_stc": 2002,
+				"ns_st_ct": "vc12",
+				"nt_st_sn": "*null",
+				"ns_st_tp": 0,
+				"c2": 20296419,
+				"c3": "CCMA",
+				"c4": "CCMA-TV3",
+				"c6": "*null",
+				"fp_offset": 0,
+				"ns_st_li": 0,
+				"ns_st_tdt": "2024-08-02",
+				"ns_st_tm": "23:07",
+				"ns_st_ty": "0001",
+				"cs_ucfr": "~window.getConsentVendor()",
+				"ns_st_ci": 34627
+			}
+		}
+	},
+	"youbora": {
+		"active": true,
+		"debug": false,
+		"opcions": {
+			"content.transactionCode": true,
+			"content.title": "Murmuris del cor",
+			"content.program": "Murmuris del cor",
+			"content.duration": 6357,
+			"content.isLive": false,
+			"content.metadata": {
+				"filename": "~getMediaURL()",
+				"content_id": 6294296,
+				"url": "~window.location.href",
+				"transaction_type": "Free",
+				"device": {
+					"manufacturer": "~getPlayerManufacturer()"
+				}
+			},
+			"extraparam.3": "PortalCCMA",
+			"user.name": "~window.getDeviceUID()",
+			"ad.expectedPattern": {
+				"pre": [2],
+				"mid": [2, 2],
+				"post": [1]
+			},
+			"ad.breaksTime": [0, 420, 5086, 6357]
+		}
+	},
+	"relacionats": {
+		"url": "https://api.3cat.cat/videos?version=2.0&_format=json&items_pagina=16&capitol=1|&tipus_contingut=PPD&ordre=capitol&idioma=PU_CATALA&produccio=6008156&perfil=pc&no_id=6294296"
+	},
+	"recomanats": {
+		"url": "https://api.3cat.cat/usuaris/recomanacions/videos?_format=json&dispositiu=PC&debug=no&version=2.0"
+	}
+}

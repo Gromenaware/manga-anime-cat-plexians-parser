@@ -1,0 +1,704 @@
+Bola de Drac GT (1)
+Títol: Aparició d'unes misterioses boles de drac. En Son Guku s'ha fet petit
+Primera emissió: 09/02/1999 00:00
+Emissió actual: 2018-10-30
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4242770
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/7/1540163943473.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/7/4242770/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/6/7/1540163964476.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/7/1540163943473.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/7/1466701817673.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/8/1438633575589.xml
+
+
+Bola de Drac GT (2)
+Títol: La Pan planeja anar-se'n de viatge per l'univers
+Primera emissió: 10/02/1999 00:00
+Emissió actual: 2018-10-31
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4242750
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/3/1540250216536.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4242750/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/3/1540250238739.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/6/3/1540250216536.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/1/1466615006816.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/1/1438632630218.xml
+
+
+Bola de Drac GT (3)
+Títol: Imegga: un planeta de mercaders supercalculadors
+Primera emissió: 11/02/1999 00:00
+Emissió actual: 2018-10-31
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4244890
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/9/1540250278491.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4244890/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/1/1/1540250299411.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/9/1540250278491.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/9/1466615005091.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1438632559810.xml
+
+
+Bola de Drac GT (4)
+Títol: En Son Goku és un dels delinqüents més buscats
+Primera emissió: 12/02/1999 00:00
+Emissió actual: 2018-11-05
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4245010
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1540703310612.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4245010/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/1/5/1540703328951.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/2/1/1540703310612.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/6/1466615003360.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/0/1438632516602.xml
+
+
+Bola de Drac GT (5)
+Títol: Una trobada amb el Dur: el guardaespatlles Redick
+Primera emissió: 13/02/1999 00:00
+Emissió actual: 2018-11-05
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4245110
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/6/1540703255565.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4245110/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/9/1540703282093.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/5/6/1540703255565.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/6/1466615001561.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/5/1438632474255.xml
+
+
+Bola de Drac GT (6)
+Títol: El planeta dels animals gegantins: per fi troben la bola de les quatre estrelles
+Primera emissió: 14/02/1999 00:00
+Emissió actual: 2018-11-06
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4245131
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/9/1540772656993.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/1/3/4245131/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/6/2/1540772676926.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/9/1540772656993.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/5/1466614999951.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/1/1438632429811.xml
+
+
+Bola de Drac GT (7)
+Títol: El Bigotut que va fer tremolar la Terra
+Primera emissió: 15/02/1999 00:00
+Emissió actual: 2018-11-06
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4245130
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1540772805623.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4245130/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/6/1540772826265.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/2/1540772805623.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/1/1466614993611.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/2/1438632402520.xml
+
+
+Bola de Drac GT (8)
+Títol: El poder d'uns bigotis: fins i tot en Son Goku queda fora de combat
+Primera emissió: 16/02/1999 00:00
+Emissió actual: 2018-11-07
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4245190
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/4/1540859629649.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4245190/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/1/3/1540859652431.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/9/4/1540859629649.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/3/1466614991936.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/8/1438632320986.xml
+
+
+Bola de Drac GT (9)
+Títol: Han robat la bola! En Goku cau en un parany
+Primera emissió: 17/02/1999 00:00
+Emissió actual: 2018-11-07
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4249931
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/7/1540859721875.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/1/3/4249931/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/7/5/1540859744357.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/5/7/1540859721875.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/3/1466614990430.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/4/1438632232540.xml
+
+
+Bola de Drac GT (10)
+Títol: Dansa i atac, Bonpapà!
+Primera emissió: 18/02/1999 00:00
+Emissió actual: 2018-11-08
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4249990
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/3/1540945899533.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4249990/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/1/1540945927115.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/3/1540945899533.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1466614988922.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/2/1438632168327.xml
+
+
+Bola de Drac GT (11)
+Títol: Maledicció de Luud! La Pan convertida en una nina
+Primera emissió: 19/02/1999 00:00
+Emissió actual: 2018-11-08
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4250010
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/1/1540945118715.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4250010/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/5/1540945137453.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/5/1/1540945118715.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/4/1466614987445.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/7/1438632124879.xml
+
+
+Bola de Drac GT (12)
+Títol: L'oracle del déu es converteix en realitat. El Luud es desperta
+Primera emissió: 20/02/1999 00:00
+Emissió actual: 2018-11-09
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4250050
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1541031141680.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4250050/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/2/9/1541031161492.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/0/8/1541031141680.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/5/1466614982953.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/4/1438632060044.xml
+
+
+Bola de Drac GT (13)
+Títol: Un príncep imperial? El misteriós científic Mu
+Primera emissió: 21/02/1999 00:00
+Emissió actual: 2018-11-09
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4249050
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1541031291938.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4249050/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/8/1541031311289.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/8/3/1541031291938.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1466614981326.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1438632018987.xml
+
+
+Bola de Drac GT (14)
+Títol: La sincronia perfecta: l'estratègia contra en Luud
+Primera emissió: 22/02/1999 00:00
+Emissió actual: 2018-11-12
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4251410
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/0/1541306268307.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4251410/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/4/1541306288145.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/7/0/1541306268307.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/4/1466614977742.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/7/1438631988871.xml
+
+
+Bola de Drac GT (15)
+Títol: La Pan abandona els seus companys
+Primera emissió: 23/02/1999 00:00
+Emissió actual: 2018-11-12
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4250550
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/9/1541306807595.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4250550/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/8/5/1541306830158.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/5/9/1541306807595.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/1/1466614976011.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/3/1438631923939.xml
+
+
+Bola de Drac GT (16)
+Títol: El planeta màquina M2: en Guiru és un traïdor
+Primera emissió: 24/02/1999 00:00
+Emissió actual: 2018-11-13
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4250570
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1541378338980.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/7/4250570/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/1/2/1541378360721.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/0/8/1541378338980.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/0/1466614974508.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/0/1438631833309.xml
+
+
+Bola de Drac GT (17)
+Títol: Deixeu-ho tot en mans de la Pan. L'estratègia per rescatar en Goku
+Primera emissió: 25/02/1999 00:00
+Emissió actual: 2018-11-13
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4252551
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/9/1541378581592.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/1/5/4252551/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/5/1541378613253.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/2/9/1541378581592.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1466614970854.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/7/1438631762475.xml
+
+
+Bola de Drac GT (18)
+Títol: Els superpoders d'en Goku no consten a les dades
+Primera emissió: 26/02/1999 00:00
+Emissió actual: 2018-11-14
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4252550
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/9/1541468355290.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4252550/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/1/1541468374913.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/0/9/1541468355290.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/7/1466614965877.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/5/1438631727852.xml
+
+
+Bola de Drac GT (19)
+Títol: Rild, l'últim mutant, presenta batalla
+Primera emissió: 27/02/1999 00:00
+Emissió actual: 2018-11-14
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4255930
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/9/1541468026991.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4255930/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/4/0/1541468045904.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/9/1541468026991.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1466614959374.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1438631689487.xml
+
+
+Bola de Drac GT (20)
+Títol: Un combat entre els més forts. El Superguerrer contra l'hipermega Rild
+Primera emissió: 28/02/1999 00:00
+Emissió actual: 2018-11-15
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4255950
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/3/1541562997230.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4255950/1541563018013/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/1/1541563018013.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/0/3/1541562997230.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1466614952358.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/3/1438630744036.xml
+
+
+Bola de Drac GT (21)
+Títol: Què passa? En Goku convertit en planxa de metall! (cap.21)
+Primera emissió: 01/03/1999 00:00
+Emissió actual: 2018-11-15
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4255970
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/3/1490232152139.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/7/4255970/1541562175109/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/0/1541562175109.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/8/5/1541562151958.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/2/1466614945423.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/3/1438630717437.xml
+
+
+Bola de Drac GT (22)
+Títol: El neomutant Baby:un enemic terrible amb cara de bebè
+Primera emissió: 02/03/1999 00:00
+Emissió actual: 2018-11-16
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4256470
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/6/1541636846666.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/7/4256470/1541636865715/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/1/1541636865715.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/6/6/1541636846666.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/8/1466614943985.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/4/1438630624942.xml
+
+
+Bola de Drac GT (23)
+Títol: Un perill amagat: la nau abandonada i el nen misteriós
+Primera emissió: 03/03/1999 00:00
+Emissió actual: 2018-11-16
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4257050
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/3/1541636632233.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4257050/1541636654369/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/6/1541636654369.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/3/1541636632233.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1466614942389.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/4/1438630517844.xml
+
+
+Bola de Drac GT (24)
+Títol: En Baby ataca: la persecució dels tres superguerrers
+Primera emissió: 04/03/1999 00:00
+Emissió actual: 2018-11-19
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4257070
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/2/1541978329425.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/7/4257070/1541978369303/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/0/1541978369303.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/5/2/1541978329425.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/9/1466614935592.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/6/1438630453864.xml
+
+
+Bola de Drac GT (25)
+Títol: És terrible! En Baby es presenta a la Terra
+Primera emissió: 05/03/1999 00:00
+Emissió actual: 2018-11-19
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4257890
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/9/1541978338894.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4257890/1541978392687/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/7/8/1541978392687.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/4/9/1541978338894.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/0/1466614928608.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/2/1438630381420.xml
+
+
+Bola de Drac GT (26)
+Títol: Son Gohan contra Son Goten: la pitjor baralla entre germans
+Primera emissió: 06/03/1999 00:00
+Emissió actual: 2018-11-20
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4257910
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/2/1541985540428.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4257910/1541985581999/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/9/1541985581999.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/8/2/1541985540428.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1466614921775.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/6/1438630302969.xml
+
+
+Bola de Drac GT (27)
+Títol: Ambicions acomplertes: en Baby posseeix en Vegeta
+Primera emissió: 07/03/1999 00:00
+Emissió actual: 2018-11-20
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4255890
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/4/1541985349549.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4255890/1541985379968/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/8/6/1541985379968.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/9/4/1541985349549.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/7/1466614914779.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/6/1438630241860.xml
+
+
+Bola de Drac GT (28)
+Títol: El retorn d'en Son Goku: tot el món és ple d'enemics?
+Primera emissió: 08/03/1999 00:00
+Emissió actual: 2018-11-21
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4255910
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/2/1542068742825.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4255910/1542068762864/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/4/6/1542068762864.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/5/2/1542068742825.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1466614908054.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/4/1438630153345.xml
+
+
+Bola de Drac GT (29)
+Títol: Superperillós: en Baby ha vençut tres superguerrers
+Primera emissió: 09/03/1999 00:00
+Emissió actual: 2018-11-21
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4255990
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/3/1542069462936.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4255990/1542069482637/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/7/3/1542069482637.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/6/3/1542069462936.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1466614906334.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/2/1438630046923.xml
+
+
+Bola de Drac GT (30)
+Títol: En Goku ha desaparegut: que sóc mort?
+Primera emissió: 10/03/1999 00:00
+Emissió actual: 2018-11-22
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4256030
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1542154976380.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4256030/1542154998240/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/0/4/1542154998240.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/0/8/1542154976380.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1466614904868.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/4/1438629942240.xml
+
+
+Bola de Drac GT (31)
+Títol: Quina sorpresa! L'espai d'en Sugoru s'ensorra
+Primera emissió: 11/03/1999 00:00
+Emissió actual: 2018-11-22
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4257510
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1542156121220.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4257510/1542156142426/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/6/2/1542156142426.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/0/2/1542156121220.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/5/1466614898253.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/0/1438629858201.xml
+
+
+Bola de Drac GT (32)
+Títol: Ub, el guerrer ple d'ira crida: torneu-me en Son Goku!
+Primera emissió: 12/03/1999 00:00
+Emissió actual: 2018-11-23
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4256050
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/5/1542244131351.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4256050/1542244152609/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/0/1542244152609.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/5/1542244131351.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/3/1466614891633.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/0/1438628908207.xml
+
+
+Bola de Drac GT (33)
+Títol: L'Ub ha ressuscitat: afanya't Goku!
+Primera emissió: 13/03/1999 00:00
+Emissió actual: 2018-11-23
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4265090
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/1/1542243198117.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4265090/1542243219981/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/1/8/1542243219981.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/7/1/1542243198117.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/8/1466614884986.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/6/1438628810565.xml
+
+
+Bola de Drac GT (34)
+Títol: Ha fallat la transformació? En Goku transformat en mico gegant en fa un gra massa
+Primera emissió: 14/03/1999 00:00
+Emissió actual: 2018-11-26
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4265130
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/7/1542516874673.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4265130/1542516895940/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/0/4/1542516895940.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/7/1542516874673.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/6/1466614878566.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/5/1438628716854.xml
+
+
+Bola de Drac GT (35)
+Títol: El superpoderós! En Goku es converteix en un superguerrer de quart nivell
+Primera emissió: 15/03/1999 00:00
+Emissió actual: 2018-11-26
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4265231
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/5/1542516781454.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/1/3/4265231/1542516805049/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/4/1542516805049.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/4/5/1542516781454.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/5/1466614867956.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1438628613632.xml
+
+
+Bola de Drac GT (36)
+Títol: Un monstre immortal? Ara en Baby és un malvat mico gegantí
+Primera emissió: 16/03/1999 00:00
+Emissió actual: 2018-11-27
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4265250
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/9/1542590234199.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4265250/1542590256765/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/6/1542590256765.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/9/9/1542590234199.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/7/1466614866479.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/9/1438628539991.xml
+
+
+Bola de Drac GT (37)
+Títol: K. O. doble entre en Goku i en Baby
+Primera emissió: 17/03/1999 00:00
+Emissió actual: 2018-11-27
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4265891
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1542590057038.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/1/9/4265891/1542590088886/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/6/8/1542590088886.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/8/3/1542590057038.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/8/1466614864886.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1438628422535.xml
+
+
+Bola de Drac GT (38)
+Títol: En Goku recupera el quart nivell de superguerrer gràcies a l'energia de tothom
+Primera emissió: 18/03/1999 00:00
+Emissió actual: 2018-11-28
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4265870
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/6/1542673613361.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/7/4265870/1542673641711/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/1/1/1542673641711.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/6/1542673613361.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/3/1466614858432.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/8/1438628344289.xml
+
+
+Bola de Drac GT (39)
+Títol: Mor d'una vegada, Baby! Un atac coratjós
+Primera emissió: 19/03/1999 00:00
+Emissió actual: 2018-11-28
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4266530
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/8/1542673951689.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4266530/1542673976616/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/6/1/1542673976616.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/9/8/1542673951689.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1466614851775.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/6/1438628258764.xml
+
+
+Bola de Drac GT (40)
+Títol: La terra explota! En Cor Petit pren una decisió important
+Primera emissió: 20/03/1999 00:00
+Emissió actual: 2018-11-29
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4266570
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/3/1542760764237.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/7/4266570/1542760783054/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/4/5/1542760783054.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/7/3/1542760764237.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/5/1466614846755.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/6/1438628195963.xml
+
+
+Bola de Drac GT (41)
+Títol: El nou campió mundial d'arts marcials. Qui serà el successor del senyor Satàn?
+Primera emissió: 21/03/1999 00:00
+Emissió actual: 2018-11-29
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4268410
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/2/1542761029924.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4268410/1542761052751/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/1/5/1542761052751.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/4/2/1542761029924.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1466614845254.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/4/1438628111742.xml
+
+
+Bola de Drac GT (42)
+Títol: Els enemics més poderosos d'en Goku ressusciten de l'infern
+Primera emissió: 22/03/1999 00:00
+Emissió actual: 2018-11-30
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4268230
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1542846367438.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4268230/1542846389659/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/5/1542846389659.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/8/3/1542846367438.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/9/1466614837993.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/6/1438627205863.xml
+
+
+Bola de Drac GT (43)
+Títol: La ressurrecció dels guerrers infernals: en Cèl·lula i en Freezer
+Primera emissió: 23/03/1999 00:00
+Emissió actual: 2018-11-30
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4269872
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/4/1542846097547.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/2/7/4269872/1542846121109/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/0/1542846121109.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/7/4/1542846097547.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/6/1466614835762.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/2/1438627130922.xml
+
+
+Bola de Drac GT (44)
+Títol: Els dos A-17 es fusionen en un sol ésser humà
+Primera emissió: 24/03/1999 00:00
+Emissió actual: 2018-12-03
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4269871
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/6/1543122116262.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/1/7/4269871/1543122137731/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/1/3/1543122137731.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/2/6/1543122116262.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/3/1466614833836.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/9/1438627020093.xml
+
+
+Bola de Drac GT (45)
+Títol: Afanya't, Son Goku! l'estratègia per fugir de l'infern
+Primera emissió: 25/03/1999 00:00
+Emissió actual: 2018-12-03
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4271850
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1543121995623.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4271850/1543122016247/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/7/4/1543122016247.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/2/1543121995623.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1466614829606.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/2/1438626908120.xml
+
+
+Bola de Drac GT (46)
+Títol: Combat ferotge entre en Goku, el superguerrer de quart nivell i el super A-17
+Primera emissió: 26/03/1999 00:00
+Emissió actual: 2018-12-04
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4271890
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/9/1543195597295.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4271890/1543195619975/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/7/1543195619975.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/5/9/1543195597295.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/1/1466614827815.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/7/1438626823370.xml
+
+
+Bola de Drac GT (47)
+Títol: Un tomb increïble de la fortuna. L'A-17 explota després d'un atac doble
+Primera emissió: 27/03/1999 00:00
+Emissió actual: 2018-12-04
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4282210
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/3/1543195323931.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4282210/1543195346063/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/6/1543195346063.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/3/1543195323931.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/0/1466614821901.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/8/1438626735081.xml
+
+
+Bola de Drac GT (48)
+Títol: Quina sorpresa! El drac Sheron s'ha convertit en un enemic
+Primera emissió: 28/03/1999 00:00
+Emissió actual: 2018-12-05
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4284150
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/5/1543282917457.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4284150/1543282924942/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/2/4/1543282924942.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/7/5/1543282917457.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/2/1466614820024.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1438626649985.xml
+
+
+Bola de Drac GT (49)
+Títol: L'enemic més fort? El drac que fa servir una tècnica secreta terrorífica
+Primera emissió: 29/03/1999 00:00
+Emissió actual: 2018-12-05
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4284151
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/8/1543282935189.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/1/5/4284151/1543282942683/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/8/1543282942683.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/9/8/1543282935189.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/7/1466614818373.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/5/1438626565355.xml
+
+
+Bola de Drac GT (50)
+Títol: El drac de les cinc estrelles: un monstre elèctric
+Primera emissió: 30/03/1999 00:00
+Emissió actual: 2018-12-10
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4284270
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/9/1543792767793.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/7/4284270/1543792811158/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/8/5/1543792811158.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/9/1543792767793.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/6/1466614816463.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/2/1438626476321.xml
+
+
+Bola de Drac GT (51)
+Títol: El drac de sis estrelles: el gran atac per trobar el punt feble de l'huracà
+Primera emissió: 31/03/1999 00:00
+Emissió actual: 2018-12-10
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4284230
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/6/1543793333364.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4284230/1543793354864/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/4/6/1543793354864.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/4/6/1543793333364.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/9/1466614814692.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/1/1438626360211.xml
+
+
+Bola de Drac GT (52)
+Títol: No us encanteu: l'autèntica estratègia del drac de set estrelles
+Primera emissió: 01/04/1999 00:00
+Emissió actual: 2018-12-11
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4290030
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/7/1543799728173.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4290030/1543799749659/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/9/5/1543799749659.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/7/1543799728173.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1544520350064.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/0/1438625415408.xml
+
+
+Bola de Drac GT (53)
+Títol: Ha estat la fi de la Pan? El superkamehame que fa plorar
+Primera emissió: 02/04/1999 00:00
+Emissió actual: 2018-12-11
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4289231
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/4/1543799909147.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/1/3/4289231/1543799931316/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/6/1/1543799931316.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/7/4/1543799909147.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/6/1544520351369.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1438625328210.xml
+
+
+Bola de Drac GT (54)
+Títol: El poder de 6.000 graus! El drac del sol!
+Primera emissió: 03/04/1999 00:00
+Emissió actual: 2018-12-12
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4290710
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/6/1543884045460.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4290710/1543884067000/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/0/0/1543884067000.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/0/6/1543884045460.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/9/1544520307295.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1438625258787.xml
+
+
+Bola de Drac GT (55)
+Títol: La Bulma actua! El pla per rehabilitar en Vegeta
+Primera emissió: 04/04/1999 00:00
+Emissió actual: 2018-12-12
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4292330
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/8/1543884162287.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4292330/1543884186745/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/4/1543884186745.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/7/8/1543884162287.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/0/1544520305900.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/8/1438625176780.xml
+
+
+Bola de Drac GT (56)
+Títol: Després del sol, el fred extrem. Els dracs bessons del foc i el gel
+Primera emissió: 05/04/1999 00:00
+Emissió actual: 2018-12-13
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4294510
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/0/1543969562305.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4294510/1543969580047/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/7/4/1543969580047.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/5/0/1543969562305.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/1/1544520265615.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/6/1438625097565.xml
+
+
+Bola de Drac GT (57)
+Títol: Un poder irresistible. El drac que controla els dracs malignes
+Primera emissió: 06/04/1999 00:00
+Emissió actual: 2018-12-13
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4296390
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/7/1543969663476.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4296390/1543969692147/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/7/4/1543969692147.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/6/7/1543969663476.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/9/1544520266898.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1438625033887.xml
+
+
+Bola de Drac GT (58)
+Títol: Preparant el contraatac: superar el quart nivell dels superguerrers
+Primera emissió: 07/04/1999 00:00
+Emissió actual: 2018-12-14
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4297590
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/4/1544068497541.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4297590/1544068519895/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/9/1544068519895.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/4/1544068497541.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/9/1544520226398.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/5/1438624917957.xml
+
+
+Bola de Drac GT (59)
+Títol: És un aliat o un enemic? Apareix el gran mico Vegeta
+Primera emissió: 08/04/1999 00:00
+Emissió actual: 2018-12-14
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4298390
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/7/1544068955271.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4298390/1544068977286/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/6/8/1544068977286.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/7/1544068955271.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/3/1544520227538.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1438624828648.xml
+
+
+Bola de Drac GT (60)
+Títol: Fusió! El super Gogeta definitiu
+Primera emissió: 09/04/1999 00:00
+Emissió actual: 2018-12-17
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4303050
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/0/1544332535801.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4303050/1544332556622/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/2/2/1544332556622.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/0/1544332535801.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/0/1544520172805.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/7/1438624767571.xml
+
+
+Bola de Drac GT (61)
+Títol: Segur que guanyaré, diu en Son Goku, després d'empassar-se la bola de drac de les quatre estrelles
+Primera emissió: 10/04/1999 00:00
+Emissió actual: 2018-12-17
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4304110
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/5/1544332500353.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/1/4304110/1544332522655/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/5/5/1544332522655.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/5/1544332500353.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/1/1544520171718.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/1/1438624706611.xml
+
+
+Bola de Drac GT (62)
+Títol: El rescat d'en Son Goku: apareix l'últim aliat
+Primera emissió: 11/04/1999 00:00
+Emissió actual: 2018-12-18
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4304190
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/6/1544400730661.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/9/4304190/1544400764183/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/3/8/1544400764183.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/6/1544400730661.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/3/1544520137935.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/7/1438624660871.xml
+
+
+Bola de Drac GT (63)
+Títol: Un victòria meravellosa! En Son Goku salva l'univers
+Primera emissió: 12/04/1999 00:00
+Emissió actual: 2018-12-18
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4306350
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/9/1544401048593.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/5/4306350/1544401068848/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/8/4/1544401068848.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/9/1544401048593.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/4/1544520139149.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/5/1438624622556.xml
+
+
+Bola de Drac GT (64)
+Títol: Adéu, Goku, o potser només fins aviat
+Primera emissió: 13/04/1999 00:00
+Emissió actual: 2018-12-19
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4308130
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/9/1544487085593.mp4
+HQ: [{'file': 'https://adaptive-es.ccma.cat/0/3/4308130/1544487120752/stream.mpd', 'label': 'DASH', 'active': True}, {'file': 'https://mp4-down-high-es.ccma.cat/2/5/1544487120752.mp4', 'label': '720p'}, {'file': 'https://mp4-down-medium-es.ccma.cat/3/9/1544487085593.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/8/1544520098884.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/9/1438624540690.xml
+
+

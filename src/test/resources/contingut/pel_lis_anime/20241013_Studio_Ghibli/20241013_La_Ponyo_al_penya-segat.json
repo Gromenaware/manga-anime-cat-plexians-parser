@@ -1,0 +1,376 @@
+{
+	"informacio": {
+		"estat": {
+			"actiu": true,
+			"id": 0
+		},
+		"id": 6290413,
+		"op": 6006456,
+		"aspectratio": "16:9",
+		"capitol": 1,
+		"titol": "La Ponyo al penya-segat",
+		"titol_complet": "LA PONYO AL PENYA SEGAT   - La Ponyo al penya-segat",
+		"slug": "la-ponyo-al-penya-segat",
+		"programa": "Pel·lícula<br />",
+		"permalink": "https://www.ccma.cat/tv3/sx3/la-ponyo-al-penya-segat/video/6290413/",
+		"tipus_contingut": "PPD",
+		"descripcio": "El Sosuke és un nen de cinc anys que un dia, mentre juga a la platja, es troba un peixet de colors, la Ponyo. Ella té el cap encallat en un pot de melmelada, però el nen la rescata i promet cuidar-la. El pare de la Ponyo, un bruixot que viu a les profunditats del mar, l'obliga a tornar, però la Ponyo vol convertir-se en humana per poder estar amb el Sosuke.",
+		"durada": {
+			"text": "01:36:27",
+			"milisegons": 5787000
+		},
+		"data_emissio": {
+			"text": "05/07/2024 23:09",
+			"utc": "2024-07-05T23:09:00+02:00"
+		},
+		"data_caducitat": {
+			"text": "03/10/2024 23:59",
+			"utc": "2024-10-03T23:59:59+02:00"
+		},
+		"tematica": {
+			"text": "Ficció",
+			"id": "50590"
+		},
+		"codi_etic": {
+			"text": "Aquest vídeo és per tots els públics",
+			"id": "CE_TP"
+		},
+		"drets": {
+			"text": "Emissió no disponible fora de l'Estat Espanyol"
+		}
+	},
+	"media": {
+		"geo": "ESPANYA",
+		"format": "MP4",
+		"url": [{
+				"file": "https://mp4-down-high-es.3cat.cat/1/6/1719795211161.mp4",
+				"label": "720p",
+				"active": true
+			}, {
+				"file": "https://mp4-down-medium-es.3cat.cat/9/3/1719795125739.mp4",
+				"label": "480p",
+				"active": false
+			}
+		]
+	},
+	"variants": [{
+			"id": "AUD",
+			"nom": "Audiodescripció",
+			"media": {
+				"geo": "ESPANYA",
+				"format": "MP4",
+				"url": [{
+						"file": "https://mp4-down-medium-es.3cat.cat/7/8/1720183789187.mp4",
+						"label": "480p",
+						"active": false
+					}, {
+						"file": "https://mp4-down-high-es.3cat.cat/4/7/1720183860474.mp4",
+						"label": "720p",
+						"active": true
+					}
+				]
+			}
+		}
+	],
+	"idiomes": [{
+			"id": "PU_CATALA",
+			"desc": "Català",
+			"main": true
+		}
+	],
+	"subtitols": [{
+			"text": "Català",
+			"iso": "ca",
+			"url": "https://statics.3cat.cat/multimedia/vtt/6/9/1719811256996.vtt",
+			"format": "vtt"
+		}
+	],
+	"sprites": {
+		"file": "https://adaptive-es.3cat.cat/3/1/6290413/1719795211161/sprites/sprite.vtt"
+	},
+	"imatges": {
+		"amplada": 670,
+		"alcada": 378,
+		"url": "https://img.3cat.cat/multimedia/jpg/3/2/1719819261923.jpg"
+	},
+	"keyframes": [{
+			"realname": "IMATGE_169",
+			"label": "MASTER",
+			"url": "https://img.3cat.cat/multimedia/jpg/6/6/1719819234466.jpg"
+		}
+	],
+	"publicitat": {
+		"sas": {
+			"adData": {
+				"sas_siteid": 522720,
+				"sas_pageid": 1633167,
+				"sas_pagename": "linear",
+				"sas_format_linears": 114386,
+				"sas_target": "tec=web;pid=ccma;ptf=pc;med=video"
+			},
+			"adRules": [{
+					"duration_min": 0,
+					"duration_max": -1,
+					"data": {
+						"prerolls": {
+							"instances": 2
+						},
+						"midrolls": {
+							"percents": [7, 80],
+							"instances": 2
+						},
+						"postrolls": {
+							"instances": 1
+						}
+					}
+				}
+			],
+			"configuration": {
+				"player": {
+					"closeLinear_out": {
+						"img": "https://img.3cat.cat/multimedia/png/1/0/1524807813701.png"
+					},
+					"closeLinear_over": {
+						"img": "https://img.3cat.cat/multimedia/png/1/4/1524807852941.png"
+					}
+				},
+				"publisher": {
+					"enableAdPauseOnWindowChange": false,
+					"html5SeamlessFullscreen": true,
+					"forceSkipDelay": true,
+					"skipDelay": 16,
+					"totalTimeout": 6
+				},
+				"labels": {
+					"lbl_countdown_skip": {
+						"EN": "Salta d'aquí {0} s"
+					},
+					"lbl_countdown_break_preroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_midroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_postroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_skip_vpaid": {
+						"EN": "Vés al contingut"
+					}
+				},
+				"vpaid": {
+					"enableCountdownVideo": true,
+					"enableSkipLabel": true
+				},
+				"rtb": {
+					"vpmt": 1
+				}
+			}
+		}
+	},
+	"audiencies": {
+		"adobe_analytics": {
+			"id": 6290413,
+			"mediaType": "video",
+			"op-capitol": "6006456-1",
+			"compte": "caproccma",
+			"nom": "La Ponyo al penya-segat",
+			"durada": 5787,
+			"reproductor": "HTML5",
+			"directe": 0,
+			"tipus": "DIFERIT",
+			"parametres": {
+				"eVar10": "La Ponyo al penya-segat",
+				"prop10": "La Ponyo al penya-segat",
+				"eVar11": "video",
+				"prop11": "video",
+				"eVar12": "PPD",
+				"prop12": "PPD",
+				"eVar13": "Pel·lícula<br />",
+				"prop13": "Pel·lícula<br />",
+				"eVar14": 6290413,
+				"prop14": 6290413,
+				"eVar15": "No Informat",
+				"prop15": "No Informat",
+				"eVar16": "No Informat",
+				"prop16": "No Informat",
+				"eVar17": "Ficció",
+				"prop17": "Ficció",
+				"eVar18": "Ficció",
+				"prop18": "Ficció",
+				"eVar19": "05/07/2024",
+				"prop19": "05/07/2024",
+				"eVar20": "Alacarta",
+				"prop20": "Alacarta",
+				"eVar21": "X3",
+				"prop21": "X3",
+				"eVar22": "No Informat",
+				"prop22": "No Informat",
+				"eVar23": "~window.location.hostname.toString()",
+				"prop23": "~window.location.hostname.toString()",
+				"eVar24": "~window.location.toString()",
+				"prop24": "~window.location.toString()",
+				"eVar25": "Televisió de Catalunya",
+				"prop25": "Televisió de Catalunya",
+				"eVar26": "Portals web",
+				"prop26": "Portals web",
+				"eVar27": "HTML5",
+				"prop27": "HTML5",
+				"eVar28": "No Informat",
+				"prop28": "No Informat",
+				"eVar29": "Video",
+				"prop29": "Video",
+				"eVar30": 6006456,
+				"prop30": 6006456,
+				"eVar31": "1",
+				"prop31": "1",
+				"eVar32": "No Informat",
+				"prop32": "No Informat",
+				"eVar33": "Pel·lícula<br />",
+				"prop33": "Pel·lícula<br />",
+				"eVar34": "No Informat",
+				"prop34": "No Informat",
+				"eVar35": "No Informat",
+				"prop35": "No Informat",
+				"eVar36": "Infantil",
+				"prop36": "Infantil",
+				"eVar37": "No Informat",
+				"prop37": "No Informat",
+				"eVar38": 5787,
+				"prop38": 5787,
+				"eVar39": "No Informat",
+				"prop39": "No Informat",
+				"eVar54": "X3",
+				"prop54": "X3,Carrussel Home - SmartTV/HbbTV,Carrussel Home - Web/App,Pel·lícules,Anime X3,Pel·lis X3,Per veure en família,Pel·lícules animació Ghibli",
+				"eVar56": "Geolocalització: Espanya",
+				"prop56": "Geolocalització: Espanya",
+				"eVar58": "~window.getSubtitlesStatus()",
+				"prop58": "~window.getSubtitlesStatus()",
+				"eVar59": "No Informat",
+				"prop59": "No Informat",
+				"eVar60": "No Informat",
+				"prop60": "No Informat",
+				"eVar61": "~s.getTimeParting('n','+1')",
+				"prop61": "~s.getTimeParting('n','+1')",
+				"eVar62": "Català",
+				"prop62": "Català",
+				"eVar63": "~window.getGlobalEvar('eVar63')",
+				"prop63": "~window.getGlobalEvar('eVar63')",
+				"eVar65": "No Informat",
+				"prop65": "No Informat",
+				"eVar66": "~window.isCasting",
+				"prop66": "~window.isCasting",
+				"eVar69": "Pel·lícula Animació",
+				"prop69": "Pel·lícula Animació",
+				"eVar71": "~window.getGlobalEvar('eVar71')",
+				"prop71": "~window.getGlobalEvar('eVar71')",
+				"eVar73": "~window.getGlobalEvar('eVar73')",
+				"prop73": "~window.getGlobalEvar('eVar73')",
+				"eVar78": "71245",
+				"prop78": "71245",
+				"eVar84": "No Informat",
+				"prop84": "No Informat",
+				"eVar87": "~window.getDeviceUID()",
+				"prop87": "~window.getDeviceUID()",
+				"eVar88": "23:09",
+				"prop88": "23:09"
+			}
+		},
+		"matr": {
+			"urls": {
+				"sendmark": "https://audiencies.ccma.cat/img/pixMark.png",
+				"senduserdata": "https://audiencies.ccma.cat/img/pixUser.png",
+				"checkcors": "https://audiencies.ccma.cat/checkCors.json",
+				"gettime": "https://api.3cat.cat/utils/time.php",
+				"senduserchannels": "https://audiencies.ccma.cat/img/pixTvChannels.png"
+			},
+			"parametres": {
+				"pid": "PortalCCMA",
+				"directe": false,
+				"tipus": "video",
+				"content": {
+					"canal": "X3",
+					"id_dty": 6290413,
+					"variant": "~window.getSelectedVideoVariant()",
+					"qualitat": "~window.getVideoQuality()",
+					"format": "~window.getVideoFormat()",
+					"sbt": "~window.isSubtitleEnabled()",
+					"sbtd": "~window.getSubtitlesStatus()"
+				},
+				"dynamic_content": {
+					"versioapp": "~window.appVersion",
+					"aid": "~window.visitor.getMarketingCloudVisitorID()"
+				}
+			}
+		},
+		"kantarst": {
+			"customerC2": 20296419,
+			"directe": 0,
+			"mediaType": "video",
+			"nom": "La Ponyo al penya-segat-Pel·lícula<br />",
+			"parametres": {
+				"ns_st_pu": "CCMA",
+				"ns_st_pr": "Pel·lícula<br />",
+				"ns_st_ep": "La Ponyo al penya-segat",
+				"ns_st_sn": "*null",
+				"ns_st_en": 1,
+				"ns_st_st": "CCMA-TV3",
+				"ns_st_cl": 5787000,
+				"ns_st_ge": "*null",
+				"ns_st_ti": "*null",
+				"ns_st_ia": 0,
+				"ns_st_ce": 0,
+				"ns_st_ddt": "2024-07-05",
+				"ns_st_stc": 2002,
+				"ns_st_ct": "vc12",
+				"nt_st_sn": "*null",
+				"ns_st_tp": 0,
+				"c2": 20296419,
+				"c3": "CCMA",
+				"c4": "CCMA-TV3",
+				"c6": "*null",
+				"fp_offset": 0,
+				"ns_st_li": 0,
+				"ns_st_tdt": "2024-07-05",
+				"ns_st_tm": "23:10",
+				"ns_st_ty": "0001",
+				"cs_ucfr": "~window.getConsentVendor()",
+				"ns_st_ci": 34582
+			}
+		}
+	},
+	"youbora": {
+		"active": true,
+		"debug": false,
+		"opcions": {
+			"content.transactionCode": true,
+			"content.title": "La Ponyo al penya-segat",
+			"content.program": "Pel·lícula<br />",
+			"content.duration": 5787,
+			"content.isLive": false,
+			"content.metadata": {
+				"filename": "~getMediaURL()",
+				"content_id": 6290413,
+				"url": "~window.location.href",
+				"transaction_type": "Free",
+				"device": {
+					"manufacturer": "~getPlayerManufacturer()"
+				}
+			},
+			"extraparam.3": "PortalCCMA",
+			"user.name": "~window.getDeviceUID()",
+			"ad.expectedPattern": {
+				"pre": [2],
+				"mid": [2, 2],
+				"post": [1]
+			},
+			"ad.breaksTime": [0, 420, 4630, 5787]
+		}
+	},
+	"relacionats": {
+		"url": "https://api.3cat.cat/videos?version=2.0&_format=json&items_pagina=16&capitol=1|&tipus_contingut=PPD&ordre=capitol&idioma=PU_CATALA&produccio=6006456&perfil=pc&no_id=6290413"
+	},
+	"recomanats": {
+		"url": "https://api.3cat.cat/usuaris/recomanacions/videos?_format=json&dispositiu=PC&debug=no&version=2.0"
+	}
+}

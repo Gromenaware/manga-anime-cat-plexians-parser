@@ -1,0 +1,376 @@
+{
+	"informacio": {
+		"estat": {
+			"actiu": true,
+			"id": 0
+		},
+		"id": 6294297,
+		"op": 6008154,
+		"aspectratio": "16:9",
+		"capitol": 1,
+		"titol": "El castell al cel",
+		"titol_complet": "EL CASTELL AL CEL - El castell al cel",
+		"slug": "el-castell-al-cel",
+		"programa": "El castell al cel",
+		"permalink": "https://www.ccma.cat/tv3/sx3/el-castell-al-cel/video/6294297/",
+		"tipus_contingut": "PPD",
+		"descripcio": "La Sheeta és l'única persona al món que coneix el secret de la ciutat flotant, resultat d'una civilització que sembla que està extingida. I en Pazu és un jove rebel que es creuarà en el camí de la Sheeta. Arribar al castell del cel i conèixer els seus misteris ocults es convertirà en una odissea plena d'aventures i personatges, que reforçarà, al mateix temps, la relació d'afecte que hi ha entre en Pazu i la Sheeta davant de l'adversitat.",
+		"durada": {
+			"text": "01:59:19",
+			"milisegons": 7159000
+		},
+		"data_emissio": {
+			"text": "20/05/2012 15:45",
+			"utc": "2012-05-20T15:45:47+02:00"
+		},
+		"data_caducitat": {
+			"text": "01/11/2024 23:59",
+			"utc": "2024-11-01T23:59:59+01:00"
+		},
+		"tematica": {
+			"text": "Ficció",
+			"id": "50590"
+		},
+		"codi_etic": {
+			"text": "Aquest vídeo és per tots els públics",
+			"id": "CE_TP"
+		},
+		"drets": {
+			"text": "Emissió no disponible fora de l'Estat Espanyol"
+		}
+	},
+	"media": {
+		"geo": "ESPANYA",
+		"format": "MP4",
+		"url": [{
+				"file": "https://mp4-down-high-es.3cat.cat/2/2/1722905821822.mp4",
+				"label": "720p",
+				"active": true
+			}, {
+				"file": "https://mp4-down-medium-es.3cat.cat/1/7/1722905738871.mp4",
+				"label": "480p",
+				"active": false
+			}
+		]
+	},
+	"variants": [{
+			"id": "AUD",
+			"nom": "Audiodescripció",
+			"media": {
+				"geo": "ESPANYA",
+				"format": "MP4",
+				"url": [{
+						"file": "https://mp4-down-medium-es.3cat.cat/4/8/1722598643084.mp4",
+						"label": "480p",
+						"active": false
+					}, {
+						"file": "https://mp4-down-high-es.3cat.cat/3/9/1722598727493.mp4",
+						"label": "720p",
+						"active": true
+					}
+				]
+			}
+		}
+	],
+	"idiomes": [{
+			"id": "PU_CATALA",
+			"desc": "Català",
+			"main": true
+		}
+	],
+	"subtitols": [{
+			"text": "Català",
+			"iso": "ca",
+			"url": "https://statics.3cat.cat/multimedia/vtt/9/7/1722748803579.vtt",
+			"format": "vtt"
+		}
+	],
+	"sprites": {
+		"file": "https://adaptive-es.3cat.cat/7/9/6294297/1722905821822/sprites/sprite.vtt"
+	},
+	"imatges": {
+		"amplada": 670,
+		"alcada": 378,
+		"url": "https://img.3cat.cat/multimedia/jpg/8/7/1722238585278.jpg"
+	},
+	"keyframes": [{
+			"realname": "IMATGE_169",
+			"label": "MASTER",
+			"url": "https://img.3cat.cat/multimedia/jpg/1/1/1722238573011.jpg"
+		}
+	],
+	"publicitat": {
+		"sas": {
+			"adData": {
+				"sas_siteid": 522720,
+				"sas_pageid": 1633167,
+				"sas_pagename": "linear",
+				"sas_format_linears": 114386,
+				"sas_target": "tec=web;pid=ccma;ptf=pc;med=video"
+			},
+			"adRules": [{
+					"duration_min": 0,
+					"duration_max": -1,
+					"data": {
+						"prerolls": {
+							"instances": 2
+						},
+						"midrolls": {
+							"percents": [6, 80],
+							"instances": 2
+						},
+						"postrolls": {
+							"instances": 1
+						}
+					}
+				}
+			],
+			"configuration": {
+				"player": {
+					"closeLinear_out": {
+						"img": "https://img.3cat.cat/multimedia/png/1/0/1524807813701.png"
+					},
+					"closeLinear_over": {
+						"img": "https://img.3cat.cat/multimedia/png/1/4/1524807852941.png"
+					}
+				},
+				"publisher": {
+					"enableAdPauseOnWindowChange": false,
+					"html5SeamlessFullscreen": true,
+					"forceSkipDelay": true,
+					"skipDelay": 16,
+					"totalTimeout": 6
+				},
+				"labels": {
+					"lbl_countdown_skip": {
+						"EN": "Salta d'aquí {0} s"
+					},
+					"lbl_countdown_break_preroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_midroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_postroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_skip_vpaid": {
+						"EN": "Vés al contingut"
+					}
+				},
+				"vpaid": {
+					"enableCountdownVideo": true,
+					"enableSkipLabel": true
+				},
+				"rtb": {
+					"vpmt": 1
+				}
+			}
+		}
+	},
+	"audiencies": {
+		"adobe_analytics": {
+			"id": 6294297,
+			"mediaType": "video",
+			"op-capitol": "6008154-1",
+			"compte": "caproccma",
+			"nom": "El castell al cel",
+			"durada": 7159,
+			"reproductor": "HTML5",
+			"directe": 0,
+			"tipus": "DIFERIT",
+			"parametres": {
+				"eVar10": "El castell al cel",
+				"prop10": "El castell al cel",
+				"eVar11": "video",
+				"prop11": "video",
+				"eVar12": "PPD",
+				"prop12": "PPD",
+				"eVar13": "El castell al cel",
+				"prop13": "El castell al cel",
+				"eVar14": 6294297,
+				"prop14": 6294297,
+				"eVar15": "No Informat",
+				"prop15": "No Informat",
+				"eVar16": "No Informat",
+				"prop16": "No Informat",
+				"eVar17": "Ficció",
+				"prop17": "Ficció",
+				"eVar18": "Ficció",
+				"prop18": "Ficció",
+				"eVar19": "20/05/2012",
+				"prop19": "20/05/2012",
+				"eVar20": "Alacarta",
+				"prop20": "Alacarta",
+				"eVar21": "X3",
+				"prop21": "X3",
+				"eVar22": "No Informat",
+				"prop22": "No Informat",
+				"eVar23": "~window.location.hostname.toString()",
+				"prop23": "~window.location.hostname.toString()",
+				"eVar24": "~window.location.toString()",
+				"prop24": "~window.location.toString()",
+				"eVar25": "Televisió de Catalunya",
+				"prop25": "Televisió de Catalunya",
+				"eVar26": "Portals web",
+				"prop26": "Portals web",
+				"eVar27": "HTML5",
+				"prop27": "HTML5",
+				"eVar28": "No Informat",
+				"prop28": "No Informat",
+				"eVar29": "Video",
+				"prop29": "Video",
+				"eVar30": 6008154,
+				"prop30": 6008154,
+				"eVar31": "1",
+				"prop31": "1",
+				"eVar32": "No Informat",
+				"prop32": "No Informat",
+				"eVar33": "El castell al cel",
+				"prop33": "El castell al cel",
+				"eVar34": "No Informat",
+				"prop34": "No Informat",
+				"eVar35": "No Informat",
+				"prop35": "No Informat",
+				"eVar36": "Infantil",
+				"prop36": "Infantil",
+				"eVar37": "No Informat",
+				"prop37": "No Informat",
+				"eVar38": 7159,
+				"prop38": 7159,
+				"eVar39": "No Informat",
+				"prop39": "No Informat",
+				"eVar54": "X3",
+				"prop54": "X3,Carrussel Home - SmartTV/HbbTV,Carrussel Home - Web/App,Programes amb vídeo i videopodcasts,Pel·lícules,Anime X3,Per veure en família,Pel·lícules animació Ghibli",
+				"eVar56": "Geolocalització: Espanya",
+				"prop56": "Geolocalització: Espanya",
+				"eVar58": "~window.getSubtitlesStatus()",
+				"prop58": "~window.getSubtitlesStatus()",
+				"eVar59": "No Informat",
+				"prop59": "No Informat",
+				"eVar60": "No Informat",
+				"prop60": "No Informat",
+				"eVar61": "~s.getTimeParting('n','+1')",
+				"prop61": "~s.getTimeParting('n','+1')",
+				"eVar62": "Català",
+				"prop62": "Català",
+				"eVar63": "~window.getGlobalEvar('eVar63')",
+				"prop63": "~window.getGlobalEvar('eVar63')",
+				"eVar65": "No Informat",
+				"prop65": "No Informat",
+				"eVar66": "~window.isCasting",
+				"prop66": "~window.isCasting",
+				"eVar69": "Pel·lícula Animació",
+				"prop69": "Pel·lícula Animació",
+				"eVar71": "~window.getGlobalEvar('eVar71')",
+				"prop71": "~window.getGlobalEvar('eVar71')",
+				"eVar73": "~window.getGlobalEvar('eVar73')",
+				"prop73": "~window.getGlobalEvar('eVar73')",
+				"eVar78": "30826",
+				"prop78": "30826",
+				"eVar84": "No Informat",
+				"prop84": "No Informat",
+				"eVar87": "~window.getDeviceUID()",
+				"prop87": "~window.getDeviceUID()",
+				"eVar88": "15:45",
+				"prop88": "15:45"
+			}
+		},
+		"matr": {
+			"urls": {
+				"sendmark": "https://audiencies.ccma.cat/img/pixMark.png",
+				"senduserdata": "https://audiencies.ccma.cat/img/pixUser.png",
+				"checkcors": "https://audiencies.ccma.cat/checkCors.json",
+				"gettime": "https://api.3cat.cat/utils/time.php",
+				"senduserchannels": "https://audiencies.ccma.cat/img/pixTvChannels.png"
+			},
+			"parametres": {
+				"pid": "PortalCCMA",
+				"directe": false,
+				"tipus": "video",
+				"content": {
+					"canal": "X3",
+					"id_dty": 6294297,
+					"variant": "~window.getSelectedVideoVariant()",
+					"qualitat": "~window.getVideoQuality()",
+					"format": "~window.getVideoFormat()",
+					"sbt": "~window.isSubtitleEnabled()",
+					"sbtd": "~window.getSubtitlesStatus()"
+				},
+				"dynamic_content": {
+					"versioapp": "~window.appVersion",
+					"aid": "~window.visitor.getMarketingCloudVisitorID()"
+				}
+			}
+		},
+		"kantarst": {
+			"customerC2": 20296419,
+			"directe": 0,
+			"mediaType": "video",
+			"nom": "El castell al cel-El castell al cel",
+			"parametres": {
+				"ns_st_pu": "CCMA",
+				"ns_st_pr": "El castell al cel",
+				"ns_st_ep": "El castell al cel",
+				"ns_st_sn": "*null",
+				"ns_st_en": 1,
+				"ns_st_st": "CCMA-TV3",
+				"ns_st_cl": 7159000,
+				"ns_st_ge": "*null",
+				"ns_st_ti": "*null",
+				"ns_st_ia": 0,
+				"ns_st_ce": 0,
+				"ns_st_ddt": "2024-08-03",
+				"ns_st_stc": 2002,
+				"ns_st_ct": "vc12",
+				"nt_st_sn": "*null",
+				"ns_st_tp": 0,
+				"c2": 20296419,
+				"c3": "CCMA",
+				"c4": "CCMA-TV3",
+				"c6": "*null",
+				"fp_offset": 0,
+				"ns_st_li": 0,
+				"ns_st_tdt": "2024-08-10",
+				"ns_st_tm": "15:26",
+				"ns_st_ty": "0001",
+				"cs_ucfr": "~window.getConsentVendor()",
+				"ns_st_ci": 34628
+			}
+		}
+	},
+	"youbora": {
+		"active": true,
+		"debug": false,
+		"opcions": {
+			"content.transactionCode": true,
+			"content.title": "El castell al cel",
+			"content.program": "El castell al cel",
+			"content.duration": 7159,
+			"content.isLive": false,
+			"content.metadata": {
+				"filename": "~getMediaURL()",
+				"content_id": 6294297,
+				"url": "~window.location.href",
+				"transaction_type": "Free",
+				"device": {
+					"manufacturer": "~getPlayerManufacturer()"
+				}
+			},
+			"extraparam.3": "PortalCCMA",
+			"user.name": "~window.getDeviceUID()",
+			"ad.expectedPattern": {
+				"pre": [2],
+				"mid": [2, 2],
+				"post": [1]
+			},
+			"ad.breaksTime": [0, 420, 5727, 7159]
+		}
+	},
+	"relacionats": {
+		"url": "https://api.3cat.cat/videos?version=2.0&_format=json&items_pagina=16&capitol=1|&tipus_contingut=PPD&ordre=capitol&idioma=PU_CATALA&produccio=6008154&perfil=pc&no_id=6294297"
+	},
+	"recomanats": {
+		"url": "https://api.3cat.cat/usuaris/recomanacions/videos?_format=json&dispositiu=PC&debug=no&version=2.0"
+	}
+}

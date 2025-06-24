@@ -1,0 +1,32 @@
+Mòpies 1 (2023-03-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6205693
+Titol: Mòpies - capítol 1
+MQ: https://mp4-down-medium-int.ccma.cat/2/0/1677292843002.mp4
+HQ: https://mp4-down-high-int.ccma.cat/0/3/1677292870430.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1677747626726.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/5/1677747627855.xml
+
+
+Mòpies 2 (2023-03-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6206367
+Titol: Puig Major
+MQ: https://mp4-down-medium-int.ccma.cat/7/3/1677634625237.mp4
+HQ: https://mp4-down-high-int.ccma.cat/4/4/1677634681144.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/5/1678384866053.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/4/1678384868144.xml
+
+
+Mòpies 3 (2023-03-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6206372
+Titol: Sa Calobra
+MQ: https://mp4-down-medium-int.ccma.cat/3/4/1677638140643.mp4
+HQ: https://mp4-down-high-int.ccma.cat/2/2/1677638183322.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1678993226068.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/0/1678993228501.xml
+
+
+Mòpies 4 (2023-03-05)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6206368
+Titol: Sa Cometa des Morts
+MQ: https://mp4-down-medium-int.ccma.cat/2/1/1677634725412.mp4
+HQ: https://mp4-down-high-int.ccma.cat/3/8/1677634789283.mp4

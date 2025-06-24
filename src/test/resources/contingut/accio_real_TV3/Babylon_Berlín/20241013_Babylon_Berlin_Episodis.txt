@@ -1,0 +1,250 @@
+Babylon Berlin 1 (2023-07-17)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6231752
+Titol: T1xC1
+MQ: https://mp4-down-medium-es.ccma.cat/7/1/1689384126917.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/8/1689384187884.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/6/1689422438565.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/9/1689422440494.xml
+
+
+Babylon Berlin 2 (2023-07-17)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6231753
+Titol: T1xC2
+MQ: https://mp4-down-medium-es.ccma.cat/4/9/1689384233994.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/1/1689384279818.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/8/1689508825984.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/7/1689508827076.xml
+
+
+Babylon Berlin 3 (2023-07-24)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6231896
+Titol: T1xC3
+MQ: https://mp4-down-medium-es.ccma.cat/1/0/1689487077801.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/9/1689487122591.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/9/1689742843497.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/6/1689742844968.xml
+
+
+Babylon Berlin 4 (2023-07-24)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6231894
+Titol: T1xC4
+MQ: https://mp4-down-medium-es.ccma.cat/1/4/1689486181041.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/9/1689486223194.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/9/1689750029898.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/1/1689750031718.xml
+
+
+Babylon Berlin 5 (2023-07-31)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6233023
+Titol: T1xC5
+MQ: https://mp4-down-medium-es.ccma.cat/0/5/1690085896150.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/2/1690085991424.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/4/1690563641949.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/7/1690563642979.xml
+
+
+Babylon Berlin 6 (2023-07-31)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6233024
+Titol: T1xC6
+MQ: https://mp4-down-medium-es.ccma.cat/0/9/1690085934990.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1690086045520.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/6/1690696845066.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1690696846010.xml
+
+
+Babylon Berlin 7 (2023-08-07)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6234040
+Titol: T1xC7
+MQ: https://mp4-down-medium-es.ccma.cat/0/3/1690686936730.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1690686985572.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/6/1691100059369.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/7/1691100061076.xml
+
+
+Babylon Berlin 8 (2023-08-07)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6234037
+Titol: T1xC8
+MQ: https://mp4-down-medium-es.ccma.cat/6/3/1690686636036.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1690686686825.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/0/1691143214609.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/7/1691143215774.xml
+
+
+Babylon Berlin 9 (2023-08-14)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6234884
+Titol: T2xC1
+MQ: https://mp4-down-medium-es.ccma.cat/9/3/1691294780739.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1691294826620.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1691296126482.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/8/1691296126982.xml
+
+
+Babylon Berlin 10 (2023-08-14)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6234886
+Titol: T2xC2
+MQ: https://mp4-down-medium-es.ccma.cat/0/3/1691294987330.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/1/1691295063011.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/8/1691296124883.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/3/1691296125530.xml
+
+
+Babylon Berlin 11 (2023-08-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6235719
+Titol: T2xC3
+MQ: https://mp4-down-medium-es.ccma.cat/7/8/1691900570287.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/7/1691900620973.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1692111642306.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1692111643732.xml
+
+
+Babylon Berlin 12 (2023-08-21)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6235718
+Titol: T2xC4
+MQ: https://mp4-down-medium-es.ccma.cat/2/8/1691898975682.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/8/1691899014384.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/4/1692712908240.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1692712908834.xml
+
+
+Babylon Berlin 13 (2023-08-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6236524
+Titol: T2xC5
+MQ: https://mp4-down-medium-es.ccma.cat/5/4/1692499566145.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1692499608725.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1692525652464.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/9/1692525654195.xml
+
+
+Babylon Berlin 14 (2023-08-28)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6236528
+Titol: T2xC6
+MQ: https://mp4-down-medium-es.ccma.cat/8/9/1692500316198.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/4/1692500357643.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/3/1692874827633.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/1/1692874829019.xml
+
+
+Babylon Berlin 15 (2023-09-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6237387
+Titol: T2xC7
+MQ: https://mp4-down-medium-es.ccma.cat/8/7/1693106782778.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/8/1693106828482.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/7/1693490432870.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/0/1693490435004.xml
+
+
+Babylon Berlin 16 (2023-09-04)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6237389
+Titol: T2xC8
+MQ: https://mp4-down-medium-es.ccma.cat/3/6/1693106902963.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/0/1693106990106.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/8/1693656014181.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/6/1693656015066.xml
+
+
+Babylon Berlin 17 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245542
+Titol: T3xC1
+MQ: https://mp4-down-medium-es.ccma.cat/5/3/1697600051035.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/1/1697600092117.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/1/1697603434410.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/5/1697603435055.xml
+
+
+Babylon Berlin 18 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245554
+Titol: T3xC2
+MQ: https://mp4-down-medium-es.ccma.cat/4/0/1697603133904.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1697603152972.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/4/1697603432148.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1697603432935.xml
+
+
+Babylon Berlin 19 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245546
+Titol: T3xC3
+MQ: https://mp4-down-medium-es.ccma.cat/0/3/1697600453030.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/6/1697600498569.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/8/1698411670584.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/4/1698411673944.xml
+
+
+Babylon Berlin 20 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245547
+Titol: T3xC4
+MQ: https://mp4-down-medium-es.ccma.cat/5/6/1697600755865.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/1/1697600800916.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1698433255858.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1698433259910.xml
+
+
+Babylon Berlin 21 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245541
+Titol: T3xC5
+MQ: https://mp4-down-medium-es.ccma.cat/3/0/1697599967703.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1697600009434.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/1/1698494419410.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/7/1698494421877.xml
+
+
+Babylon Berlin 22 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245562
+Titol: T3xC6
+MQ: https://mp4-down-medium-es.ccma.cat/5/0/1697603504505.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/6/1697603580766.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1698494428359.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1698494430848.xml
+
+
+Babylon Berlin 23 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245551
+Titol: T3xC7
+MQ: https://mp4-down-medium-es.ccma.cat/8/7/1697602941278.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/9/1697602961891.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/7/1698534026771.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/8/1698534028583.xml
+
+
+Babylon Berlin 24 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245556
+Titol: T3xC8
+MQ: https://mp4-down-medium-es.ccma.cat/7/1/1697603179017.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/1/1697603212019.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/4/1698534020841.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/7/1698534022071.xml
+
+
+Babylon Berlin 25 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245560
+Titol: T3xC9
+MQ: https://mp4-down-medium-es.ccma.cat/8/3/1697603396338.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/1/1697603421019.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1698555629454.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1698555631632.xml
+
+
+Babylon Berlin 26 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245552
+Titol: T3xC10
+MQ: https://mp4-down-medium-es.ccma.cat/9/9/1697603004499.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/3/1697603020031.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1698562855659.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/1/1698562857816.xml
+
+
+Babylon Berlin 27 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245548
+Titol: T3xC11
+MQ: https://mp4-down-medium-es.ccma.cat/2/8/1697601480082.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/6/1697601525769.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/9/1698681614996.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/4/1698681618849.xml
+
+
+Babylon Berlin 28 (2023-10-30)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6245549
+Titol: T3xC12
+MQ: https://mp4-down-medium-es.ccma.cat/1/5/1697601847551.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/3/1697601915937.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1698685239559.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/7/1698685242277.xml

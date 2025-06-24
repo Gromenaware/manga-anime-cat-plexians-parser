@@ -1,0 +1,6 @@
+Pel·licula 1 (2024-07-22)
+Info: https://dinamics.ccma.cat/pvideo/media.jsp?media=video&format=dm&idint=6183102
+Titol: Isaac
+Stream: https://adaptive-int.3cat.cat/2/0/6183102/1666922224103/stream.mpd
+
+

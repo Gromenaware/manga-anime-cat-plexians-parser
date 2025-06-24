@@ -1,0 +1,4263 @@
+{
+	"data_emissio": "10/02/2023 13:20:38",
+	"data_modificacio": "12/06/2023 10:31:15",
+	"data_publicacio": "10/02/2023 13:17:54",
+	"entradeta": null,
+	"nombonic": "mon-beakman",
+	"programa_id": 66436,
+	"titol": "El món d'en Beakman",
+	"videos": [
+		{
+			"informacio": {
+				"capitol": 1,
+				"data_emissio": "14/11/1994 00:00:00",
+				"data_modificacio": "14/05/2023 02:01:12",
+				"data_publicacio": "21/05/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1272000
+				},
+				"id": 6201133,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-pluja-la-beakmania-i-els-volcans",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La pluja, la beakmania i els volcans",
+				"titol_complet": "EL MON D'EN BEAKMAN - 1 - LA PLUJA, LA BEAKMANIA I ELS VOLCANS - La pluja, la beakmania i els volcans"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/3/9/1675960429993.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/7/3/1675298633837.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/9/1/1675648276019.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/9/1675960429993.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/7/1684021795974.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/0/1/1675648297210.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/3/8/1675960467483.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/4/9/1675298655794.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/8/1675960467483.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/4/1684021827646.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/3/6201133/1675298655794/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/3/6201133/1675648297210/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/3/6201133/1675960467483/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/3/6201133/1684021827646/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/3/6201133/1675298655794/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/3/6201133/1675648297210/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/3/6201133/1675960467483/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/3/6201133/1684021827646/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 2,
+				"data_emissio": "15/11/1994 00:00:00",
+				"data_modificacio": "23/05/2023 01:59:48",
+				"data_publicacio": "27/05/2023 22:30:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1262000
+				},
+				"id": 6201138,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-gravetat-la-beakmania-i-la-inercia",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La gravetat, la beakmania i la inèrcia",
+				"titol_complet": "EL MON D'EN BEAKMAN - 2 - LA GRAVETAT, LA BEAKMANIA I LA INERCIA - La gravetat, la beakmania i la inèrcia"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/3/7/1675299180273.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/5/7/1675734977775.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/8/2/1675964776828.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/8/4/1675960444248.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/2/1684799412524.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/2/1675964776828.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/1/3/1675735001031.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/3/0/1675964795203.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/4/0/1675299204904.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/7/2/1675960490127.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/8/1684799436082.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/0/1675964795203.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1675299204904/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1675735001031/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1675960490127/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1675964795203/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1684799436082/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1675299204904/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1675735001031/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1675960490127/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1675964795203/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/3/6201138/1684799436082/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 3,
+				"data_emissio": "16/11/1994 00:00:00",
+				"data_modificacio": "24/05/2023 02:31:31",
+				"data_publicacio": "28/05/2023 22:32:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1278000
+				},
+				"id": 6201136,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-sorolls-de-la-nit",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els sorolls de la nit",
+				"titol_complet": "EL MON D'EN BEAKMAN - 3 - ELS SOROLLS DE LA NIT - Els sorolls de la nit"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/1/5/1675821625351.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/4/0/1675298968004.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/6/5/1675964664356.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/9/8/1675960611589.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/0/1684885590703.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/5/1675964664356.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/1/4/1675821646141.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/3/0/1675298991003.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/6/9/1675960634096.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/7/5/1675964688857.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/0/8/1684885609880.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/7/5/1675964688857.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1675298991003/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1675821646141/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1675960634096/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1675964688857/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1684885609880/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1675298991003/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1675821646141/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1675960634096/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1675964688857/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/3/6201136/1684885609880/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 4,
+				"data_emissio": "17/11/1994 00:00:00",
+				"data_modificacio": "30/05/2023 02:00:14",
+				"data_publicacio": "06/12/1999 00:00:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1271000
+				},
+				"id": 6201135,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-sang-la-beakmania-i-els-somnis",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La sang, la beakmania i els somnis",
+				"titol_complet": "EL MON D'EN BEAKMAN - 4 - LA SANG, LA BEAKMANIA I ELS SOMNIS - La sang, la beakmania i els somnis"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/7/1685403628770.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/7/1675965619376.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/5/1/1675298844815.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/6/7/1675965619376.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/7/2/1675960506627.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/7/1675965619376.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/8/1675965650985.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/8/1685403652186.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/4/3/1675298869434.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/5/8/1675965650985.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/7/7/1675960531677.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/8/1675965650985.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6201135/1675298869434/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6201135/1675960531677/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6201135/1675965650985/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6201135/1685403652186/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6201135/1675298869434/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6201135/1675960531677/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6201135/1675965650985/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6201135/1685403652186/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 5,
+				"data_emissio": "18/11/1994 00:00:00",
+				"data_modificacio": "31/05/2023 02:00:44",
+				"data_publicacio": "01/07/1996 00:00:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1273000
+				},
+				"id": 6201137,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "fulles-beakmania-i-paper",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Fulles, beakmania i paper",
+				"titol_complet": "EL MON D'EN BEAKMAN - 5 - FULLES, BEAKMANIA I PAPER - Fulles, beakmania i paper"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/4/1675964814340.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/5/1685490674750.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/0/4/1675964814340.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/1/3/1675299145931.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/2/5/1675960698552.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/4/1675964814340.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/5/1675964831756.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/2/1685490699628.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/0/3/1675299166830.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/1/5/1675960722651.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/6/5/1675964831756.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/5/1675964831756.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/3/6201137/1675299166830/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/3/6201137/1675960722651/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/3/6201137/1675964831756/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/3/6201137/1685490699628/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/3/6201137/1675299166830/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/3/6201137/1675960722651/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/3/6201137/1675964831756/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/3/6201137/1685490699628/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 6,
+				"data_emissio": "21/11/1994 00:00:00",
+				"data_modificacio": "06/06/2023 01:59:05",
+				"data_publicacio": "02/07/1996 00:00:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1275000
+				},
+				"id": 6201134,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-sabo-la-beakmania-i-els-motors-de-cotxe",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El sabó, la beakmania i els motors de cotxe",
+				"titol_complet": "EL MON D'EN BEAKMAN - 6 - EL SABO, LA BEAKMANIA I ELS MOTOS DE COTXE - El sabó, la beakmania i els motors de cotxe"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/3/1686008177830.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/7/1675952441477.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/7/7/1675952441477.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/7/1675952441477.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/8/1675952492582.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/9/1686008203294.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/2/8/1675952492582.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/8/1675952492582.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/3/6201134/1675952492582/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/3/6201134/1686008203294/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/3/6201134/1675952492582/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/3/6201134/1686008203294/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 7,
+				"data_emissio": "22/11/1994 00:00:00",
+				"data_modificacio": "07/06/2023 02:42:04",
+				"data_publicacio": "03/07/1996 00:00:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1248000
+				},
+				"id": 6202521,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "lelectricitat-la-beakmania-i-les-bombetes",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "L'electricitat, la beakmania i les bombetes",
+				"titol_complet": "EL MON D'EN BEAKMAN - 7 - L'ELECTRICITAT, LA BEAKMANIA I LES BOMBETES - L'electricitat, la beakmania i les bombetes"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/2/1675897835126.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/9/1686097876297.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/6/2/1675897835126.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/2/1675897835126.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/1/1686097895814.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/8/1675897859889.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/9/8/1675897859889.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/8/1675897859889.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/2/6202521/1675897859889/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/2/6202521/1686097895814/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/2/6202521/1675897859889/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/2/6202521/1686097895814/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 8,
+				"data_emissio": "23/11/1994 00:00:00",
+				"data_modificacio": "13/06/2023 04:41:03",
+				"data_publicacio": "04/07/1996 00:00:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6201608,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-so-la-beakmania-i-les-explosions",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El so, la beakmania i les explosions",
+				"titol_complet": "EL MON D'EN BEAKMAN - 8 - EL SO, LA BEAKMANIA I LES EXPLOSIONS - El so, la beakmania i les explosions"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/5/1675473394957.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/8/1686623264589.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/7/5/1675473394957.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/5/1675473394957.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/3/1675473418535.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/8/1686623285388.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/5/3/1675473418535.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/3/1675473418535.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/0/6201608/1675473418535/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/0/6201608/1686623285388/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/0/6201608/1675473418535/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/0/6201608/1686623285388/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 9,
+				"data_emissio": "24/11/1994 00:00:00",
+				"data_modificacio": "14/06/2023 02:03:46",
+				"data_publicacio": "05/07/1996 00:00:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1249000
+				},
+				"id": 6201729,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-refraccio-la-beakmania-i-els-imants",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La refracció, la beakmania i els imants",
+				"titol_complet": "EL MON D'EN BEAKMAN - 9 - LA REFRACCIO I ELS IMANTS - La refracció, la beakmania i els imants"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/9/1686700028294.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/3/1675561749936.mp4",
+						"label": "360p"
+					},
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/6/3/1675561749936.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/3/1675561749936.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/7/1675561792771.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/8/1686700051181.mp4",
+						"label": "576p"
+					},
+					{
+						"file": "https://mp4-down-high-es.ccma.cat/1/7/1675561792771.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/7/1675561792771.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/2/6201729/1675561792771/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/2/6201729/1686700051181/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/2/6201729/1675561792771/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/2/6201729/1686700051181/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 10,
+				"data_emissio": "25/11/1994 00:00:00",
+				"data_modificacio": "10/02/2023 15:40:13",
+				"data_publicacio": "14/02/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1298000
+				},
+				"id": 6201849,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-palanques",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les palanques",
+				"titol_complet": "EL MON D'EN BEAKMAN - 10 - LES PALANQUES, LA BEAKMANIA I LA TV - Les palanques"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/8/1675647253388.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/1/1675647269518.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/4/6201849/1675647269518/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/4/6201849/1675647269518/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 11,
+				"data_emissio": "28/11/1994 00:00:00",
+				"data_modificacio": "10/02/2023 15:40:49",
+				"data_publicacio": "15/02/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1299000
+				},
+				"id": 6202062,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-barques",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les barques",
+				"titol_complet": "EL MON D'EN BEAKMAN - 11 - LES BARQUES, LA BEAKMANIA I ELS AVIONS - Les barques"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/3/1675735132731.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/6/1675735160761.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/6/6202062/1675735160761/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/6/6202062/1675735160761/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 12,
+				"data_emissio": "29/11/1994 00:00:00",
+				"data_modificacio": "10/02/2023 15:41:07",
+				"data_publicacio": "16/02/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1277000
+				},
+				"id": 6202285,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-bombolles-i-els-peus",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les bombolles i els peus",
+				"titol_complet": "EL MON D'EN BEAKMAN - 12 - LES BOMBOLLES I ELS PEUS - Les bombolles i els peus"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/1/1675822496011.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/2/1675822511229.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/8/6202285/1675822511229/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/8/6202285/1675822511229/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 13,
+				"data_emissio": "30/11/1994 00:00:00",
+				"data_modificacio": "10/02/2023 15:41:29",
+				"data_publicacio": "18/02/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1275000
+				},
+				"id": 6202776,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-curacio",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La curació",
+				"titol_complet": "EL MON D'EN BEAKMAN - 13 - LA CURACIO - La curació"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/6/1675994776062.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/2/1675994801423.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/7/6202776/1675994801423/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/7/6202776/1675994801423/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 14,
+				"data_emissio": "01/12/1994 00:00:00",
+				"data_modificacio": "11/02/2023 02:47:11",
+				"data_publicacio": "19/02/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1273000
+				},
+				"id": 6202997,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-metode-cientific",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El mètode científic",
+				"titol_complet": "EL MON D'EN BEAKMAN - 14 - EL METODE CIENTIFIC, LA BEAKMANIA I L'ARC DE SANT MARTI - El mètode científic"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/0/1676079498200.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/7/1676079568872.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/9/6202997/1676079568872/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/9/6202997/1676079568872/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 15,
+				"data_emissio": "02/12/1994 00:00:00",
+				"data_modificacio": "12/02/2023 02:55:57",
+				"data_publicacio": "20/02/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1272000
+				},
+				"id": 6203125,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-vacunes",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les vacunes",
+				"titol_complet": "EL MON D'EN BEAKMAN - 15 - LES VACUNES, LA BEAKMANIA I LA FRICCIO - Les vacunes"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/8/1676166015281.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/9/1676166045698.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/2/6203125/1676166045698/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/2/6203125/1676166045698/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 16,
+				"data_emissio": "05/12/1994 00:00:00",
+				"data_modificacio": "13/02/2023 02:42:26",
+				"data_publicacio": "21/02/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1275000
+				},
+				"id": 6203230,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-termodinamica",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La termodinàmica",
+				"titol_complet": "EL MON D'EN BEAKMAN - 16 - LA TERMODINAMICA, LA BEAKMANIA I ELS GRANS - La termodinàmica"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/2/1676251709320.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/2/1676251731623.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/3/6203230/1676251731623/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/3/6203230/1676251731623/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 17,
+				"data_emissio": "07/12/1994 00:00:00",
+				"data_modificacio": "14/02/2023 03:19:37",
+				"data_publicacio": "22/02/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1272000
+				},
+				"id": 6203412,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-fossils",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els fòssils",
+				"titol_complet": "EL MON D'EN BEAKMAN - 17 - ELS FOSSILS, LA BEAKMANIA I LA VEU HUMANA - Els fòssils"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/3/1676339535735.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/1/1676339566714.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/1/6203412/1676339566714/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/1/6203412/1676339566714/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 18,
+				"data_emissio": "09/12/1994 00:00:00",
+				"data_modificacio": "15/02/2023 02:45:48",
+				"data_publicacio": "23/02/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1271000
+				},
+				"id": 6203635,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-telefons",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els telèfons",
+				"titol_complet": "EL MON D'EN BEAKMAN - 18 - ELS TELEFONS - Els telèfons"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/8/1676424798182.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/5/1676424825953.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6203635/1676424825953/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6203635/1676424825953/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 19,
+				"data_emissio": "12/12/1994 00:00:00",
+				"data_modificacio": "17/02/2023 03:12:34",
+				"data_publicacio": "25/02/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1270000
+				},
+				"id": 6204072,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "enregistrament-de-cassets",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Enregistrament de cassets",
+				"titol_complet": "EL MON D'EN BEAKMAN - 19 - ENREGISTRAMENT DE CASSETS - Enregistrament de cassets"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/1/1676599257818.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/0/1/1676599274010.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/7/6204072/1676599274010/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/7/6204072/1676599274010/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 20,
+				"data_emissio": "13/12/1994 00:00:00",
+				"data_modificacio": "18/02/2023 02:59:16",
+				"data_publicacio": "26/02/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1274000
+				},
+				"id": 6204291,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "microones",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Microones",
+				"titol_complet": "EL MON D'EN BEAKMAN - 20 - LES MICROONES - Microones"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/1/1676684257818.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/7/1676684270671.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/9/6204291/1676684270671/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/9/6204291/1676684270671/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 21,
+				"data_emissio": "14/12/1994 00:00:00",
+				"data_modificacio": "19/02/2023 02:44:12",
+				"data_publicacio": "27/02/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1278000
+				},
+				"id": 6204420,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-cerumen",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El cerumen",
+				"titol_complet": "EL MON D'EN BEAKMAN - 21 - EL CERUMEN, LA BEAKMANIA I ELS MOTORS DELS COETS - El cerumen"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/4/1676770405447.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/1/1676770427516.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/2/6204420/1676770427516/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/2/6204420/1676770427516/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 22,
+				"data_emissio": "15/12/1994 00:00:00",
+				"data_modificacio": "20/02/2023 02:51:43",
+				"data_publicacio": "28/02/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1271000
+				},
+				"id": 6204542,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "lozo-i-lacid",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "L'ozó i l'àcid",
+				"titol_complet": "EL MON D'EN BEAKMAN - 22 - L'OZO, LA BEAKMANIA I L'ACID - L'ozó i l'àcid"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/2/1676856976728.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/6/1676856999963.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/4/6204542/1676856999963/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/4/6204542/1676856999963/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 23,
+				"data_emissio": "16/12/1994 00:00:00",
+				"data_modificacio": "21/02/2023 03:18:28",
+				"data_publicacio": "01/03/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1277000
+				},
+				"id": 6204740,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-aparells-sanitaris-la-beakmania",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els aparells sanitaris, la beakmania...",
+				"titol_complet": "EL MON D'EN BEAKMAN - 23 - ELS APARELLS SANITARIS, LA BEAKMANIA I LES MUNTANYES RUSSES - Els aparells sanitaris, la beakmania..."
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/3/1676944788138.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/3/1676944811733.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/4/6204740/1676944811733/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/4/6204740/1676944811733/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 24,
+				"data_emissio": "19/12/1994 00:00:00",
+				"data_modificacio": "22/02/2023 02:50:03",
+				"data_publicacio": "02/03/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1270000
+				},
+				"id": 6204960,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-abelles-la-beakmania-i-els",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les abelles, la beakmania i els...",
+				"titol_complet": "EL MON D'EN BEAKMAN - 24 - LES ABELLES, LA BEAKMANIA I ELS TERRATREMOLS - Les abelles, la beakmania i els..."
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/8/1677029989782.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/1/1677030012013.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/6/6204960/1677030012013/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/6/6204960/1677030012013/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 25,
+				"data_emissio": "20/12/1994 00:00:00",
+				"data_modificacio": "24/02/2023 03:19:29",
+				"data_publicacio": "04/03/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1275000
+				},
+				"id": 6205460,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-reflexio-i-madame-curie",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La reflexió i madame curie",
+				"titol_complet": "EL MON D'EN BEAKMAN - 25 - LA REFLEXIO, LA BEAKMANIA I MADAM CURIE - La reflexió i madame curie"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/5/1677203537651.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/2/1677203561526.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/6/6205460/1677203561526/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/6/6205460/1677203561526/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 26,
+				"data_emissio": "21/12/1994 00:00:00",
+				"data_modificacio": "25/02/2023 02:47:29",
+				"data_publicacio": "05/03/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1273000
+				},
+				"id": 6205687,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-mon-den-beakman-i1-26",
+				"temporada": {
+					"idName": "PUTEMP_1"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El món d'en beakman (i)(1-26)",
+				"titol_complet": "EL MON D'EN BEAKMAN - 26 - LES RODES, LA BEAKMANIA I TROBAR RESPOSTES - El món d'en beakman (i)(1-26)"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/5/1677289222058.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/0/1677289244206.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/8/6205687/1677289244206/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/8/6205687/1677289244206/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 27,
+				"data_emissio": "22/12/1994 00:00:00",
+				"data_modificacio": "26/02/2023 03:15:20",
+				"data_publicacio": "06/03/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6205798,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-submarins",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els submarins",
+				"titol_complet": "EL MON D'EN BEAKMAN - 27 - ELS SUBMARINS - Els submarins"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/9/1677376616495.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/3/1677376665136.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/9/6205798/1677376665136/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/9/6205798/1677376665136/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 28,
+				"data_emissio": "23/12/1994 00:00:00",
+				"data_modificacio": "27/02/2023 02:52:03",
+				"data_publicacio": "07/03/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1264000
+				},
+				"id": 6205891,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-cor",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El cor",
+				"titol_complet": "EL MON D'EN BEAKMAN - 28 - EL COR - El cor"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/1/1677461966512.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/0/2/1677461991220.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/9/6205891/1677461991220/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/9/6205891/1677461991220/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 29,
+				"data_emissio": "27/12/1994 00:00:00",
+				"data_modificacio": "28/02/2023 03:15:06",
+				"data_publicacio": "08/03/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6206128,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-carbonis-la-beakmania-i-els-invents",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els carbonis, la beakmania i els invents",
+				"titol_complet": "EL MON D'EN BEAKMAN - 29 - LA LLUNA, LA BEAKMANIA I ELS ASCENSORS - Els carbonis, la beakmania i els invents"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/2/1677550022922.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/3/1677550049638.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/2/6206128/1677550049638/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/2/6206128/1677550049638/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 30,
+				"data_emissio": "28/12/1994 00:00:00",
+				"data_modificacio": "01/03/2023 04:12:55",
+				"data_publicacio": "09/03/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1253000
+				},
+				"id": 6206373,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-piles",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les piles",
+				"titol_complet": "EL MON D'EN BEAKMAN - 30 - LES PILES, LA BEAKMANIA I ELS GLOBUS - Les piles"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/5/1677638560550.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/3/1677638576032.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/7/6206373/1677638576032/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/7/6206373/1677638576032/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 31,
+				"data_emissio": "29/12/1994 00:00:00",
+				"data_modificacio": "03/03/2023 03:42:28",
+				"data_publicacio": "11/03/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1265000
+				},
+				"id": 6206871,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-rat-penats",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els rat-penats",
+				"titol_complet": "EL MON D'EN BEAKMAN - 31 - ELS RATS-PENATS, LA BEAKMANIA I ELS PLANEJADORS - Els rat-penats"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/4/1677809969241.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/4/1677809981248.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/7/6206871/1677809981248/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/7/6206871/1677809981248/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 32,
+				"data_emissio": "30/12/1994 00:00:00",
+				"data_modificacio": "04/03/2023 04:08:12",
+				"data_publicacio": "12/03/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1271000
+				},
+				"id": 6207095,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-tunels",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els túnels",
+				"titol_complet": "EL MON D'EN BEAKMAN - 32 - ELS TUNELS, LA BEAKMANIA I ELS TRENS - Els túnels"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/9/1677897940895.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/2/1677897968625.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/9/6207095/1677897968625/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/9/6207095/1677897968625/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 33,
+				"data_emissio": "02/01/1995 00:00:00",
+				"data_modificacio": "05/03/2023 02:51:10",
+				"data_publicacio": "13/03/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6207230,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-mon-den-beakman-ii27-52",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El món d'en beakman (ii)(27-52)",
+				"titol_complet": "EL MON D'EN BEAKMAN - 33 - EL CEL, LA BEAKMANIA I EN HENRY FORD - El món d'en beakman (ii)(27-52)"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/2/1677980283122.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/4/1677980320243.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/3/6207230/1677980320243/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/3/6207230/1677980320243/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 34,
+				"data_emissio": "03/01/1995 00:00:00",
+				"data_modificacio": "06/03/2023 03:09:20",
+				"data_publicacio": "14/03/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1271000
+				},
+				"id": 6207327,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-so-la-beakmania-i-les-explosions",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El so, la beakmania i les explosions",
+				"titol_complet": "EL MON D'EN BEAKMAN - 34 - EL PIANO, LA BEAKMANIA I LES IL.LUSIONS - El so, la beakmania i les explosions"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/1/1678066637715.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/2/1678066661322.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/2/6207327/1678066661322/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/2/6207327/1678066661322/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 35,
+				"data_emissio": "04/01/1995 00:00:00",
+				"data_modificacio": "07/03/2023 03:04:25",
+				"data_publicacio": "15/03/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1270000
+				},
+				"id": 6207543,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-refraccio-la-beakmania-i-el-imants",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La refracció, la beakmania i el imants",
+				"titol_complet": "EL MON D'EN BEAKMAN - 35 - LES REVISIONS MEDIQUES, LA BEAKMANIA I EL PETROLI - La refracció, la beakmania i el imants"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/6/1678153971369.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/7/1/1678153996317.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/4/6207543/1678153996317/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/4/6207543/1678153996317/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 36,
+				"data_emissio": "09/01/1995 00:00:00",
+				"data_modificacio": "08/03/2023 03:25:23",
+				"data_publicacio": "16/03/2023 22:31:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1270000
+				},
+				"id": 6207788,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-palanques-la-beakmania-i-la-televisio",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les palanques, la beakmania i la televisió",
+				"titol_complet": "EL MON D'EN BEAKMAN - 36 - ELS LLAMPS, LA BEAKMANIA I ELS OSSOS - Les palanques, la beakmania i la televisió"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/8/1678240320881.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/0/1678240341608.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/8/6207788/1678240341608/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/8/6207788/1678240341608/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 37,
+				"data_emissio": "10/01/1995 00:00:00",
+				"data_modificacio": "10/03/2023 04:26:07",
+				"data_publicacio": "18/03/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6208224,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-barques-la-beakmania-i-els-avions",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les barques, la beakmania i els avions",
+				"titol_complet": "EL MON D'EN BEAKMAN - 37 - ELS VIDEOJOCS, LA BEAKMANIA I LES DENTS - Les barques, la beakmania i els avions"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/9/1678416386097.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/9/1678416406593.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/2/6208224/1678416406593/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/2/6208224/1678416406593/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 38,
+				"data_emissio": "11/01/1995 00:00:00",
+				"data_modificacio": "11/03/2023 03:22:15",
+				"data_publicacio": "19/03/2023 22:33:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1264000
+				},
+				"id": 6208468,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-bombolles-la-beakmania-i-els-preus",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les bombolles, la beakmania i els preus",
+				"titol_complet": "EL MON D'EN BEAKMAN - 38 - EN BENJAMIN FRANKLIN, LA BEAKMANIA I LES REACCIONS QUIMIQUES - Les bombolles, la beakmania i els preus"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/1/1678498551510.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/6/1678498574169.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/6/6208468/1678498574169/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/6/6208468/1678498574169/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 39,
+				"data_emissio": "12/01/1995 00:00:00",
+				"data_modificacio": "12/03/2023 03:53:48",
+				"data_publicacio": "20/03/2023 22:33:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1266000
+				},
+				"id": 6208586,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-microscopis-la-beakmania-i-la-curacio",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els microscopis, la beakmania i la curació",
+				"titol_complet": "EL MON D'EN BEAKMAN - 39 - LES FORMIGUES, LA BEAKMANIA I LES COL.LISIONS - Els microscopis, la beakmania i la curació"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/2/1678588504920.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/3/1678588702439.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/8/6208586/1678588702439/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/8/6208586/1678588702439/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 41,
+				"data_emissio": "16/01/1995 00:00:00",
+				"data_modificacio": "05/04/2023 00:00:20",
+				"data_publicacio": "22/03/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1264000
+				},
+				"id": 6208696,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-vacunes-la-beakmania-i-la-friccio",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les vacunes, la beakmania i la fricció",
+				"titol_complet": "EL MON D'EN BEAKMAN - 41 - LA HIDRAULICA, LA BEAKMANIA I ELS DINOSAURES - Les vacunes, la beakmania i la fricció"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/7/1678758074479.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/1/1678758115619.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/9/6208696/1678758115619/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/9/6208696/1678758115619/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 42,
+				"data_emissio": "17/01/1995 00:00:00",
+				"data_modificacio": "06/04/2023 00:00:23",
+				"data_publicacio": "23/03/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1262000
+				},
+				"id": 6208925,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "termodinamica-la-beakmania-i-els-grans",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Termodinàmica, la beakmania i els grans",
+				"titol_complet": "EL MON D'EN BEAKMAN - 42 - ELS MOTORS ELECTRICS, LA BEAKMANIA I EL TEMPS - Termodinàmica, la beakmania i els grans"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/5/1678846362054.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/3/1678846387231.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/2/6208925/1678846387231/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/2/6208925/1678846387231/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 43,
+				"data_emissio": "18/01/1995 00:00:00",
+				"data_modificacio": "07/04/2023 00:00:29",
+				"data_publicacio": "25/03/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1256000
+				},
+				"id": 6209152,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-fossils-la-beakmania-i-la-veu-humana",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els fòssils, la beakmania i la veu humana",
+				"titol_complet": "EL MON D'EN BEAKMAN - 43 - LES GRANOTES, LA BEAKMANIA I ELS POLIMERS - Els fòssils, la beakmania i la veu humana"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/3/1679017406439.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/8/1679017424185.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/5/6209152/1679017424185/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/5/6209152/1679017424185/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 44,
+				"data_emissio": "19/01/1995 00:00:00",
+				"data_modificacio": "09/04/2023 00:00:17",
+				"data_publicacio": "26/03/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1267000
+				},
+				"id": 6209621,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-pulmons-la-beakmania-i-els-telefons",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els pulmons, la beakmania i els telèfons",
+				"titol_complet": "EL MON D'EN BEAKMAN - 44 - ELS DINERS, LA BEAKMANIA I LA HIDROELECTRICITAT - Els pulmons, la beakmania i els telèfons"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/8/1679110292587.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/8/1679110320186.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/2/6209621/1679110320186/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/2/6209621/1679110320186/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 45,
+				"data_emissio": "20/01/1995 00:00:00",
+				"data_modificacio": "19/03/2023 02:59:05",
+				"data_publicacio": "26/03/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1267000
+				},
+				"id": 6209854,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "enregistrament-de-cassets-la-beakmania-i-la-for",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Enregistrament de cassets, la beakmania i la for",
+				"titol_complet": "EL MON D'EN BEAKMAN - 45 - LES ESCOMBRARIES, LA BEAKMANIA I LA METEREOLOGIA - Enregistrament de cassets, la beakmania i la for"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/3/1679190555531.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/1/1679190579515.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/5/6209854/1679190579515/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/5/6209854/1679190579515/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 46,
+				"data_emissio": "23/01/1995 00:00:00",
+				"data_modificacio": "20/03/2023 03:06:40",
+				"data_publicacio": "27/03/2023 22:33:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1260000
+				},
+				"id": 6209972,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-microones-la-beakmania-i-les-aranyes",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les microones, la beakmania i les aranyes",
+				"titol_complet": "EL MON D'EN BEAKMAN - 46 - ELS GRATACELS, LA BEAKMANIA I ELS INDICADORS - Les microones, la beakmania i les aranyes"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/8/1679276900782.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/6/1679276922463.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/7/6209972/1679276922463/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/7/6209972/1679276922463/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 47,
+				"data_emissio": "24/01/1995 00:00:00",
+				"data_modificacio": "21/03/2023 03:02:49",
+				"data_publicacio": "28/03/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1262000
+				},
+				"id": 6210078,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-cerumen-la-beakmania-i-els-motors-dels-coets",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El cerumen, la beakmania i els motors dels coets",
+				"titol_complet": "EL MON D'EN BEAKMAN - 47 - ELS TAURONS, LA BEAKMANIA I EINSTEIN - El cerumen, la beakmania i els motors dels coets"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/8/1679363424085.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/8/1679363448289.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/7/6210078/1679363448289/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/7/6210078/1679363448289/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 48,
+				"data_emissio": "25/01/1995 00:00:00",
+				"data_modificacio": "13/04/2023 00:00:25",
+				"data_publicacio": "30/03/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6210279,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "lozo-la-beakmania-i-lacid",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "L'ozó, la beakmania i l'àcid",
+				"titol_complet": "EL MON D'EN BEAKMAN - 48 - LA FLORIDURA, LA BEAKMANIA I LES COVES - L'ozó, la beakmania i l'àcid"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/5/1679448977250.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/7/1679449002675.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/7/6210279/1679449002675/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/7/6210279/1679449002675/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 49,
+				"data_emissio": "26/01/1995 00:00:00",
+				"data_modificacio": "14/04/2023 00:00:19",
+				"data_publicacio": "01/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1261000
+				},
+				"id": 6210517,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "aparells-sanitarisla-beakmania-i-les-muntanyes-ru",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Aparells sanitaris,la beakmania i les muntanyes ru",
+				"titol_complet": "EL MON D'EN BEAKMAN - 49 - EL MOMENT, LA BEAKMANIA I LES VAQUES - Aparells sanitaris,la beakmania i les muntanyes ru"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/2/1679715228126.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/2/1679715250326.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/1/6210517/1679715250326/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/1/6210517/1679715250326/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 50,
+				"data_emissio": "27/01/1995 00:00:00",
+				"data_modificacio": "16/04/2023 00:00:26",
+				"data_publicacio": "02/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1266000
+				},
+				"id": 6211174,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-abelles-la-beakmania-i-els-terratremols",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les abelles, la beakmania i els terratrèmols",
+				"titol_complet": "EL MON D'EN BEAKMAN - 50 - LES AL.LERGIES, LA BEAKMANIA I ELS CODIS XIFRATS - Les abelles, la beakmania i els terratrèmols"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/1/1679722740211.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/4/1679722760941.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/7/6211174/1679722760941/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/7/6211174/1679722760941/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 51,
+				"data_emissio": "30/01/1995 00:00:00",
+				"data_modificacio": "17/04/2023 00:00:14",
+				"data_publicacio": "03/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1260000
+				},
+				"id": 6211183,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-reflexio-la-beakmania-i-madame-curie",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La reflexió, la beakmania i madame curie",
+				"titol_complet": "EL MON D'EN BEAKMAN - 51 - LES SERPS, LA BEAKMANIA I LES ESTACIONS - La reflexió, la beakmania i madame curie"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/4/1679794020049.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/1/1679794044513.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/8/6211183/1679794044513/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/8/6211183/1679794044513/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 52,
+				"data_emissio": "31/01/1995 00:00:00",
+				"data_modificacio": "18/04/2023 00:00:12",
+				"data_publicacio": "04/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1260000
+				},
+				"id": 6211299,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-rodes-la-beakmania-i-trobar-respostes",
+				"temporada": {
+					"idName": "PUTEMP_2"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les rodes, la beakmania i trobar respostes",
+				"titol_complet": "EL MON D'EN BEAKMAN - 52 - ELS TORNADOS, LA BEAKMANIA I L'EXTINCIO D'INCENDIS - Les rodes, la beakmania i trobar respostes"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/9/1679877583892.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/9/1679877600594.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/9/6211299/1679877600594/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/9/6211299/1679877600594/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 53,
+				"data_emissio": "11/04/1995 00:00:00",
+				"data_modificacio": "19/04/2023 00:00:13",
+				"data_publicacio": "05/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1267000
+				},
+				"id": 6211422,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-llavors-la-beakmania-i-els-ponts",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les llavors, la beakmania i els ponts",
+				"titol_complet": "EL MON D'EN BEAKMAN - 53 - LES LLAVORS, LA BEAKMANIA I ELS PONTS - Les llavors, la beakmania i els ponts"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/2/1679966662128.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/5/1679966682351.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/2/6211422/1679966682351/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/2/6211422/1679966682351/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 54,
+				"data_emissio": "12/04/1995 00:00:00",
+				"data_modificacio": "20/04/2023 00:00:16",
+				"data_publicacio": "06/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1263000
+				},
+				"id": 6211650,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "lequilibri-la-beakmania-i-el-camuflament",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "L'equilibri, la beakmania i el camuflament",
+				"titol_complet": "EL MON D'EN BEAKMAN - 54 - L'EQUILIBRI, LA BEAKMANIA I EL CAMUFLAMENT - L'equilibri, la beakmania i el camuflament"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/9/1680057057796.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/6/1680057080666.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/5/6211650/1680057080666/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/5/6211650/1680057080666/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 55,
+				"data_emissio": "13/04/1995 00:00:00",
+				"data_modificacio": "21/04/2023 00:00:21",
+				"data_publicacio": "08/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1280000
+				},
+				"id": 6211925,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-carboni-la-beakmania-i-els-invents",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El carboni, la beakmania i els invents",
+				"titol_complet": "EL MON D'EN BEAKMAN - 55 - ELS CARBONIS, LA BEAKMANIA I ELS INVENTS - El carboni, la beakmania i els invents"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/0/1680219318604.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/3/1680219342235.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/2/6211925/1680219342235/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/2/6211925/1680219342235/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 56,
+				"data_emissio": "14/04/1995 00:00:00",
+				"data_modificacio": "01/04/2023 03:27:02",
+				"data_publicacio": "08/04/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1269000
+				},
+				"id": 6212397,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-giroscopis-la-beakmania-i-el-cor-sa",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els giroscopis, la beakmania i el cor sa",
+				"titol_complet": "EL MON D'EN BEAKMAN - 56 - EL GIROSCOPI, LA BEAKMANIA I EL COR SA - Els giroscopis, la beakmania i el cor sa"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/7/1680310966472.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/7/1680310987175.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/9/6212397/1680310987175/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/9/6212397/1680310987175/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 57,
+				"data_emissio": "15/04/1995 00:00:00",
+				"data_modificacio": "08/05/2023 01:56:15",
+				"data_publicacio": "15/05/2023 22:35:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1269000
+				},
+				"id": 6212614,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "lacer-la-beakmania-i-la-fotografia",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "L'acer, la beakmania i la fotografia",
+				"titol_complet": "EL MON D'EN BEAKMAN - 57 - L'ACER, LA BEAKMANIA I LA FOTOGRAFIA - L'acer, la beakmania i la fotografia"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/6/1680393128862.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/2/1683502970324.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/0/1680393154505.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/7/9/1683502991797.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/1/6212614/1680393154505/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/1/6212614/1683502991797/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/1/6212614/1680393154505/stream.m3u8",
+						"label": "HLS"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/1/6212614/1683502991797/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 58,
+				"data_emissio": "16/04/1995 00:00:00",
+				"data_modificacio": "25/04/2023 00:00:18",
+				"data_publicacio": "11/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1269000
+				},
+				"id": 6212762,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-sol-la-beakmania-i-la-metamorfosi",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El sol, la beakmania i la metamorfosi",
+				"titol_complet": "EL MON D'EN BEAKMAN - 58 - EL SOL, LA BEAKMANIA I LA METAMORFOSI - El sol, la beakmania i la metamorfosi"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/3/1680482163038.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/0/8/1680482191080.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/6/6212762/1680482191080/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/6/6212762/1680482191080/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 59,
+				"data_emissio": "17/04/1995 00:00:00",
+				"data_modificacio": "26/04/2023 00:00:14",
+				"data_publicacio": "12/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1269000
+				},
+				"id": 6212866,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-buit-la-beakmania-i-els-teixits",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El buit, la beakmania i els teixits",
+				"titol_complet": "EL MON D'EN BEAKMAN - 59 - EL BUIT, LA BEAKMANIA I ELS TEIXITS - El buit, la beakmania i els teixits"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/7/1680591101774.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/1/1680591436419.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/6/6212866/1680591436419/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/6/6212866/1680591436419/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 60,
+				"data_emissio": "23/02/2000 00:00:00",
+				"data_modificacio": "05/04/2023 03:25:06",
+				"data_publicacio": "12/04/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1269000
+				},
+				"id": 6213080,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-neu-la-beakmania-i-la-supervivencia",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La neu, la beakmania i la supervivència",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 60 - LA NEU, LA BEALMANIA I LA SUPERVIVENCIA - La neu, la beakmania i la supervivència"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/8/1680656942888.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/7/1680656964673.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/8/6213080/1680656964673/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/8/6213080/1680656964673/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 61,
+				"data_emissio": "24/02/2000 00:00:00",
+				"data_modificacio": "28/04/2023 00:00:12",
+				"data_publicacio": "15/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1269000
+				},
+				"id": 6213259,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-beakmania-els-alligators-i-els-cocodrils",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La beakmania, els al·ligators i els cocodrils",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 61 - ELS ALIGATORS I ELS COCODRILS - La beakmania, els al·ligators i els cocodrils"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/6/1680834012668.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/6/1680834035068.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/5/6213259/1680834035068/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/5/6213259/1680834035068/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 62,
+				"data_emissio": "25/02/2000 00:00:00",
+				"data_modificacio": "30/04/2023 00:00:25",
+				"data_publicacio": "16/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1266000
+				},
+				"id": 6213671,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-geisers-les-fonts-termals-i-la-beakmania",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els géisers, les fonts termals i la beakmania",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 62 - ELS GEISERS - Els géisers, les fonts termals i la beakmania"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/7/4/1680914880447.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/2/1680914897124.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/7/6213671/1680914897124/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/7/6213671/1680914897124/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 63,
+				"data_emissio": "28/02/2000 00:00:00",
+				"data_modificacio": "01/05/2023 00:00:32",
+				"data_publicacio": "17/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1266000
+				},
+				"id": 6213779,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-son-la-beakmania-i-lamplificacio",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El son, la beakmania i l'amplificació",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 63 - EL SON, LA BEAKMANIA I L'AMPLIFICACIÓ - El son, la beakmania i l'amplificació"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/7/1681003245570.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/1/1681003265612.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/7/6213779/1681003265612/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/7/6213779/1681003265612/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 64,
+				"data_emissio": "29/02/2000 00:00:00",
+				"data_modificacio": "02/05/2023 00:00:15",
+				"data_publicacio": "18/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1261000
+				},
+				"id": 6213891,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-crustacis-i-bernoulli",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els crustacis i Bernoulli",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 64 - ELS CRUSTACIS I BERNOULLI - Els crustacis i Bernoulli"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/7/1681088757474.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/3/1681088781436.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/9/6213891/1681088781436/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/9/6213891/1681088781436/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 65,
+				"data_emissio": "01/03/2000 00:00:00",
+				"data_modificacio": "03/05/2023 00:00:17",
+				"data_publicacio": "19/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1260000
+				},
+				"id": 6213988,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-illes-la-beakmania-i-les-molles",
+				"temporada": {
+					"idName": "PUTEMP_3"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les illes, la beakmania i les molles",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 65 - LES ILLES, LA BEAKMANIA I LES MOLLES - Les illes, la beakmania i les molles"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/0/1681173936903.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/4/1681173956549.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/8/6213988/1681173956549/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/8/6213988/1681173956549/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 66,
+				"data_emissio": "25/12/1999 00:00:00",
+				"data_modificacio": "12/04/2023 03:22:58",
+				"data_publicacio": "19/04/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1290000
+				},
+				"id": 6214100,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-suor-la-beakmania-i-com-pesar-un-cotxe",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La suor, la beakmania i com pesar un cotxe",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 66 - LA SUOR, LA BEAKMANIA I COM PESAR UN COTXE - La suor, la beakmania i com pesar un cotxe"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/5/1681261829058.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/3/1681261854533.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/0/6214100/1681261854533/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/0/6214100/1681261854533/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 67,
+				"data_emissio": "26/12/1999 00:00:00",
+				"data_modificacio": "05/05/2023 00:00:21",
+				"data_publicacio": "22/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1276000
+				},
+				"id": 6214316,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-migracions-la-beakmania-i-viure-a-lespai",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les migracions, la beakmania i viure a l'espai",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 67 - LES MIGRACIONS, LA BEAKMANIA I VIURE A L'ESPAI - Les migracions, la beakmania i viure a l'espai"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/8/1681434981384.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/0/1681435006102.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/1/6214316/1681435006102/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/1/6214316/1681435006102/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 68,
+				"data_emissio": "01/01/2000 00:00:00",
+				"data_modificacio": "15/04/2023 04:18:15",
+				"data_publicacio": "22/04/2023 22:30:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1275000
+				},
+				"id": 6214789,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-bec-de-bunsen-la-beakmania-i-el-clavegueram",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El bec de Bunsen, la beakmania i el clavegueram",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 68 - EL BEC DE BUNSEN, LA BEAKMANIA I EL CLAVEGUERAM - El bec de Bunsen, la beakmania i el clavegueram"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/1/1681523961318.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/3/1681523987633.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/8/6214789/1681523987633/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/8/6214789/1681523987633/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 69,
+				"data_emissio": "02/01/2000 00:00:00",
+				"data_modificacio": "16/04/2023 02:44:02",
+				"data_publicacio": "23/04/2023 22:30:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1156000
+				},
+				"id": 6215039,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-gats-la-beakmania-i-la-dinamita",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els gats, la beakmania i la dinamita",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 69 - ELS GATS, LA BEAKMANIA I LA DINAMITA - Els gats, la beakmania i la dinamita"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/2/1681605272625.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/0/1681605284004.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/3/6215039/1681605284004/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/3/6215039/1681605284004/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 70,
+				"data_emissio": "06/01/2000 00:00:00",
+				"data_modificacio": "09/05/2023 00:00:11",
+				"data_publicacio": "25/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1276000
+				},
+				"id": 6215149,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-boca-la-beakmania-i-la-proporcio",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La boca, la beakmania i la proporció",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 70 - La boca, la beakmania i la proporció"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/1/2/1681690663321.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/9/1681690690492.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/4/6215149/1681690690492/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/4/6215149/1681690690492/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 71,
+				"data_emissio": "08/01/2000 00:00:00",
+				"data_modificacio": "18/04/2023 03:39:50",
+				"data_publicacio": "25/04/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1290000
+				},
+				"id": 6215245,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-catalitzadors-la-beakmania-i-els-aerosols",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els catalitzadors, la beakmania i els aerosols",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 71 - Els catalitzadors, la beakmania i els aerosols"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/1/1681781369215.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/5/1681781394754.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/4/6215245/1681781394754/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/4/6215245/1681781394754/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 72,
+				"data_emissio": "09/01/2000 00:00:00",
+				"data_modificacio": "11/05/2023 00:00:16",
+				"data_publicacio": "27/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1290000
+				},
+				"id": 6215455,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-cautxu-la-beakmania-i-els-cabells",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El cautxú, la beakmania i els cabells",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 72 - El cautxú, la beakmania i els cabells"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/4/1681952336949.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/7/3/1681952363737.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/5/6215455/1681952363737/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/5/6215455/1681952363737/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 73,
+				"data_emissio": "15/01/2000 00:00:00",
+				"data_modificacio": "12/05/2023 00:00:18",
+				"data_publicacio": "29/04/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1272000
+				},
+				"id": 6215885,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-camells-la-beakmania-i-la-densitat",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els camells, la beakmania i la densitat",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 73 - Els camells, la beakmania i la densitat"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/3/1682042010134.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/1/1682042037212.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/8/6215885/1682042037212/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/8/6215885/1682042037212/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 74,
+				"data_emissio": "16/01/2000 00:00:00",
+				"data_modificacio": "22/04/2023 03:49:01",
+				"data_publicacio": "29/04/2023 22:31:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1270000
+				},
+				"id": 6216115,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-bumerangs-la-beakmania-i-la-ciencia-del-circ",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els bumerangs, la beakmania i la ciència del circ",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 74 - Els bumerangs, la beakmania i la ciència del circ"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/8/1682127506483.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/7/1682127522174.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/1/6216115/1682127522174/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/1/6216115/1682127522174/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 75,
+				"data_emissio": "22/01/2000 00:00:00",
+				"data_modificacio": "15/05/2023 00:00:18",
+				"data_publicacio": "01/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1290000
+				},
+				"id": 6216351,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-elefants-la-beakmania-i-els-raigs-x",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els elefants, la beakmania i els raigs X",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 75 - Els elefants, la beakmania i els raigs X"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/2/1682210042722.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/0/1682210068201.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/5/6216351/1682210068201/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/5/6216351/1682210068201/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 76,
+				"data_emissio": "23/01/2000 00:00:00",
+				"data_modificacio": "24/04/2023 02:59:32",
+				"data_publicacio": "01/05/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1280000
+				},
+				"id": 6216471,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-pell-la-beakmania-i-loxigen",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La pell, la beakmania i l'oxigen",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 76 - La pell, la beakmania i l'oxigen"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/9/1682297166690.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/5/1682297186654.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/7/6216471/1682297186654/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/1/7/6216471/1682297186654/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 77,
+				"data_emissio": "29/01/2000 00:00:00",
+				"data_modificacio": "25/04/2023 03:47:06",
+				"data_publicacio": "02/05/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1272000
+				},
+				"id": 6216572,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-pa-la-beakmania-i-els-mesuraments",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El pa, la beakmania i els mesuraments",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 77 - El pa, la beakmania i els mesuraments"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/7/1682386198978.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/6/1682386232466.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/7/6216572/1682386232466/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/7/6216572/1682386232466/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 78,
+				"data_emissio": "30/01/2000 00:00:00",
+				"data_modificacio": "18/05/2023 00:00:21",
+				"data_publicacio": "04/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1290000
+				},
+				"id": 6216752,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "lelectromagnetisme-la-beakmania-i-els-sentits",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "L'electromagnetisme, la beakmania i els sentits",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 78 - L'electromagnetisme, la beakmania i els sentits"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/3/1682472347533.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/0/5/1682472372450.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/5/6216752/1682472372450/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/5/6216752/1682472372450/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 79,
+				"data_emissio": "05/02/2000 00:00:00",
+				"data_modificacio": "19/05/2023 00:00:20",
+				"data_publicacio": "06/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6216880,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-primats-la-beakmania-i-lull",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els primats, la beakmania i l'ull",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 79 - Els primats, la beakmania i l'ull"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/5/1682642098056.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/3/1682642115732.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/8/6216880/1682642115732/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/8/6216880/1682642115732/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 80,
+				"data_emissio": "06/02/2000 00:00:00",
+				"data_modificacio": "29/04/2023 03:59:07",
+				"data_publicacio": "06/05/2023 22:31:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1275000
+				},
+				"id": 6217389,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-ciencia-de-la-magia-la-beakmania-i-els-cosmetics",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La ciència de la màgia, la beakmania i els cosmètics",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 80 - LA CIÈNCIA DE LA MÀGIA - La ciència de la màgia, la beakmania i els cosmètics"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/8/1/1682732852618.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/8/1682732877085.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/8/6217389/1682732877085/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/8/6217389/1682732877085/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 81,
+				"data_emissio": "13/02/2000 00:00:00",
+				"data_modificacio": "22/05/2023 00:00:11",
+				"data_publicacio": "08/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6217592,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-porcs-la-beakmania-i-la-frequencia",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els porcs, la beakmania i la freqüència",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 81 - Els porcs, la beakmania i la freqüència"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/9/1682814916290.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/5/1682814955451.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/9/6217592/1682814955451/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/9/6217592/1682814955451/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 82,
+				"data_emissio": "20/02/2000 00:00:00",
+				"data_modificacio": "23/05/2023 00:00:11",
+				"data_publicacio": "09/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1275000
+				},
+				"id": 6217734,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-tresors-enfonsats-la-beakmania-i-el-cargol-darquimedes",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els tresors enfonsats, la beakmania i el cargol d'Arquímedes",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 82 - ELS TRESORS ENFONSATS... - Els tresors enfonsats, la beakmania i el cargol d'Arquímedes"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/6/3/1682900802936.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/0/1682900821408.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/3/6217734/1682900821408/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/4/3/6217734/1682900821408/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 83,
+				"data_emissio": "26/02/2000 00:00:00",
+				"data_modificacio": "02/05/2023 02:59:17",
+				"data_publicacio": "09/05/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1275000
+				},
+				"id": 6217835,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-balenes-la-beakmania-i-les-illusions-optiques-ii",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les balenes, la beakmania i les il·lusions òptiques II",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 83 - LES BALENES - Les balenes, la beakmania i les il·lusions òptiques II"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/7/1682987819673.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/1/4/1682987845741.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6217835/1682987845741/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/3/6217835/1682987845741/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 84,
+				"data_emissio": "27/02/2000 00:00:00",
+				"data_modificacio": "25/05/2023 00:00:20",
+				"data_publicacio": "11/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6217919,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-barrera-del-so-la-beakmania-i-la-vida-sana",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La barrera del so, la beakmania i la vida sana",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 84 - LA BARRERA DEL SO - La barrera del so, la beakmania i la vida sana"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/2/1683073880622.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/6/1683073902263.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/1/6217919/1683073902263/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/1/6217919/1683073902263/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 85,
+				"data_emissio": "04/03/2000 00:00:00",
+				"data_modificacio": "26/05/2023 00:00:20",
+				"data_publicacio": "13/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1267000
+				},
+				"id": 6218145,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "lexploracio-ocular-la-beakmania-i-el-moviment-circular",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "L'exploració ocular, la beakmania i el moviment circular",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 85 - L'exploració ocular, la beakmania i el moviment circular"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/0/1683250385904.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/2/1683250409923.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/4/6218145/1683250409923/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/5/4/6218145/1683250409923/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 86,
+				"data_emissio": "05/03/2000 00:00:00",
+				"data_modificacio": "28/05/2023 00:00:21",
+				"data_publicacio": "14/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1268000
+				},
+				"id": 6218606,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-gossos-la-beakmania-i-lenginyeria-biomedica",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els gossos, la beakmania i l'enginyeria biomèdica",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 86 - Els gossos, la beakmania i l'enginyeria biomèdica"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/8/1683430605289.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/6/4/1683430626246.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/0/6218606/1683430626246/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/0/6218606/1683430626246/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 87,
+				"data_emissio": "11/03/2000 00:00:00",
+				"data_modificacio": "29/05/2023 00:00:16",
+				"data_publicacio": "15/05/2023 22:37:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1284000
+				},
+				"id": 6218912,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "el-creixement-huma-la-beakmania-i-les-solucions-i-les-suspensions",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "El creixement humà, la beakmania i les solucions i les suspensions",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 87 - EL CREIXEMENT HUMÀ - El creixement humà, la beakmania i les solucions i les suspensions"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/4/1683502493340.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/9/1683502514092.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/1/6218912/1683502514092/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/1/6218912/1683502514092/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 88,
+				"data_emissio": "12/03/2000 00:00:00",
+				"data_modificacio": "08/05/2023 04:37:14",
+				"data_publicacio": "16/05/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1284000
+				},
+				"id": 6219023,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "laccio-i-la-reaccio-la-beakmania-i-els-lloros",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "L'acció i la reacció, la beakmania i els lloros",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 88 - L'acció i la reacció, la beakmania i els lloros"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/2/1683512759825.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/8/1683512784585.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/2/6219023/1683512784585/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/3/2/6219023/1683512784585/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 89,
+				"data_emissio": "19/03/2000 00:00:00",
+				"data_modificacio": "09/05/2023 03:00:41",
+				"data_publicacio": "17/05/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1284000
+				},
+				"id": 6219208,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "la-protozoologia-la-beakmania-i-els-especialistes-del-cinema",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "La protozoologia, la beakmania i els especialistes del cinema",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 89 - La protozoologia, la beakmania i els especialistes del cinema"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/1/1683593475213.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/2/1683593498924.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/0/6219208/1683593498924/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/8/0/6219208/1683593498924/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 90,
+				"data_emissio": "26/03/2000 00:00:00",
+				"data_modificacio": "10/05/2023 03:05:12",
+				"data_publicacio": "18/05/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1273000
+				},
+				"id": 6219396,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "els-cavalls-la-beakmania-i-les-neveres",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Els cavalls, la beakmania i les neveres",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 90 - Els cavalls, la beakmania i les neveres"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/2/1683678995423.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/3/8/1683679041283.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/9/6219396/1683679041283/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/9/6219396/1683679041283/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		},
+		{
+			"informacio": {
+				"capitol": 91,
+				"data_emissio": "02/04/2000 00:00:00",
+				"data_modificacio": "12/05/2023 03:10:05",
+				"data_publicacio": "20/05/2023 22:34:00",
+				"descripcio": null,
+				"durada": {
+					"milisegons": 1284000
+				},
+				"id": 6219869,
+				"programa": "El món d'en Beakman",
+				"programa_id": 66436,
+				"slug": "les-empremtes-dactilars-la-beakmania-i-la-flatulencia",
+				"temporada": {
+					"idName": "PUTEMP_4"
+				},
+				"tipus_contingut": "PPD",
+				"titol": "Les empremtes dactilars, la beakmania i la flatulència",
+				"titol_complet": "EL MÓN D'EN BEAKMAN - 91 - Les empremtes dactilars, la beakmania i la flatulència"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/4/1/1683853234014.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/6/1683853248964.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/6/6219869/1683853248964/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/9/6/6219869/1683853248964/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			}
+		}
+	]
+}

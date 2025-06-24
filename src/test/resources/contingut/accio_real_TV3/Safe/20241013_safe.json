@@ -1,0 +1,539 @@
+{
+	"data_emissio": "10/05/2021 11:38:17",
+	"data_modificacio": "05/05/2023 13:58:09",
+	"data_publicacio": "14/05/2021 10:30:00",
+	"entradeta": null,
+	"nombonic": "safe",
+	"programa_id": 62896,
+	"titol": "Safe",
+	"videos": [
+		{
+			"informacio": {
+				"capitol": 1,
+				"data_emissio": "17/05/2021 23:30:19",
+				"data_modificacio": "05/05/2023 14:40:38",
+				"data_publicacio": "03/05/2023 00:44:00",
+				"descripcio": "Aprofitant que els seus pares no hi són, la Sia organitza una festa a casa seva que s'acaba de manera sobtada per circumstàncies que es desconeixen. Aquella mateixa nit, el Chris i la Jenny desapareixen. El Tom, pare de la Jenny, comença a buscar la seva filla. Paral·lelament, la Sophie, inspectora de policia, veïna i amant del Tom, inicia una investigació que podria estar relacionada amb un incident que ha passat a l'escola.",
+				"durada": {
+					"milisegons": 2439000
+				},
+				"id": 6099986,
+				"programa": "Safe",
+				"programa_id": 62896,
+				"slug": "t1xc1-safe",
+				"temporada": null,
+				"tipus_contingut": "PPD",
+				"titol": "T1xC1 - Safe",
+				"titol_complet": "Safe ep 1  - Capítol 1"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/3/5/1620690175153.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/3/5/1620690175153.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/0/2/1620690252220.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/8/6099986/1620690252220/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/8/6099986/1620690252220/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			},
+			"subtitols": [
+				{
+					"format": "ebuttd",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/xml/7/6/1621333381367.xml"
+				},
+				{
+					"format": "ebuttd",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/xml/8/3/1621280010638.xml"
+				},
+				{
+					"format": "vtt",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/vtt/3/8/1621333380583.vtt"
+				},
+				{
+					"format": "vtt",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/vtt/0/5/1621280009850.vtt"
+				}
+			]
+		},
+		{
+			"informacio": {
+				"capitol": 2,
+				"data_emissio": "24/05/2021 22:57:01",
+				"data_modificacio": "05/05/2023 14:42:25",
+				"data_publicacio": "03/05/2023 00:44:00",
+				"descripcio": "El Tom busca desesperadament el Pete després de descobrir que estava amb la Jenny la nit que ella va desaparèixer. El Pete assegura que és innocent i promet ajudar el Tom a buscar la seva filla. Tots dos troben una pista que els condueix a un bar del centre. Mentrestant, la Zoe Chahal i la família Marshall tenen problemes cada vegada més greus.",
+				"durada": {
+					"milisegons": 2824000
+				},
+				"id": 6100962,
+				"programa": "Safe",
+				"programa_id": 62896,
+				"slug": "t1xc2-safe",
+				"temporada": null,
+				"tipus_contingut": "PPD",
+				"titol": "T1xC2 - Safe",
+				"titol_complet": "Safe ep 2  - Capítol 2"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/0/0/1621126404800.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/0/1621126404800.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/4/4/1621126492044.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/6/6100962/1621126492044/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/6/6100962/1621126492044/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			},
+			"subtitols": [
+				{
+					"format": "ebuttd",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/xml/9/9/1621851711499.xml"
+				},
+				{
+					"format": "ebuttd",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/xml/0/3/1621333339030.xml"
+				},
+				{
+					"format": "vtt",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/vtt/7/1/1621851710917.vtt"
+				},
+				{
+					"format": "vtt",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/vtt/1/3/1621333338431.vtt"
+				}
+			]
+		},
+		{
+			"informacio": {
+				"capitol": 3,
+				"data_emissio": "31/05/2021 22:55:04",
+				"data_modificacio": "05/05/2023 14:43:21",
+				"data_publicacio": "04/05/2023 00:44:00",
+				"descripcio": "El Tom està desesperat perquè no troba la Jenny i, a més, els seus esforços per localitzar-la li fan veure cada vegada més clar que coneix ben poc les seves filles i la seva dona, que va morir fa un any. Mentrestant, la Sia i els seus pares intenten treure's de sobre el cadàver del Chris, la mare del qual algú ha acusat anònimament de tenir relacions amb un alumne seu.",
+				"durada": {
+					"milisegons": 2816000
+				},
+				"id": 6102556,
+				"programa": "Safe",
+				"programa_id": 62896,
+				"slug": "t1xc3-safe",
+				"temporada": null,
+				"tipus_contingut": "PPD",
+				"titol": "T1xC3 - Safe",
+				"titol_complet": "Safe ep 3  - Capítol 3"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/0/1/1621987471310.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/0/1/1621987471310.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/0/7/1621987553670.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/5/6102556/1621987553670/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/5/6102556/1621987553670/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			},
+			"subtitols": [
+				{
+					"format": "ebuttd",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/xml/5/8/1622543017085.xml"
+				},
+				{
+					"format": "ebuttd",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/xml/4/1/1622006551014.xml"
+				},
+				{
+					"format": "vtt",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/vtt/3/3/1622543016233.vtt"
+				},
+				{
+					"format": "vtt",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/vtt/4/9/1622006550394.vtt"
+				}
+			]
+		},
+		{
+			"informacio": {
+				"capitol": 4,
+				"data_emissio": "07/06/2021 22:58:37",
+				"data_modificacio": "05/05/2023 14:44:14",
+				"data_publicacio": "04/05/2023 00:44:00",
+				"descripcio": "El cadàver del Chris ha aparegut al pantà. La Sophie ordena que la notícia no salti als mitjans i, en companyia de l'Emma, va a comunicar la macabra troballa als Chahal. Mentrestant, els Marshall estan convençuts que poden tornar a fer vida normal. A l'hospital, el Tom veu una cara familiar: l'Scott, un jove que surt a les fotos de la festa de la Sia. Quan li pregunta per la Jenny, l'Scott fuig.",
+				"durada": {
+					"milisegons": 2664000
+				},
+				"id": 6103322,
+				"programa": "Safe",
+				"programa_id": 62896,
+				"slug": "t1xc4-safe",
+				"temporada": null,
+				"tipus_contingut": "PPD",
+				"titol": "T1xC4 - Safe",
+				"titol_complet": "Safe ep 4  - Capítol 4"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/9/4/1622338285049.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/4/1622338285049.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/2/7/1622338365272.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/2/6103322/1622338365272/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/2/6103322/1622338365272/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			},
+			"subtitols": [
+				{
+					"format": "ebuttd",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/xml/8/6/1622784170368.xml"
+				},
+				{
+					"format": "ebuttd",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/xml/6/5/1622352683856.xml"
+				},
+				{
+					"format": "vtt",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/vtt/9/1/1622784169719.vtt"
+				},
+				{
+					"format": "vtt",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/vtt/1/7/1622352683071.vtt"
+				}
+			]
+		},
+		{
+			"informacio": {
+				"capitol": 5,
+				"data_emissio": "14/06/2021 22:59:41",
+				"data_modificacio": "05/05/2023 14:45:17",
+				"data_publicacio": "05/05/2023 00:42:00",
+				"descripcio": "Amb la vida del Pete penjant d'un fil, el Tom descobreix dos secrets a l'hospital: un que té a veure amb el Pete i l'Emma, i un altre d'una confessió que va fer la Rachel just abans de morir. Tot i la confessió del Jojo, la Sophie i l'Emma creuen que l'assassí podria continuar lliure. Un intercanvi de missatges fa que el Tom s'acosti una mica més a la Jenny, i a un perill cada cop més imminent.",
+				"durada": {
+					"milisegons": 2567000
+				},
+				"id": 6105147,
+				"programa": "Safe",
+				"programa_id": 62896,
+				"slug": "t1xc5-safe",
+				"temporada": null,
+				"tipus_contingut": "PPD",
+				"titol": "T1xC5 - Safe",
+				"titol_complet": "Safe ep 5  - Capítol 5"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/9/0/1623285995109.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/0/1623285995109.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/0/1623286073009.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/4/6105147/1623286073009/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/7/4/6105147/1623286073009/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			},
+			"subtitols": [
+				{
+					"format": "ebuttd",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/xml/9/4/1623501184749.xml"
+				},
+				{
+					"format": "ebuttd",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/xml/3/9/1623320558193.xml"
+				},
+				{
+					"format": "vtt",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/vtt/6/8/1623501184086.vtt"
+				},
+				{
+					"format": "vtt",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/vtt/6/4/1623320557646.vtt"
+				}
+			]
+		},
+		{
+			"informacio": {
+				"capitol": 6,
+				"data_emissio": "21/06/2021 23:08:16",
+				"data_modificacio": "05/05/2023 14:46:17",
+				"data_publicacio": "05/05/2023 00:42:00",
+				"descripcio": "L'incendi a casa de la Helen té conseqüències devastadores. Mentrestant, la família Chahal és víctima d'un altre incident, aquesta vegada protagonitzat per la Tilly, la germana petita del Chris. El Tom s'indigna quan les sospites recauen sobre la Jenny. D'altra banda, la Sophie rep una confessió impactant d'un membre de la comunitat que assegura que és el responsable de la mort del Chris.",
+				"durada": {
+					"milisegons": 2543000
+				},
+				"id": 6105676,
+				"programa": "Safe",
+				"programa_id": 62896,
+				"slug": "t1xc6-safe",
+				"temporada": null,
+				"tipus_contingut": "PPD",
+				"titol": "T1xC6 - Safe",
+				"titol_complet": "Safe ep 6  - Capítol 6"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/5/6/1623547403465.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/5/6/1623547403465.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/9/9/1623547480199.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/7/6105676/1623547480199/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/6/7/6105676/1623547480199/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			},
+			"subtitols": [
+				{
+					"format": "ebuttd",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/xml/3/3/1623871962933.xml"
+				},
+				{
+					"format": "ebuttd",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/xml/0/8/1623562228580.xml"
+				},
+				{
+					"format": "vtt",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/vtt/1/0/1623871962001.vtt"
+				},
+				{
+					"format": "vtt",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/vtt/9/0/1623562228009.vtt"
+				}
+			]
+		},
+		{
+			"informacio": {
+				"capitol": 7,
+				"data_emissio": "05/07/2021 23:00:41",
+				"data_modificacio": "05/05/2023 14:47:02",
+				"data_publicacio": "06/05/2023 01:35:00",
+				"descripcio": "Seguint la pista de l'amant secret de la Zoe, el Tom descobreix que va passar alguna cosa entre el Henry i la Jenny a la festa de la Sia, però, quan vol parlar amb el fill de la Sophie per treure'n l'aigua clara, la Sophie s'hi nega, com si el volgués protegir. Mentrestant, el Pete descobreix que té una filla, i una altra pista revela que alguns incendis que s'han produït apunten al Bobby.",
+				"durada": {
+					"milisegons": 2734000
+				},
+				"id": 6106910,
+				"programa": "Safe",
+				"programa_id": 62896,
+				"slug": "t1xc7-safe",
+				"temporada": null,
+				"tipus_contingut": "PPD",
+				"titol": "T1xC7 - Safe",
+				"titol_complet": "Safe ep 7  - Capítol 7"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/2/2/1624150255822.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/2/2/1624150255822.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/5/5/1624150339055.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/1/6106910/1624150339055/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/0/1/6106910/1624150339055/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			},
+			"subtitols": [
+				{
+					"format": "ebuttd",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/xml/8/1/1625686326618.xml"
+				},
+				{
+					"format": "ebuttd",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/xml/9/7/1624167051979.xml"
+				},
+				{
+					"format": "vtt",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/vtt/5/8/1625686326185.vtt"
+				},
+				{
+					"format": "vtt",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/vtt/1/4/1624167049641.vtt"
+				}
+			]
+		},
+		{
+			"informacio": {
+				"capitol": 8,
+				"data_emissio": "05/07/2021 23:55:08",
+				"data_modificacio": "05/05/2023 14:47:57",
+				"data_publicacio": "06/05/2023 01:35:00",
+				"descripcio": "La Sophie li confessa al Tom el que va passar la nit de l'incendi a l'escola. Tant ella com la Rachel, la Helen i el Bobby sempre han viscut torturats per la responsabilitat que van tenir en aquella tragèdia. Estirant el fil, la Sophie i el Tom dedueixen on s'amaga la Jenny, però la seva missió de rescat té un final tràgic. Mentrestant, l'Emma troba un objecte que revela la terrible veritat que amaga l'assassinat del Chris.",
+				"durada": {
+					"milisegons": 2882000
+				},
+				"id": 6108092,
+				"programa": "Safe",
+				"programa_id": 62896,
+				"slug": "t1xc8-safe",
+				"temporada": null,
+				"tipus_contingut": "PPD",
+				"titol": "T1xC8 - Safe",
+				"titol_complet": "Safe ep 8  - Capítol 8"
+			},
+			"media": {
+				"url": [
+					{
+						"file": "https://mp4-down-medium-es.ccma.cat/9/1/1624755227519.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-medium-es2.ccma.cat/9/1/1624755227519.mp4",
+						"label": "480p"
+					},
+					{
+						"file": "https://mp4-down-high-es2.ccma.cat/8/0/1624755316808.mp4",
+						"label": "720p"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/9/6108092/1624755316808/stream.mpd",
+						"label": "DASH"
+					},
+					{
+						"file": "https://adaptive-es.ccma.cat/2/9/6108092/1624755316808/stream.m3u8",
+						"label": "HLS"
+					}
+				]
+			},
+			"subtitols": [
+				{
+					"format": "ebuttd",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/xml/0/6/1625480528460.xml"
+				},
+				{
+					"format": "ebuttd",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/xml/5/9/1624771828995.xml"
+				},
+				{
+					"format": "vtt",
+					"iso": "ca",
+					"url": "https://statics.ccma.cat/multimedia/vtt/8/3/1625480527838.vtt"
+				},
+				{
+					"format": "vtt",
+					"iso": "en",
+					"url": "https://statics.ccma.cat/multimedia/vtt/9/6/1624771828469.vtt"
+				}
+			]
+		}
+	]
+}

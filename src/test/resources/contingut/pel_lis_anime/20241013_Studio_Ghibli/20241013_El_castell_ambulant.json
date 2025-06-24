@@ -1,0 +1,350 @@
+{
+	"informacio": {
+		"estat": {
+			"actiu": true,
+			"id": 0
+		},
+		"id": 6296509,
+		"op": 6008152,
+		"aspectratio": "16:9",
+		"capitol": 1,
+		"titol": "El castell ambulant",
+		"titol_complet": "El castell ambulant - El castell ambulant",
+		"slug": "el-castell-ambulant",
+		"programa": "Pel·lícula",
+		"permalink": "https://www.ccma.cat/tv3/sx3/el-castell-ambulant/video/6296509/",
+		"tipus_contingut": "PPD",
+		"descripcio": "La Sophie és una noia de 18 anys que treballa a una botiga de barrets. Un dia coneix el mag Howl, un jove amb uns poders extraordinaris. Però la seva trobada no passa desapercebuda per a la bruixa de l'Ermot. Quan la jove torna a la botiga, la bruixa li fa un encanteri i la transforma en una anciana de 90 anys.",
+		"durada": {
+			"text": "01:54:13",
+			"milisegons": 6853000
+		},
+		"data_emissio": {
+			"text": "04/03/2012 15:46",
+			"utc": "2012-03-04T15:46:23+01:00"
+		},
+		"data_caducitat": {
+			"text": "22/11/2024 23:59",
+			"utc": "2024-11-22T23:59:59+01:00"
+		},
+		"tematica": {
+			"text": "Ficció",
+			"id": "50590"
+		},
+		"codi_etic": {
+			"text": "Aquest vídeo és per tots els públics",
+			"id": "CE_TP"
+		},
+		"drets": {
+			"text": "Emissió no disponible fora de l'Estat Espanyol"
+		}
+	},
+	"media": {
+		"geo": "ESPANYA",
+		"format": "MP4",
+		"url": [{
+				"file": "https://mp4-down-high-es.3cat.cat/4/9/1724029322194.mp4",
+				"label": "720p",
+				"active": true
+			}, {
+				"file": "https://mp4-down-medium-es.3cat.cat/6/3/1724029249536.mp4",
+				"label": "480p",
+				"active": false
+			}
+		]
+	},
+	"idiomes": [{
+			"id": "PU_CATALA",
+			"desc": "Català",
+			"main": true
+		}
+	],
+	"sprites": {
+		"file": "https://adaptive-es.3cat.cat/9/0/6296509/1724029322194/sprites/sprite.vtt"
+	},
+	"imatges": {
+		"amplada": 670,
+		"alcada": 378,
+		"url": "https://img.3cat.cat/multimedia/jpg/1/4/1724077935241.jpg"
+	},
+	"keyframes": [{
+			"realname": "IMATGE_169",
+			"label": "MASTER",
+			"url": "https://img.3cat.cat/multimedia/jpg/0/1/1724077250310.jpg"
+		}
+	],
+	"publicitat": {
+		"sas": {
+			"adData": {
+				"sas_siteid": 522720,
+				"sas_pageid": 1633167,
+				"sas_pagename": "linear",
+				"sas_format_linears": 114386,
+				"sas_target": "tec=web;pid=ccma;ptf=pc;med=video"
+			},
+			"adRules": [{
+					"duration_min": 0,
+					"duration_max": -1,
+					"data": {
+						"prerolls": {
+							"instances": 2
+						},
+						"midrolls": {
+							"percents": [6, 80],
+							"instances": 2
+						},
+						"postrolls": {
+							"instances": 1
+						}
+					}
+				}
+			],
+			"configuration": {
+				"player": {
+					"closeLinear_out": {
+						"img": "https://img.3cat.cat/multimedia/png/1/0/1524807813701.png"
+					},
+					"closeLinear_over": {
+						"img": "https://img.3cat.cat/multimedia/png/1/4/1524807852941.png"
+					}
+				},
+				"publisher": {
+					"enableAdPauseOnWindowChange": false,
+					"html5SeamlessFullscreen": true,
+					"forceSkipDelay": true,
+					"skipDelay": 16,
+					"totalTimeout": 6
+				},
+				"labels": {
+					"lbl_countdown_skip": {
+						"EN": "Salta d'aquí {0} s"
+					},
+					"lbl_countdown_break_preroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_midroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_postroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_skip_vpaid": {
+						"EN": "Vés al contingut"
+					}
+				},
+				"vpaid": {
+					"enableCountdownVideo": true,
+					"enableSkipLabel": true
+				},
+				"rtb": {
+					"vpmt": 1
+				}
+			}
+		}
+	},
+	"audiencies": {
+		"adobe_analytics": {
+			"id": 6296509,
+			"mediaType": "video",
+			"op-capitol": "6008152-1",
+			"compte": "caproccma",
+			"nom": "El castell ambulant",
+			"durada": 6853,
+			"reproductor": "HTML5",
+			"directe": 0,
+			"tipus": "DIFERIT",
+			"parametres": {
+				"eVar10": "El castell ambulant",
+				"prop10": "El castell ambulant",
+				"eVar11": "video",
+				"prop11": "video",
+				"eVar12": "PPD",
+				"prop12": "PPD",
+				"eVar13": "Pel·lícula",
+				"prop13": "Pel·lícula",
+				"eVar14": 6296509,
+				"prop14": 6296509,
+				"eVar15": "No Informat",
+				"prop15": "No Informat",
+				"eVar16": "No Informat",
+				"prop16": "No Informat",
+				"eVar17": "Ficció",
+				"prop17": "Ficció",
+				"eVar18": "Ficció",
+				"prop18": "Ficció",
+				"eVar19": "04/03/2012",
+				"prop19": "04/03/2012",
+				"eVar20": "Alacarta",
+				"prop20": "Alacarta",
+				"eVar21": "X3",
+				"prop21": "X3",
+				"eVar22": "No Informat",
+				"prop22": "No Informat",
+				"eVar23": "~window.location.hostname.toString()",
+				"prop23": "~window.location.hostname.toString()",
+				"eVar24": "~window.location.toString()",
+				"prop24": "~window.location.toString()",
+				"eVar25": "Televisió de Catalunya",
+				"prop25": "Televisió de Catalunya",
+				"eVar26": "Portals web",
+				"prop26": "Portals web",
+				"eVar27": "HTML5",
+				"prop27": "HTML5",
+				"eVar28": "No Informat",
+				"prop28": "No Informat",
+				"eVar29": "Video",
+				"prop29": "Video",
+				"eVar30": 6008152,
+				"prop30": 6008152,
+				"eVar31": "1",
+				"prop31": "1",
+				"eVar32": "No Informat",
+				"prop32": "No Informat",
+				"eVar33": "Pel·lícula",
+				"prop33": "Pel·lícula",
+				"eVar34": "No Informat",
+				"prop34": "No Informat",
+				"eVar35": "No Informat",
+				"prop35": "No Informat",
+				"eVar36": "Infantil",
+				"prop36": "Infantil",
+				"eVar37": "No Informat",
+				"prop37": "No Informat",
+				"eVar38": 6853,
+				"prop38": 6853,
+				"eVar39": "No Informat",
+				"prop39": "No Informat",
+				"eVar54": "X3",
+				"prop54": "X3,Programes amb vídeo i videopodcasts,Carrussel Home - SmartTV/HbbTV,Carrussel Home - Web/App,Pel·lícules,Pel·lícules animació Ghibli,Anime X3,Pel·lis X3,Per veure en família,Animació",
+				"eVar56": "Geolocalització: Espanya",
+				"prop56": "Geolocalització: Espanya",
+				"eVar58": "~window.getSubtitlesStatus()",
+				"prop58": "~window.getSubtitlesStatus()",
+				"eVar59": "No Informat",
+				"prop59": "No Informat",
+				"eVar60": "No Informat",
+				"prop60": "No Informat",
+				"eVar61": "~s.getTimeParting('n','+1')",
+				"prop61": "~s.getTimeParting('n','+1')",
+				"eVar62": "Català",
+				"prop62": "Català",
+				"eVar63": "~window.getGlobalEvar('eVar63')",
+				"prop63": "~window.getGlobalEvar('eVar63')",
+				"eVar65": "No Informat",
+				"prop65": "No Informat",
+				"eVar66": "~window.isCasting",
+				"prop66": "~window.isCasting",
+				"eVar69": "Pel·lícula Animació",
+				"prop69": "Pel·lícula Animació",
+				"eVar71": "~window.getGlobalEvar('eVar71')",
+				"prop71": "~window.getGlobalEvar('eVar71')",
+				"eVar73": "~window.getGlobalEvar('eVar73')",
+				"prop73": "~window.getGlobalEvar('eVar73')",
+				"eVar78": "577",
+				"prop78": "577",
+				"eVar84": "No Informat",
+				"prop84": "No Informat",
+				"eVar87": "~window.getDeviceUID()",
+				"prop87": "~window.getDeviceUID()",
+				"eVar88": "15:46",
+				"prop88": "15:46"
+			}
+		},
+		"matr": {
+			"urls": {
+				"sendmark": "https://audiencies.ccma.cat/img/pixMark.png",
+				"senduserdata": "https://audiencies.ccma.cat/img/pixUser.png",
+				"checkcors": "https://audiencies.ccma.cat/checkCors.json",
+				"gettime": "https://api.3cat.cat/utils/time.php",
+				"senduserchannels": "https://audiencies.ccma.cat/img/pixTvChannels.png"
+			},
+			"parametres": {
+				"pid": "PortalCCMA",
+				"directe": false,
+				"tipus": "video",
+				"content": {
+					"canal": "X3",
+					"id_dty": 6296509,
+					"variant": "~window.getSelectedVideoVariant()",
+					"qualitat": "~window.getVideoQuality()",
+					"format": "~window.getVideoFormat()",
+					"sbt": "~window.isSubtitleEnabled()",
+					"sbtd": "~window.getSubtitlesStatus()"
+				},
+				"dynamic_content": {
+					"versioapp": "~window.appVersion",
+					"aid": "~window.visitor.getMarketingCloudVisitorID()"
+				}
+			}
+		},
+		"kantarst": {
+			"customerC2": 20296419,
+			"directe": 0,
+			"mediaType": "video",
+			"nom": "El castell ambulant-Pel·lícula",
+			"parametres": {
+				"ns_st_pu": "CCMA",
+				"ns_st_pr": "Pel·lícula",
+				"ns_st_ep": "El castell ambulant",
+				"ns_st_sn": "*null",
+				"ns_st_en": 1,
+				"ns_st_st": "CCMA-TV3",
+				"ns_st_cl": 6853000,
+				"ns_st_ge": "*null",
+				"ns_st_ti": "*null",
+				"ns_st_ia": 0,
+				"ns_st_ce": 0,
+				"ns_st_ddt": "2024-08-24",
+				"ns_st_stc": 2002,
+				"ns_st_ct": "vc12",
+				"nt_st_sn": "*null",
+				"ns_st_tp": 0,
+				"c2": 20296419,
+				"c3": "CCMA",
+				"c4": "CCMA-TV3",
+				"c6": "*null",
+				"fp_offset": 0,
+				"ns_st_li": 0,
+				"ns_st_tdt": "2024-08-23",
+				"ns_st_tm": "00:55",
+				"ns_st_ty": "0001",
+				"cs_ucfr": "~window.getConsentVendor()",
+				"ns_st_ci": 14756
+			}
+		}
+	},
+	"youbora": {
+		"active": true,
+		"debug": false,
+		"opcions": {
+			"content.transactionCode": true,
+			"content.title": "El castell ambulant",
+			"content.program": "Pel·lícula",
+			"content.duration": 6853,
+			"content.isLive": false,
+			"content.metadata": {
+				"filename": "~getMediaURL()",
+				"content_id": 6296509,
+				"url": "~window.location.href",
+				"transaction_type": "Free",
+				"device": {
+					"manufacturer": "~getPlayerManufacturer()"
+				}
+			},
+			"extraparam.3": "PortalCCMA",
+			"user.name": "~window.getDeviceUID()",
+			"ad.expectedPattern": {
+				"pre": [2],
+				"mid": [2, 2],
+				"post": [1]
+			},
+			"ad.breaksTime": [0, 420, 5482, 6853]
+		}
+	},
+	"relacionats": {
+		"url": "https://api.3cat.cat/videos?version=2.0&_format=json&items_pagina=16&capitol=1|&tipus_contingut=PPD&ordre=capitol&idioma=PU_CATALA&produccio=6008152&perfil=pc&no_id=6296509"
+	},
+	"recomanats": {
+		"url": "https://api.3cat.cat/usuaris/recomanacions/videos?_format=json&dispositiu=PC&debug=no&version=2.0"
+	}
+}

@@ -1,0 +1,376 @@
+{
+	"informacio": {
+		"estat": {
+			"actiu": true,
+			"id": 0
+		},
+		"id": 6286279,
+		"op": 3037574,
+		"aspectratio": "16:9",
+		"capitol": 1,
+		"titol": "El meu veí Totoro",
+		"titol_complet": "EL MEU VEI TOTORO  - El meu veí Totoro",
+		"slug": "el-meu-vei-totoro",
+		"programa": "Pel·lícula",
+		"permalink": "https://www.ccma.cat/tv3/sx3/el-meu-vei-totoro/video/6286279/",
+		"tipus_contingut": "PPD",
+		"descripcio": "Els nens són les úniques persones que poden veure Totoro, l'habitant dels boscos. Ells senten una afinitat natural amb el seu únic protector que està sempre a punt per ajudar-los quan el necessiten i sempre té un somriure amable i comprensiu per a ells. Totoro no parla el llenguatge dels humans però es comunica fàcilment amb el nens.",
+		"durada": {
+			"text": "01:22:37",
+			"milisegons": 4957000
+		},
+		"data_emissio": {
+			"text": "02/04/1996 00:00",
+			"utc": "1996-04-02T00:00:00+02:00"
+		},
+		"data_caducitat": {
+			"text": "05/09/2024 23:59",
+			"utc": "2024-09-05T23:59:59+02:00"
+		},
+		"tematica": {
+			"text": "Ficció",
+			"id": "50590"
+		},
+		"codi_etic": {
+			"text": "Aquest vídeo és per tots els públics",
+			"id": "CE_TP"
+		},
+		"drets": {
+			"text": "Emissió no disponible fora de l'Estat Espanyol"
+		}
+	},
+	"media": {
+		"geo": "ESPANYA",
+		"format": "MP4",
+		"url": [{
+				"file": "https://mp4-down-high-es.3cat.cat/6/9/1717801875796.mp4",
+				"label": "720p",
+				"active": true
+			}, {
+				"file": "https://mp4-down-medium-es.3cat.cat/5/8/1717801789985.mp4",
+				"label": "480p",
+				"active": false
+			}
+		]
+	},
+	"variants": [{
+			"id": "AUD",
+			"nom": "Audiodescripció",
+			"media": {
+				"geo": "ESPANYA",
+				"format": "MP4",
+				"url": [{
+						"file": "https://mp4-down-medium-es.3cat.cat/1/5/1717767597651.mp4",
+						"label": "480p",
+						"active": false
+					}, {
+						"file": "https://mp4-down-high-es.3cat.cat/8/7/1717767801578.mp4",
+						"label": "720p",
+						"active": true
+					}
+				]
+			}
+		}
+	],
+	"idiomes": [{
+			"id": "PU_CATALA",
+			"desc": "Català",
+			"main": true
+		}
+	],
+	"subtitols": [{
+			"text": "Català",
+			"iso": "ca",
+			"url": "https://statics.3cat.cat/multimedia/vtt/1/3/1717680555431.vtt",
+			"format": "vtt"
+		}
+	],
+	"sprites": {
+		"file": "https://adaptive-es.3cat.cat/9/7/6286279/1717801875796/sprites/sprite.vtt"
+	},
+	"imatges": {
+		"amplada": 670,
+		"alcada": 378,
+		"url": "https://img.3cat.cat/multimedia/jpg/6/4/1717654292446.jpg"
+	},
+	"keyframes": [{
+			"realname": "IMATGE_169",
+			"label": "MASTER",
+			"url": "https://img.3cat.cat/multimedia/jpg/3/4/1717654252543.jpg"
+		}
+	],
+	"publicitat": {
+		"sas": {
+			"adData": {
+				"sas_siteid": 522720,
+				"sas_pageid": 1633167,
+				"sas_pagename": "linear",
+				"sas_format_linears": 114386,
+				"sas_target": "tec=web;pid=ccma;ptf=pc;med=video"
+			},
+			"adRules": [{
+					"duration_min": 0,
+					"duration_max": -1,
+					"data": {
+						"prerolls": {
+							"instances": 2
+						},
+						"midrolls": {
+							"percents": [8, 80],
+							"instances": 2
+						},
+						"postrolls": {
+							"instances": 1
+						}
+					}
+				}
+			],
+			"configuration": {
+				"player": {
+					"closeLinear_out": {
+						"img": "https://img.3cat.cat/multimedia/png/1/0/1524807813701.png"
+					},
+					"closeLinear_over": {
+						"img": "https://img.3cat.cat/multimedia/png/1/4/1524807852941.png"
+					}
+				},
+				"publisher": {
+					"enableAdPauseOnWindowChange": false,
+					"html5SeamlessFullscreen": true,
+					"forceSkipDelay": true,
+					"skipDelay": 16,
+					"totalTimeout": 6
+				},
+				"labels": {
+					"lbl_countdown_skip": {
+						"EN": "Salta d'aquí {0} s"
+					},
+					"lbl_countdown_break_preroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_midroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_countdown_break_postroll": {
+						"EN": "L'anunci s'acabarà d'aquí {0} s"
+					},
+					"lbl_skip_vpaid": {
+						"EN": "Vés al contingut"
+					}
+				},
+				"vpaid": {
+					"enableCountdownVideo": true,
+					"enableSkipLabel": true
+				},
+				"rtb": {
+					"vpmt": 1
+				}
+			}
+		}
+	},
+	"audiencies": {
+		"adobe_analytics": {
+			"id": 6286279,
+			"mediaType": "video",
+			"op-capitol": "3037574-1",
+			"compte": "caproccma",
+			"nom": "El meu veí Totoro",
+			"durada": 4957,
+			"reproductor": "HTML5",
+			"directe": 0,
+			"tipus": "DIFERIT",
+			"parametres": {
+				"eVar10": "El meu veí Totoro",
+				"prop10": "El meu veí Totoro",
+				"eVar11": "video",
+				"prop11": "video",
+				"eVar12": "PPD",
+				"prop12": "PPD",
+				"eVar13": "Pel·lícula",
+				"prop13": "Pel·lícula",
+				"eVar14": 6286279,
+				"prop14": 6286279,
+				"eVar15": "No Informat",
+				"prop15": "No Informat",
+				"eVar16": "No Informat",
+				"prop16": "No Informat",
+				"eVar17": "Ficció",
+				"prop17": "Ficció",
+				"eVar18": "Ficció",
+				"prop18": "Ficció",
+				"eVar19": "02/04/1996",
+				"prop19": "02/04/1996",
+				"eVar20": "Alacarta",
+				"prop20": "Alacarta",
+				"eVar21": "X3",
+				"prop21": "X3",
+				"eVar22": "No Informat",
+				"prop22": "No Informat",
+				"eVar23": "~window.location.hostname.toString()",
+				"prop23": "~window.location.hostname.toString()",
+				"eVar24": "~window.location.toString()",
+				"prop24": "~window.location.toString()",
+				"eVar25": "Televisió de Catalunya",
+				"prop25": "Televisió de Catalunya",
+				"eVar26": "Portals web",
+				"prop26": "Portals web",
+				"eVar27": "HTML5",
+				"prop27": "HTML5",
+				"eVar28": "No Informat",
+				"prop28": "No Informat",
+				"eVar29": "Video",
+				"prop29": "Video",
+				"eVar30": 3037574,
+				"prop30": 3037574,
+				"eVar31": "1",
+				"prop31": "1",
+				"eVar32": "No Informat",
+				"prop32": "No Informat",
+				"eVar33": "Pel·lícula",
+				"prop33": "Pel·lícula",
+				"eVar34": "No Informat",
+				"prop34": "No Informat",
+				"eVar35": "No Informat",
+				"prop35": "No Informat",
+				"eVar36": "Infantil",
+				"prop36": "Infantil",
+				"eVar37": "No Informat",
+				"prop37": "No Informat",
+				"eVar38": 4957,
+				"prop38": 4957,
+				"eVar39": "No Informat",
+				"prop39": "No Informat",
+				"eVar54": "Pel·lícules animació Ghibli",
+				"prop54": "Pel·lícules animació Ghibli,Pel·lis X3,X3,Carrussel Home - SmartTV/HbbTV,Carrussel Home - Web/App,Programes amb vídeo i videopodcasts,Pel·lícules,Pelicules Super3,Anime X3,Per veure en família",
+				"eVar56": "Geolocalització: Espanya",
+				"prop56": "Geolocalització: Espanya",
+				"eVar58": "~window.getSubtitlesStatus()",
+				"prop58": "~window.getSubtitlesStatus()",
+				"eVar59": "No Informat",
+				"prop59": "No Informat",
+				"eVar60": "No Informat",
+				"prop60": "No Informat",
+				"eVar61": "~s.getTimeParting('n','+1')",
+				"prop61": "~s.getTimeParting('n','+1')",
+				"eVar62": "Català",
+				"prop62": "Català",
+				"eVar63": "~window.getGlobalEvar('eVar63')",
+				"prop63": "~window.getGlobalEvar('eVar63')",
+				"eVar65": "No Informat",
+				"prop65": "No Informat",
+				"eVar66": "~window.isCasting",
+				"prop66": "~window.isCasting",
+				"eVar69": "Pel·lícula Animació",
+				"prop69": "Pel·lícula Animació",
+				"eVar71": "~window.getGlobalEvar('eVar71')",
+				"prop71": "~window.getGlobalEvar('eVar71')",
+				"eVar73": "~window.getGlobalEvar('eVar73')",
+				"prop73": "~window.getGlobalEvar('eVar73')",
+				"eVar78": "111573",
+				"prop78": "111573",
+				"eVar84": "No Informat",
+				"prop84": "No Informat",
+				"eVar87": "~window.getDeviceUID()",
+				"prop87": "~window.getDeviceUID()",
+				"eVar88": "00:00",
+				"prop88": "00:00"
+			}
+		},
+		"matr": {
+			"urls": {
+				"sendmark": "https://audiencies.ccma.cat/img/pixMark.png",
+				"senduserdata": "https://audiencies.ccma.cat/img/pixUser.png",
+				"checkcors": "https://audiencies.ccma.cat/checkCors.json",
+				"gettime": "https://api.3cat.cat/utils/time.php",
+				"senduserchannels": "https://audiencies.ccma.cat/img/pixTvChannels.png"
+			},
+			"parametres": {
+				"pid": "PortalCCMA",
+				"directe": false,
+				"tipus": "video",
+				"content": {
+					"canal": "X3",
+					"id_dty": 6286279,
+					"variant": "~window.getSelectedVideoVariant()",
+					"qualitat": "~window.getVideoQuality()",
+					"format": "~window.getVideoFormat()",
+					"sbt": "~window.isSubtitleEnabled()",
+					"sbtd": "~window.getSubtitlesStatus()"
+				},
+				"dynamic_content": {
+					"versioapp": "~window.appVersion",
+					"aid": "~window.visitor.getMarketingCloudVisitorID()"
+				}
+			}
+		},
+		"kantarst": {
+			"customerC2": 20296419,
+			"directe": 0,
+			"mediaType": "video",
+			"nom": "El meu veí Totoro-Pel·lícula",
+			"parametres": {
+				"ns_st_pu": "CCMA",
+				"ns_st_pr": "Pel·lícula",
+				"ns_st_ep": "El meu veí Totoro",
+				"ns_st_sn": "*null",
+				"ns_st_en": 1,
+				"ns_st_st": "CCMA-TV3",
+				"ns_st_cl": 4957000,
+				"ns_st_ge": "*null",
+				"ns_st_ti": "*null",
+				"ns_st_ia": 0,
+				"ns_st_ce": 0,
+				"ns_st_ddt": "2024-06-07",
+				"ns_st_stc": 2002,
+				"ns_st_ct": "vc12",
+				"nt_st_sn": "*null",
+				"ns_st_tp": 0,
+				"c2": 20296419,
+				"c3": "CCMA",
+				"c4": "CCMA-TV3",
+				"c6": "*null",
+				"fp_offset": 0,
+				"ns_st_li": 0,
+				"ns_st_tdt": "2024-06-07",
+				"ns_st_tm": "23:02",
+				"ns_st_ty": "0001",
+				"cs_ucfr": "~window.getConsentVendor()",
+				"ns_st_ci": 34558
+			}
+		}
+	},
+	"youbora": {
+		"active": true,
+		"debug": false,
+		"opcions": {
+			"content.transactionCode": true,
+			"content.title": "El meu veí Totoro",
+			"content.program": "Pel·lícula",
+			"content.duration": 4957,
+			"content.isLive": false,
+			"content.metadata": {
+				"filename": "~getMediaURL()",
+				"content_id": 6286279,
+				"url": "~window.location.href",
+				"transaction_type": "Free",
+				"device": {
+					"manufacturer": "~getPlayerManufacturer()"
+				}
+			},
+			"extraparam.3": "PortalCCMA",
+			"user.name": "~window.getDeviceUID()",
+			"ad.expectedPattern": {
+				"pre": [2],
+				"mid": [2, 2],
+				"post": [1]
+			},
+			"ad.breaksTime": [0, 420, 3966, 4957]
+		}
+	},
+	"relacionats": {
+		"url": "https://api.3cat.cat/videos?version=2.0&_format=json&items_pagina=16&capitol=1|&tipus_contingut=PPD&ordre=capitol&idioma=PU_CATALA&produccio=3037574&perfil=pc&no_id=6286279"
+	},
+	"recomanats": {
+		"url": "https://api.3cat.cat/usuaris/recomanacions/videos?_format=json&dispositiu=PC&debug=no&version=2.0"
+	}
+}
