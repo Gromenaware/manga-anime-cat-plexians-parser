@@ -1,5 +1,7 @@
 package cat.plexians.utils;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -132,6 +134,45 @@ public class EpisodeUtils {
         FileOutputStream fos = new FileOutputStream(pathForDownloads + fileDownloaded);
         fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
     }
+
+    public static String extractJsonFromHtml(String htmlString) {
+        int preStart = htmlString.indexOf("<pre>");
+        int preEnd = htmlString.indexOf("</pre>");
+        if (preStart == -1 || preEnd == -1) throw new IllegalArgumentException("No s'ha trobat el <pre> al HTML!");
+        return htmlString.substring(preStart + 5, preEnd);
+    }
+
+
+    public void downloadEpisodeFromJson(String jsonString, String nomDeLaSerie, String pathForDownloads, ParsingUtils parsingUtils) throws IOException {
+        JSONObject obj = new JSONObject(jsonString);
+
+        String videoTitle = obj.getJSONObject("informacio").getString("slug");
+        String idVideo = String.valueOf(obj.getJSONObject("informacio").getInt("id"));
+
+        // Troba la qualitat més alta
+        JSONArray urls = obj.getJSONObject("media").getJSONArray("url");
+        String urlDescarrega = null;
+        int maxQuality = 0;
+        for (int i = 0; i < urls.length(); i++) {
+            JSONObject urlObj = urls.getJSONObject(i);
+            String label = urlObj.getString("label"); // Ex: "720p"
+            int quality = Integer.parseInt(label.replace("p", ""));
+            if (quality > maxQuality) {
+                maxQuality = quality;
+                urlDescarrega = urlObj.getString("file");
+            }
+        }
+
+        System.out.println("Títol: " + videoTitle + "\n Id del video: " + idVideo + "\n URL descarrega: " + urlDescarrega + "\nQualitat: " + maxQuality + "p");
+
+        URL website = new URL(urlDescarrega);
+        ReadableByteChannel rbc = Channels.newChannel(website.openStream());
+        String fileDownloaded = parsingUtils.cleanStringFromSpecialCharactersMp4(nomDeLaSerie + "_" + videoTitle + "_" + idVideo + ".mp4");
+        System.out.println("Fitxer final: " + pathForDownloads + fileDownloaded);
+        FileOutputStream fos = new FileOutputStream(pathForDownloads + fileDownloaded);
+        fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
+    }
+
 
     public VideoInfo getUrlFromEpisodeFrom3Cat(WebDriver driver, String e) throws IOException {
         // Prepara les urls per descarregar
