@@ -23,9 +23,9 @@ public class SearcherFromOdiloTkTest extends BaseWebDriver {
     @Test
     public void initialTesT() throws InterruptedException, IOException {
 
-        String isbn = "9788416280315";
+        String isbn = "9788419448606";
 
-        String pathForDownloads = File.separator + "Volumes" + File.separator + "TeraTwo" + File.separator + "odilotk_searches" + File.separator;
+        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "odilotk_searches" + File.separator;
 
         String searchParams = File.separator + "results?limit=24&offset=0&query=allfields_txt:" + isbn + "&order=relevance:desc";
 
@@ -46,6 +46,13 @@ public class SearcherFromOdiloTkTest extends BaseWebDriver {
             if (UrlUtils.isUrlReachable(fullUrl) && !UrlUtils.checkForRedirection(fullUrl)) {
                 driver.get(fullUrl);
                 System.out.println("Navigating to: " + fullUrl);
+
+                // NEW: Check if redirected to login
+                String currentUrl = driver.getCurrentUrl();
+                if (currentUrl.contains("login.microsoftonline.com")) {
+                    System.out.println("Redirected to Microsoft login, skipping: " + fullUrl);
+                    continue;
+                }
 
                 wait.until(ExpectedConditions.urlToBe(fullUrl));
 
