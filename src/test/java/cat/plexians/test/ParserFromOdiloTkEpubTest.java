@@ -27,12 +27,12 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
     //Val per epub
     @Test
     public void initialTest() throws InterruptedException {
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/hola-pubertad-adios-a-la-verguenza-descubre-tu-sexualidad-00667405";
-        String isbn = "9788419522016";
-        String titolDelLlibre = "¡Hola, pubertad! Adiós a la vergüenza. Descubre tu sexualidad";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/gangsta-major-00793900";
+        String isbn = "9791387736033";
+        String titolDelLlibre = "Gangsta major";
         String autorDelLlibre = "00";
 
-        String pathForDownloads = File.separator + "Volumes" + File.separator + "03_1TB" + File.separator + titolDelLlibre + File.separator;
+        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + titolDelLlibre + File.separator;
 
         // Prepare directories
         parsingUtils.directoryCreation(pathForDownloads);
@@ -43,11 +43,8 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
             Thread.sleep(3000);
 
             // Handle cookies dialog if present
-            By cookiesDialog = By.xpath("//app-cookies-dialog");
-            if (NavigationActions.elementExists(driver, cookiesDialog)) {
-                System.out.println("Accepting cookies...");
-                NavigationActions.hoverAndClick(driver, By.xpath("//app-cookies-dialog[1]/div[1]/div[2]/div[1]/button[2]"));
-            }
+            NavigationActions.hoverAndClick(driver, By.xpath("/html/body/app-root/app-modal-handler/opac-cookies-dialog/opac-dialog/div/div[2]/section/footer/div/div/opac-button[2]/button/span[2]"));
+
             Thread.sleep(3000);
 
             // Click Preview
