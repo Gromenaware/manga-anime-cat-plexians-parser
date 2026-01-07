@@ -2,10 +2,8 @@ package cat.plexians.test;
 
 import cat.plexians.main.BaseWebDriver;
 import cat.plexians.utils.NavigationActions;
-import cat.plexians.utils.ParsingUtils;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.Test;
 
 import java.io.File;
@@ -17,10 +15,11 @@ public class ParserFromSeasonTest extends BaseWebDriver {
     @Test
     public void initialTesT() throws InterruptedException, IOException {
 
-        String seasonNumber = "4"; //Llegir del config
-        String nomDeLaSerie = "bola-de-drac-super"; //Llegir del config
+        String seasonNumber = "3"; //Llegir del config
+        String nomDeLaSerie = "dawsons-creek"; //Llegir del config
         String season = "season_" + seasonNumber;
-        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + nomDeLaSerie + File.separator + season + File.separator;
+        //String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + nomDeLaSerie + File.separator + season + File.separator;
+        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "series" + File.separator + nomDeLaSerie + File.separator + season + File.separator;
         String urlDeDescarrega = "https://www.3cat.cat/3cat/" + nomDeLaSerie + "/capitols/temporada/" + seasonNumber + "/";
 
         System.out.println("Download Path: " + pathForDownloads);
@@ -32,7 +31,35 @@ public class ParserFromSeasonTest extends BaseWebDriver {
 
         Thread.sleep(4000);
 
-        NavigationActions.hoverAndClick(driver, By.xpath("/html/body/div[2]/div[3]/div/div/div[1]/div/button[3]/span"));
+        // Reviu
+        NavigationActions.hoverAndClick(driver, By.xpath("/html/body/div[2]/div[3]/div/div/div[1]/button"));
+
+        Thread.sleep(4000);
+
+        //Mirar si hi ha scroll de temporada
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+
+        for (int i = 0; i < 4; i++) {
+            // Get current scroll height before scrolling
+            Long lastHeight = (Long) js.executeScript("return document.body.scrollHeight");
+
+            // Scroll down
+            js.executeScript("window.scrollBy(0, window.innerHeight);");
+            Thread.sleep(1000); // Wait for load
+
+            // Get new scroll height
+            Long newHeight = (Long) js.executeScript("return document.body.scrollHeight");
+
+            // Calculate current position (visual top + window height)
+            Long currentPos = (Long) js.executeScript("return window.pageYOffset + window.innerHeight");
+
+            // If we are at the bottom of the page, break the loop
+            if (currentPos >= newHeight) {
+                System.out.println("Reached end of page early.");
+                break;
+            }
+        }
+
 
         //Crear el lloc on es descarrega el contingut
         //Preparem els directoris
