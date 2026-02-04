@@ -15,8 +15,8 @@ public class ParserFromSeasonTest extends BaseWebDriver {
     @Test
     public void initialTesT() throws InterruptedException, IOException {
 
-        String seasonNumber = "6"; //Llegir del config
-        String nomDeLaSerie = "dawsons-creek"; //Llegir del config
+        String seasonNumber = "1"; //Llegir del config
+        String nomDeLaSerie = "prodigiosa_les_aventures_de_ladybug_i_gat_noir"; //Llegir del config
         String season = "season_" + seasonNumber;
         //String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + nomDeLaSerie + File.separator + season + File.separator;
         String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "series" + File.separator + nomDeLaSerie + File.separator + season + File.separator;

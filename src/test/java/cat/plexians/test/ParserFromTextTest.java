@@ -14,8 +14,8 @@ public class ParserFromTextTest extends BaseWebDriver {
     public void initialTesT() throws IOException {
 
         String nomDeLaSerie = "Naruto";
-        String pathTxtSerieParse = "src" + File.separator + "test" + File.separator + "resources" + File.separator + "series" + File.separator;
-        String pathForDownloads = File.separator + "Volumes" + File.separator + "TeraTwo" + File.separator + nomDeLaSerie + File.separator;
+        String pathTxtSerieParse =  "src" + File.separator + "test" + File.separator + "resources" + File.separator + "series" + File.separator;
+        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + nomDeLaSerie + File.separator;
 
         //Neteja el nom de la serie
         nomDeLaSerie = parsingUtils.cleanStringFromSpecialCharactersMp4(nomDeLaSerie);
