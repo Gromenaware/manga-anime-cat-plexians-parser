@@ -25,10 +25,10 @@ public class ParserFromOdiloTkMangaBgImgTest extends BaseWebDriver {
     //Val per manga
     @Test
     public void initialTest() {
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-super-n-22-00758331";
-        String isbn = "9788410492158";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-super-n-23-00801675";
+        String isbn = "9791387780777";
         String nomDeLaSerie = "Bola_de_Drac_Super";
-        String volumDelLibre = "22";
+        String volumDelLibre = "23";
 
         String pathForDownloads = File.separator + "Volumes" + File.separator + "03_1TB" + File.separator + nomDeLaSerie + File.separator;
 

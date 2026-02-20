@@ -19,12 +19,12 @@ public class ParserFromDigitalBooksProTest extends BaseWebDriver {
 
     @Test
     public void initialTest() {
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/adolf-tankobon-n-03-05-00602574";
-        String isbn = "9788413422084";
-        String nomDeLaSerie = "adolf";
-        String volumDelLibre = "03";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-heroes-n-01-00802417";
+        String isbn = "9788413428130";
+        String nomDeLaSerie = "Bola_de_Drac_Heroes";
+        String volumDelLibre = "02";
 
-        String pathForDownloads = File.separator + "Volumes" + File.separator + "TeraTwo" + File.separator + nomDeLaSerie + File.separator + volumDelLibre + File.separator;
+        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + nomDeLaSerie + File.separator + volumDelLibre + File.separator;
 
         // Prepare directories
         parsingUtils.directoryCreation(pathForDownloads);

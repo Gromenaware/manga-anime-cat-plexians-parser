@@ -18,10 +18,10 @@ public class ParserFromOdiloTkMangaScreenshotsTest extends BaseWebDriver {
     @Test
     public void initialTesT() throws IOException, InterruptedException {
 
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-super-n-21-00748865";
-        String isbn = "9788411617581";
-        String nomDeLaSerie = "Bola_de_Drac_Super_21";
-        String volumDelLibre = "21";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-super-n-23-00801675";
+        String isbn = "9791387780777";
+        String nomDeLaSerie = "Bola_de_Drac_Super_23";
+        String volumDelLibre = "23";
 
 
         String pathForDownloads = File.separator + "Volumes" + File.separator + "TeraTwo" + File.separator + nomDeLaSerie + File.separator + volumDelLibre + File.separator;

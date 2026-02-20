@@ -27,12 +27,13 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
     //Val per epub
     @Test
     public void initialTest() throws InterruptedException {
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/gangsta-major-00793900";
-        String isbn = "9791387736033";
-        String titolDelLlibre = "Gangsta major";
-        String autorDelLlibre = "00";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/marmalade-boy-n-06-06-00663415";
+        String isbn = "9788491535003";
+        String titolDelLlibre = "marmalade_boy";
+        String autorDelLlibre = "marmalade_boy";
+        String volumDelLibre = "06_06";
 
-        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + titolDelLlibre + File.separator;
+        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + autorDelLlibre + File.separator + titolDelLlibre + File.separator + volumDelLibre + File.separator;
 
         // Prepare directories
         parsingUtils.directoryCreation(pathForDownloads);
@@ -40,16 +41,16 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
         try {
             driver.get(baseBookUrl);
             System.out.println("Accessing URL..." + baseBookUrl);
-            Thread.sleep(3000);
+            Thread.sleep(4000);
 
             // Handle cookies dialog if present
             NavigationActions.hoverAndClick(driver, By.xpath("/html/body/app-root/app-modal-handler/opac-cookies-dialog/opac-dialog/div/div[2]/section/footer/div/div/opac-button[2]/button/span[2]"));
 
-            Thread.sleep(3000);
+            Thread.sleep(4000);
 
             // Click Preview
             NavigationActions.hoverAndClick(driver, By.xpath("//app-preview-button/button/span[1]"));
-            Thread.sleep(3000);
+            Thread.sleep(4000);
 
             // Switch to second tab
             Set<String> windowHandles = driver.getWindowHandles();
@@ -58,7 +59,7 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
                 throw new IllegalStateException("Preview tab did not open.");
             }
             driver.switchTo().window(tabs.get(1));
-            Thread.sleep(2000);
+            Thread.sleep(20000);
 
             // Find iframes and switch to the first one
             List<WebElement> iframes = driver.findElements(By.tagName("iframe"));
