@@ -23,7 +23,7 @@ public class SearcherFromOdiloTkTest extends BaseWebDriver {
     @Test
     public void initialTesT() throws InterruptedException, IOException {
 
-        String isbn = "9788491530565";
+        String isbn = "9788491732969";
 
         String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "odilotk_searches" + File.separator;
 

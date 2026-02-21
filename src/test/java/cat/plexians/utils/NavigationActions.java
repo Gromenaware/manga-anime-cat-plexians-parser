@@ -118,38 +118,35 @@ public class NavigationActions {
     }
 
     public static boolean WebElementExists(WebDriver driver, WebElement webElement) {
-        driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+        // Updated to use Duration.ofSeconds()
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
+
         try {
             webElement.isEnabled();
         } catch (NoSuchElementException e) {
-            driver.manage().timeouts()
-                    .implicitlyWait(2,
-                            TimeUnit.SECONDS);
+            // Updated to use Duration.ofSeconds()
+            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
             LOGGER.info("NoSuchElementException" + e.toString());
             return false;
         }
-        driver.manage().timeouts()
-                .implicitlyWait(2,
-                        TimeUnit.SECONDS);
+
+        // Updated to use Duration.ofSeconds()
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
         return true;
     }
 
     public static boolean WebElementExists(WebDriver driver, WebElement webElement, boolean logInfo) {
-        driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
         try {
             webElement.isEnabled();
         } catch (NoSuchElementException e) {
-            driver.manage().timeouts()
-                    .implicitlyWait(2,
-                            TimeUnit.SECONDS);
+            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
             if (logInfo) {
                 LOGGER.info("NoSuchElementException" + e.toString());
             }
             return false;
         }
-        driver.manage().timeouts()
-                .implicitlyWait(2,
-                        TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
         return true;
     }
 

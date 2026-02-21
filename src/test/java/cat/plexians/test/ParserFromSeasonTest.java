@@ -32,7 +32,7 @@ public class ParserFromSeasonTest extends BaseWebDriver {
         Thread.sleep(4000);
 
         // Reviu
-        NavigationActions.hoverAndClick(driver, By.xpath("/html/body/div[2]/div[3]/div/div/div[1]/button"));
+        //NavigationActions.hoverAndClick(driver, By.xpath("/html/body/div[2]/div[3]/div/div/div[1]/button"));
 
         Thread.sleep(4000);
 
