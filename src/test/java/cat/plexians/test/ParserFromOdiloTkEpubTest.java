@@ -31,11 +31,11 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
     //Val per epub
     @Test
     public void initialTest() throws InterruptedException {
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-color-freezer-n-05-05-saga-den-freezer-00800843";
-        String isbn = "9788491466178";
-        String titolDelLlibre = "bola-de-drac-color-freezer";
-        String autorDelLlibre = "bola-de-drac-color-freezer";
-        String volumDelLibre = "05_05";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-color-cel-lula-n-02-06-00801703";
+        String isbn = "9788491736219";
+        String titolDelLlibre = "bola-de-drac-color-cel-lula";
+        String autorDelLlibre = "bola-de-drac-color-cel-lula";
+        String volumDelLibre = "02_06";
 
         String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + autorDelLlibre + File.separator + titolDelLlibre + File.separator + volumDelLibre + File.separator;
 
