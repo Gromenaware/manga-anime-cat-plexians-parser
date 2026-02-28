@@ -27,11 +27,11 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
     //Val per epub
     @Test
     public void initialTest() throws InterruptedException {
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/marmalade-boy-n-06-06-00663415";
-        String isbn = "9788491535003";
-        String titolDelLlibre = "marmalade_boy";
-        String autorDelLlibre = "marmalade_boy";
-        String volumDelLibre = "06_06";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-color-freezer-n-01-05-saga-den-freezer-00800841";
+        String isbn = "9788491463528";
+        String titolDelLlibre = "bola-de-drac-color-freezer";
+        String autorDelLlibre = "bola-de-drac-color-freezer";
+        String volumDelLibre = "01_05";
 
         String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + autorDelLlibre + File.separator + titolDelLlibre + File.separator + volumDelLibre + File.separator;
 
@@ -40,7 +40,7 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
 
         try {
             driver.get(baseBookUrl);
-            System.out.println("Accessing URL..." + baseBookUrl);
+            System.out.println("Accessing baseBookUrl..." + baseBookUrl);
             Thread.sleep(4000);
 
             // Handle cookies dialog if present

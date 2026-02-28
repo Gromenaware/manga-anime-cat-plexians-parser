@@ -65,9 +65,31 @@ public class WebDriverUtils {
             System.out.println("Running on Windows");
             System.setProperty("webdriver.gecko.driver", "src" + File.separator + "test" + File.separator + "resources" + File.separator + "webdriver" + File.separator + "geckodriver.exe");
         }
+        // 2. Setup Options
         FirefoxOptions options = new FirefoxOptions();
-        Capabilities capabilities = new DesiredCapabilities();
-        options = new FirefoxOptions().merge(capabilities);
+
+        // 1. Disable Enhanced Tracking Protection (The "Shield" icon fix)
+        options.addPreference("privacy.trackingprotection.enabled", false);
+        options.addPreference("privacy.trackingprotection.pbmode.enabled", false);
+
+        // 2. Accept ALL cookies (0 = Accept all, including third-party)
+        options.addPreference("network.cookie.cookieBehavior", 0);
+
+        // 3. Disable First-Party Isolation (Crucial for cross-domain library logins)
+        options.addPreference("privacy.firstparty.isolate", false);
+
+        // 4. Explicitly enable Local Storage and IndexedDB
+        options.addPreference("dom.storage.enabled", true);
+        options.addPreference("dom.indexedDB.enabled", true);
+
+        // Optional: Disable the "Delete cookies on close" feature just in case
+        options.addPreference("network.cookie.lifetimePolicy", 0);
+
+        // 3. Spoof a normal User-Agent (Optional but highly recommended)
+        // This makes your automated Firefox look exactly like a standard desktop Firefox
+        options.addPreference("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0");
+
+        // Initialize the driver with these permissive settings
         return new FirefoxDriver(options);
     }
 
