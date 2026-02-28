@@ -31,11 +31,11 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
     //Val per epub
     @Test
     public void initialTest() throws InterruptedException {
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-color-freezer-n-03-05-saga-den-freezer-00800842";
-        String isbn = "9788491464433";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-color-freezer-n-05-05-saga-den-freezer-00800843";
+        String isbn = "9788491466178";
         String titolDelLlibre = "bola-de-drac-color-freezer";
         String autorDelLlibre = "bola-de-drac-color-freezer";
-        String volumDelLibre = "03_05";
+        String volumDelLibre = "05_05";
 
         String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + autorDelLlibre + File.separator + titolDelLlibre + File.separator + volumDelLibre + File.separator;
 
@@ -43,41 +43,59 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
         parsingUtils.directoryCreation(pathForDownloads);
 
         try {
+            String baseUrl = parsingUtils.getBaseUrl(baseBookUrl);
             // 1. Define a smart wait (up to 10 seconds, but will proceed instantly if ready)
             WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
             // 2. Hit the base URL to initialize the SPA's local storage
-            System.out.println("Warming up the SPA at base URL...");
-            driver.get(baseBookUrl);
-
-            // Wait until the main body of the page is actually present in the DOM
-            wait.until(ExpectedConditions.presenceOfElementLocated(By.tagName("body")));
+            System.out.println("Warming up the SPA at base URL..." + baseUrl);
+            driver.get(baseUrl);
+            Thread.sleep(2000);
+            driver.navigate().refresh();
+            Thread.sleep(2000);
 
             // 3. Navigate to your specific book URL
             System.out.println("Accessing deep link: " + baseBookUrl);
             driver.get(baseBookUrl);
 
-            // 4. The Smart Refresh Logic
-            try {
-                // We set a shorter wait here (e.g., 3 seconds) just to check if the error pops up
-                WebDriverWait shortWait = new WebDriverWait(driver, Duration.ofSeconds(3));
+            // 4. The Smart Retry Loop Logic
+            int maxRetries = 3;
+            boolean pageLoaded = false;
 
-                // Look for the specific error text on the screen
-                WebElement errorText = shortWait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[contains(text(), 'An error has occurred and the application cannot be loaded')]")));
+            for (int i = 1; i <= maxRetries; i++) {
+                // Wait until the main body of the page is actually present in the DOM
+                wait.until(ExpectedConditions.presenceOfElementLocated(By.tagName("body")));
 
-                // If we find the error, we execute the refresh strategy
-                if (errorText.isDisplayed()) {
-                    System.out.println("⚠️ SPA storage error detected! Refreshing the page...");
-                    driver.navigate().refresh();
+                try {
+                    // We set a shorter wait here (3 seconds) just to check if the error pops up
+                    WebDriverWait shortWait = new WebDriverWait(driver, Duration.ofSeconds(3));
 
-                    // Wait for the error to disappear after the refresh
-                    wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//*[contains(text(), 'An error has occurred')]")));
-                    System.out.println("✅ Refresh successful, error cleared.");
+                    // Look for the specific error text on the screen
+                    WebElement errorText = shortWait.until(ExpectedConditions.presenceOfElementLocated(
+                            By.xpath("//*[contains(text(), 'An error has occurred and the application cannot be loaded')]")
+                    ));
+
+                    // If we find the error, we execute the refresh strategy
+                    if (errorText.isDisplayed()) {
+                        System.out.println("⚠️ Attempt " + i + ": SPA storage error detected! Refreshing the page...");
+                        driver.navigate().refresh();
+
+                        // Brief pause to allow the browser to initiate the reload before the loop restarts
+                        Thread.sleep(1000);
+                    }
+                } catch (TimeoutException e) {
+                    // If the shortWait times out, it means the error text NEVER appeared.
+                    // This is the happy path! The page loaded perfectly.
+                    System.out.println("✅ Page loaded successfully without the error on attempt " + i);
+                    pageLoaded = true;
+                    break; // Break out of the loop immediately!
                 }
-            } catch (TimeoutException e) {
-                // If the shortWait times out, it means the error text NEVER appeared.
-                // This is the happy path! The page loaded perfectly on the first try.
-                System.out.println("✅ Page loaded successfully without the error.");
+            }
+
+            // 5. Final safety check
+            if (!pageLoaded) {
+                System.out.println("❌ Failed to bypass the storage error after " + maxRetries + " attempts.");
+                // You can add logic here to skip the book or throw an exception
             }
 
 

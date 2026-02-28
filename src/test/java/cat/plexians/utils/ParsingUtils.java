@@ -2,6 +2,8 @@ package cat.plexians.utils;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.text.Normalizer;
 import java.util.List;
 
@@ -46,6 +48,33 @@ public class ParsingUtils {
                 System.out.println("unable to create bin directory");
             }
         }
+    }
+
+    public static String getBaseUrl(String fullUrl) {
+        try {
+            URI uri = new URI(fullUrl);
+
+            // Reconstruct the base URL using the scheme (http/https) and the host (domain)
+            String scheme = uri.getScheme();
+            String host = uri.getHost();
+
+            // Optional: Handle ports if they exist (e.g., localhost:8080)
+            int port = uri.getPort();
+
+            if (scheme != null && host != null) {
+                if (port == -1) {
+                    return scheme + "://" + host;
+                } else {
+                    return scheme + "://" + host + ":" + port;
+                }
+            }
+        } catch (URISyntaxException e) {
+            System.err.println("Invalid URL provided: " + fullUrl);
+            e.printStackTrace();
+        }
+
+        // Fallback in case of a malformed URL
+        return null;
     }
 
     public String cleanStringFromSpecialCharactersMp4(String input) {
