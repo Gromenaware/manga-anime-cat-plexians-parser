@@ -10,11 +10,15 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
 import java.io.File;
 import java.net.URL;
+import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -27,11 +31,11 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
     //Val per epub
     @Test
     public void initialTest() throws InterruptedException {
-        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-color-freezer-n-01-05-saga-den-freezer-00800841";
-        String isbn = "9788491463528";
+        String baseBookUrl = "https://biblioteca.ebiblio.cat/info/bola-de-drac-color-freezer-n-03-05-saga-den-freezer-00800842";
+        String isbn = "9788491464433";
         String titolDelLlibre = "bola-de-drac-color-freezer";
         String autorDelLlibre = "bola-de-drac-color-freezer";
-        String volumDelLibre = "01_05";
+        String volumDelLibre = "03_05";
 
         String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + autorDelLlibre + File.separator + titolDelLlibre + File.separator + volumDelLibre + File.separator;
 
@@ -39,9 +43,43 @@ public class ParserFromOdiloTkEpubTest extends BaseWebDriver {
         parsingUtils.directoryCreation(pathForDownloads);
 
         try {
+            // 1. Define a smart wait (up to 10 seconds, but will proceed instantly if ready)
+            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+            // 2. Hit the base URL to initialize the SPA's local storage
+            System.out.println("Warming up the SPA at base URL...");
             driver.get(baseBookUrl);
-            System.out.println("Accessing baseBookUrl..." + baseBookUrl);
-            Thread.sleep(4000);
+
+            // Wait until the main body of the page is actually present in the DOM
+            wait.until(ExpectedConditions.presenceOfElementLocated(By.tagName("body")));
+
+            // 3. Navigate to your specific book URL
+            System.out.println("Accessing deep link: " + baseBookUrl);
+            driver.get(baseBookUrl);
+
+            // 4. The Smart Refresh Logic
+            try {
+                // We set a shorter wait here (e.g., 3 seconds) just to check if the error pops up
+                WebDriverWait shortWait = new WebDriverWait(driver, Duration.ofSeconds(3));
+
+                // Look for the specific error text on the screen
+                WebElement errorText = shortWait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[contains(text(), 'An error has occurred and the application cannot be loaded')]")));
+
+                // If we find the error, we execute the refresh strategy
+                if (errorText.isDisplayed()) {
+                    System.out.println("⚠️ SPA storage error detected! Refreshing the page...");
+                    driver.navigate().refresh();
+
+                    // Wait for the error to disappear after the refresh
+                    wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//*[contains(text(), 'An error has occurred')]")));
+                    System.out.println("✅ Refresh successful, error cleared.");
+                }
+            } catch (TimeoutException e) {
+                // If the shortWait times out, it means the error text NEVER appeared.
+                // This is the happy path! The page loaded perfectly on the first try.
+                System.out.println("✅ Page loaded successfully without the error.");
+            }
+
 
             // Handle cookies dialog if present
             NavigationActions.hoverAndClick(driver, By.xpath("/html/body/app-root/app-modal-handler/opac-cookies-dialog/opac-dialog/div/div[2]/section/footer/div/div/opac-button[2]/button/span[2]"));
