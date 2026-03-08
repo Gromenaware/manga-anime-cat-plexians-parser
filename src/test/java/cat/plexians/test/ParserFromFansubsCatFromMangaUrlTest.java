@@ -65,7 +65,7 @@ public class ParserFromFansubsCatFromMangaUrlTest extends BaseWebDriver {
         // Print the episodes
         for (MangaEpisode episode : mangaEpisodes) {
             // Open the URL associated with the current episode
-            String episodeUrl = "https://escudellaicarndolla.xyz/Manga/" + episode.getFileId();
+            String episodeUrl = "https://fideusalacassola.xyz/Manga/" + episode.getFileId();
             System.out.println("Obrint Url: " + episodeUrl);
             driver.get(episodeUrl);
 
