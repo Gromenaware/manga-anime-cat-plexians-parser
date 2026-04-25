@@ -2,22 +2,12 @@ package cat.plexians.test;
 
 import cat.plexians.main.BaseWebDriver;
 import cat.plexians.utils.*;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
-import java.io.ByteArrayInputStream;
 import java.io.File;
-import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
-import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -52,9 +42,10 @@ public class ParserFromCantookTest extends BaseWebDriver {
         NavigationActions.hoverAndClick(driver, passwd);
         passwd.sendKeys(EBIBLIO_PASSWD);
 
-        Thread.sleep(45000);
+        Thread.sleep(2000);
 
         driver.get(activityUrl);
+
         System.out.println("Accessing URL..." + activityUrl);
         Thread.sleep(2000);
         NavigationActions.hoverAndClick(driver, By.xpath("//*[@id='drop-menu-1-controller']"));

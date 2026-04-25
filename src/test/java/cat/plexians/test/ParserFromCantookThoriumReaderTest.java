@@ -26,12 +26,14 @@ public class ParserFromCantookThoriumReaderTest extends BaseWebDriver {
         String activityUrl = "https://larioja.ebiblio.es/my_profile/activity";
         String isbn = "9788491733010";
         String nomDeLaSerie = "Bola_de_Drac_Color_Origen_i_Cinta_Vermella_03_08";
+        String titolDelLlibre = "Bola_de_Drac_Color_Origen_i_Cinta_Vermella_03_08";
+        String autorDelLlibre = "Bola_de_Drac_Color_Origen_i_Cinta_Vermella_03_08";
         String volumDelLibre = "03";
 
         System.out.println("Login for eBiblio: " + EBIBLIO_LOGIN);
         System.out.println("Passwd for eBiblio: " + EBIBLIO_PASSWD);
 
-        String pathForDownloads = File.separator + "Volumes" + File.separator + "TeraTwo" + File.separator + nomDeLaSerie + File.separator + volumDelLibre + File.separator;
+        String pathForDownloads = File.separator + "Volumes" + File.separator + "02_2TB" + File.separator + "manganime" + File.separator + titolDelLlibre + File.separator + autorDelLlibre + File.separator + volumDelLibre + File.separator;
 
         // Prepare directories
         parsingUtils.directoryCreation(pathForDownloads);
